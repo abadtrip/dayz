@@ -1,0 +1,25 @@
+19:07:29.117 [VehicleDestroyed] Expansion_Landrover_Blue (id=780A8E23BF45D46866F3E6977458E9C4 pos=<3207.604980, 1.494204, 1614.005493>)
+19:07:32.320 [VehicleDeleted] Expansion_Landrover_Blue (id=C8727BFB2E419BEFEBE5A3A2854F6A9F pos=<3207.604980, 1.494204, 1614.005493>)
+19:12:34.085 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer_Medical
+19:43:40.320 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+19:43:40.328 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:43:40.335 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+19:43:40.335 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:43:40.335 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:43:40.335 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:43:41.195 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:47:15.085 [AI Patrol] Spawning 2 East bots at <7508.007324, 23.830000, 3930.511230>
+19:47:16.125 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<7539.303711, 87.669998, 4631.452148>) Entered the safezone
+19:50:04.070 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<10495.734375, 1.692497, 5669.307617>) Left the safezone
+19:50:06.218 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<10499.549805, 1.664466, 5683.831543>) Entered the safezone
+19:59:21.109 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<10491.726563, 2.424112, 5659.370605>) Left the safezone
+19:59:56.148 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+20:00:32.562 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+20:00:32.578 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+20:00:32.578 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+20:00:32.578 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+20:00:32.578 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+20:00:32.578 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+20:00:33.445 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+20:00:56.750 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<10499.226563, 1.664466, 5681.490723>) Entered the safezone
+20:05:14.390 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)

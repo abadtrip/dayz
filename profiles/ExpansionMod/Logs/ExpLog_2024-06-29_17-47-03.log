@@ -1,0 +1,40 @@
+17:47:15.875 [VehicleDeleted] ExpansionMh6_Sunset (id=298F81011F44E52BFF9BBAA255113B7A pos=<0.000861, 1.692845, 0.535123>)
+17:47:15.890 [VehicleDeleted] RFWC_DragBoat_Punisher (id=C2E0D1F6AE4FCAAFAB97978FB02A084A pos=<0.003438, 0.133472, 0.062345>)
+17:49:20.335 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+17:49:20.347 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+17:49:20.347 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+17:49:20.351 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+17:49:20.351 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+17:49:20.351 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+17:49:21.121 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+17:49:52.316 [VehicleDeleted] RFWC_DragBoat_Punisher (id=4060B89DC04D0504B216D7A43A30EDBB pos=<0.003438, 0.133472, 0.062345>)
+17:49:52.324 [VirtualGarage] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<3202.472656, 2.441964, 1659.327759>) retrieved a vehicle "RFWC_DragBoat_Punisher" (GlobalID=800000008000000080000000800032A2 pos=<3198.875488, -0.954725, 1633.563721>)
+17:51:02.566 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+17:51:02.578 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+17:51:02.578 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+17:51:02.578 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+17:51:02.582 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+17:51:02.582 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+17:51:03.273 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+17:53:33.554 [VehicleDeleted] RFWC_DragBoat_Punisher (id=72628577684289E421C4AEA8F9A78D2A pos=<3198.875488, 0.043482, 1633.563721>)
+17:53:33.554 [VirtualGarage] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<3203.351318, 2.475447, 1659.523560>) stored a vehicle "RFWC_DragBoat_Punisher" (GlobalID=800000008000000080000000800032A2 pos=<3198.875488, -0.531146, 1633.563721>)
+17:53:33.628 [MissionAirdrop] An airdrop is heading towards "Sandy Bay" (pos=<4627.000000, 0.000000, 7507.000000> type=Random_Sandy Bay) with a ExpansionAirdropContainer_Medical
+17:55:10.929 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle The DragBoat - Red (id=1DDFCF60994FD01EAAA7F386B3BA7BB7 pos=<3187.314453, -0.215287, 1640.438965>) as driver
+17:55:13.878 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle The DragBoat - Blue (id=DEEC9658944C154420F7F2B46E8C31C6 pos=<3196.196777, 0.082388, 1636.017456>) as driver
+17:55:27.230 [Party] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+17:55:27.246 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+17:55:27.246 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+17:55:27.246 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+17:55:27.246 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+17:55:27.246 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+17:55:27.992 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+17:57:40.019 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle The DragBoat - Blue (id=DEEC9658944C154420F7F2B46E8C31C6 pos=<3237.461182, -0.181166, 1630.408813>)
+17:58:33.535 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle The DragBoat - Red (id=1DDFCF60994FD01EAAA7F386B3BA7BB7 pos=<3254.123779, 1.103725, 1829.752197>)
+17:59:12.367 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle The DragBoat - Red (id=1DDFCF60994FD01EAAA7F386B3BA7BB7 pos=<3226.888184, 0.183555, 1852.035400>) as driver
+17:59:20.371 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle The DragBoat - Blue (id=DEEC9658944C154420F7F2B46E8C31C6 pos=<3237.605225, 0.394943, 1629.741333>) as driver
+17:59:41.316 [Party] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+18:00:48.187 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle The DragBoat - Red (id=1DDFCF60994FD01EAAA7F386B3BA7BB7 pos=<3176.723145, -0.245993, 1656.453491>)
+18:04:25.410 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle The DragBoat - Blue (id=DEEC9658944C154420F7F2B46E8C31C6 pos=<3178.461914, 0.222507, 1647.214844>)
+18:04:41.941 [VehicleDeleted] RFWC_DragBoat_Blue (id=3990778A654D6C3358648D923F5FD4F9 pos=<0.003438, 0.133472, 0.062345>)
+18:14:07.695 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+18:14:07.710 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)

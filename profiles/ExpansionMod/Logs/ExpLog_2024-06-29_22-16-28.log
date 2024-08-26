@@ -1,0 +1,49 @@
+22:21:32.484 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+22:21:32.507 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+22:21:32.507 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+22:21:32.507 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+22:21:32.507 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+22:21:32.507 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+22:21:33.367 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+22:21:35.234 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+22:21:35.257 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+22:21:35.257 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+22:21:35.257 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+22:21:35.257 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+22:21:35.257 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+22:21:36.015 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+22:22:50.953 [VehicleDeleted] ExpansionUAZCargoRoofless (id=29B424794847F9DD0B3C7CB9BA05E712 pos=<-0.016775, 0.677601, 0.025196>)
+22:22:51.015 [VirtualGarage] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<3203.896729, 2.498557, 1659.678345>) retrieved a vehicle "ExpansionUAZCargoRoofless" (GlobalID=80000000800000008000000080003180 pos=<3199.021240, 2.146030, 1656.999023>)
+22:22:56.898 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle UAZ 469 Cargo Roofless (id=2B0A712B664262D5125B8D8F1C9C7BE0 pos=<3199.020508, 2.146163, 1656.998901>) as driver
+22:22:58.226 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] started vehicle UAZ 469 Cargo Roofless (id=2B0A712B664262D5125B8D8F1C9C7BE0 pos=<3199.020508, 2.146160, 1656.998901>)
+22:23:15.281 [MissionAirdrop] An airdrop is heading towards "Greenville" (pos=<4658.000000, 0.000000, 1414.000000> type=Random_Greenville) with a ExpansionAirdropContainer
+22:23:34.179 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] stopped vehicle UAZ 469 Cargo Roofless (id=2B0A712B664262D5125B8D8F1C9C7BE0 pos=<3200.409424, 2.521223, 1661.973633>)
+22:23:37.031 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle UAZ 469 Cargo Roofless (id=2B0A712B664262D5125B8D8F1C9C7BE0 pos=<3200.409424, 2.521220, 1661.973633>)
+22:24:47.265 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle UAZ 469 Cargo Roofless (id=2B0A712B664262D5125B8D8F1C9C7BE0 pos=<3200.409424, 2.521226, 1661.973877>) as driver
+22:24:53.812 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle UAZ 469 Cargo Roofless (id=2B0A712B664262D5125B8D8F1C9C7BE0 pos=<3200.409424, 2.521226, 1661.973877>)
+22:25:01.781 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle UAZ 469 Cargo Roofless (id=2B0A712B664262D5125B8D8F1C9C7BE0 pos=<3200.409424, 2.521212, 1661.973511>) as driver
+22:25:02.640 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] started vehicle UAZ 469 Cargo Roofless (id=2B0A712B664262D5125B8D8F1C9C7BE0 pos=<3200.409424, 2.521206, 1661.973511>)
+22:25:17.914 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle UAZ 469 Cargo Roofless (id=2B0A712B664262D5125B8D8F1C9C7BE0 pos=<3190.808838, 2.432261, 1666.829102>)
+22:25:22.968 [VehicleDeleted] ExpansionUAZCargoRoofless (id=2B0A712B664262D5125B8D8F1C9C7BE0 pos=<3190.808838, 2.432281, 1666.829468>)
+22:25:22.968 [VirtualGarage] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<3203.766113, 2.504667, 1659.807617>) stored a vehicle "ExpansionUAZCargoRoofless" (GlobalID=80000000800000008000000080003180 pos=<3190.808838, 2.432281, 1666.829468>)
+22:56:56.453 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+22:57:44.718 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+22:57:44.734 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+22:57:44.734 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+22:57:44.734 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+22:57:44.734 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+22:57:44.734 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+22:57:45.562 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+23:32:59.710 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle The Seadoo Camo (id=3529ECD79545DF9EB2513699C420221F pos=<3190.934082, -0.063130, 1639.143677>) as driver
+23:34:24.765 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle The Seadoo Camo (id=3529ECD79545DF9EB2513699C420221F pos=<3195.940186, 0.181032, 1638.567139>)
+23:41:55.664 [BaseRaiding] Land_BLR_House3 (<3212.315674, 2.515788, 1658.731812>) Code set by player "MGM_762" (ID = "6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=" at <3212.092041, 2.549230, 1657.184204>) and the code is 1911
+23:48:51.781 [VirtualGarage] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<3204.079590, 2.484047, 1659.412354>) retrieved a vehicle "ExpansionUAZCargoRoofless" (GlobalID=80000000800000008000000080003180 pos=<3190.808838, 2.432281, 1666.829468>)
+23:49:04.960 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle UAZ 469 Cargo Roofless (id=B2C3AD7EFF4F2D01209336A5343E5B61 pos=<3190.808105, 2.432343, 1666.831299>) as driver
+23:49:07.695 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] started vehicle UAZ 469 Cargo Roofless (id=B2C3AD7EFF4F2D01209336A5343E5B61 pos=<3190.808105, 2.432330, 1666.831177>)
+23:49:20.390 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] stopped vehicle UAZ 469 Cargo Roofless (id=B2C3AD7EFF4F2D01209336A5343E5B61 pos=<3198.804443, 2.055242, 1656.136475>)
+23:49:23.546 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle UAZ 469 Cargo Roofless (id=B2C3AD7EFF4F2D01209336A5343E5B61 pos=<3198.804443, 2.055245, 1656.136475>)
+23:54:36.867 [MissionAirdrop] An airdrop is heading towards "Oceanville" (pos=<10179.000000, 0.000000, 4722.000000> type=Random_Oceanville) with a ExpansionAirdropContainer_Military
+00:00:21.437 [VehicleDeleted] ExpansionUAZCargoRoofless (id=B2C3AD7EFF4F2D01209336A5343E5B61 pos=<3198.804688, 2.055266, 1656.136475>)
+00:00:21.445 [VirtualGarage] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<3203.618408, 2.484370, 1659.565308>) stored a vehicle "ExpansionUAZCargoRoofless" (GlobalID=80000000800000008000000080003180 pos=<3198.804688, 2.055266, 1656.136475>)
+00:10:00.515 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+00:10:13.750 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)

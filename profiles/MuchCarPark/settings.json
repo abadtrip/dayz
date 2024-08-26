@@ -1,0 +1,13 @@
+{
+    "version": 3,
+    "DeleteExpiredCars": 0,
+    "StoredCarLifetime": 2678400,
+    "StoreSaveInterval": 60.0,
+    "RefuelCars": 0,
+    "HealCars": 0,
+    "MaxStoredCarsPerPlayer": -1,
+    "StoreCargo": 0,
+    "ItemsBlacklist": [],
+    "AllowRetrieveWithinRadiusOnly": 0,
+    "RadiusRetrieve": 100
+}

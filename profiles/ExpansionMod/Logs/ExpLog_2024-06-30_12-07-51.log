@@ -1,0 +1,11 @@
+12:11:08.039 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<7553.272461, 88.244934, 4624.747070>) Entered the safezone
+12:11:08.039 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+12:11:08.058 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+12:11:08.062 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+12:11:08.062 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+12:11:08.062 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+12:11:08.062 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+12:11:08.773 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+12:11:27.343 [AI Patrol] Spawning 1 East bots at <7513.716797, 24.001799, 3914.172119>
+12:15:27.339 [MissionAirdrop] An airdrop is heading towards "Westbrook" (pos=<3614.000000, 0.000000, 6360.000000> type=Random_Westbrook) with a ExpansionAirdropContainer
+12:17:17.804 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)

@@ -1,0 +1,17 @@
+{
+    "m_Version": 2,
+    "NewsFeedTexts": [
+        {
+            "m_Title": "OSS PVE FUN",
+            "m_Text": "Please Join our discord click the link below"
+        }
+    ],
+    "NewsFeedLinks": [
+        {
+            "m_Label": "Discord",
+            "m_Icon": "set:expansion_iconset image:icon_discord",
+            "m_URL": "https://discord.gg/jaDdMPcP"
+        }
+        
+    ]
+}

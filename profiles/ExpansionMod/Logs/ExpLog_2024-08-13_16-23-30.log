@@ -1,0 +1,153 @@
+16:29:31.367 [MissionAirdrop] An airdrop is heading towards "Oldfield" (pos=<6117.000000, 0.000000, 7004.000000> type=Random_Oldfield) with a ExpansionAirdropContainer_Medical
+17:58:05.109 [MissionAirdrop] An airdrop is heading towards "Hazelands" (pos=<4539.000000, 0.000000, 2317.000000> type=Random_Hazelands) with a ExpansionAirdropContainer
+18:15:30.070 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+18:15:30.109 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:15:30.109 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+18:15:30.109 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:15:30.109 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:15:30.109 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:15:30.875 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:18:22.367 [VehicleCarKey] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<3206.042969, 1.494675, 1611.981934>) used the  ExpansionCarKey to unlock ExpansionMh6 (id=499FE3913144D91C947263A0B96B9FF0 pos=<3207.613770, 1.557297, 1611.300171>)
+18:18:41.093 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<3207.613770, 1.557297, 1611.300171>) as pilot
+18:18:49.257 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<3207.613770, 1.557298, 1611.300171>)
+18:20:03.562 [AI Patrol] Spawning 2 Greenville bots at <4757.596680, 12.901303, 2006.539429>
+18:20:45.804 [AI Patrol] Spawning 3 Airfield bots at <6010.226563, 73.984451, 3574.669189>
+18:21:57.140 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<7401.826660, 183.507538, 4502.605469>) Entered the safezone
+18:22:04.500 [AI Patrol] Spawning 3 SouthOfSmallville bots at <8574.576172, 3.770887, 3981.183838>
+18:22:14.726 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<8175.634766, 178.999557, 4616.002930>) Left the safezone
+18:24:23.429 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<10504.122070, 3.177462, 5661.266602>)
+18:24:34.296 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<10504.111328, 1.786580, 5661.273438>)
+18:24:45.453 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<10498.696289, 1.664466, 5678.220215>) Entered the safezone
+18:26:03.437 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<10450.915039, 2.874966, 5624.362793>) Left the safezone
+18:30:47.921 [AI Patrol] Despawning 2 Greenville bots (spawn position <4757.596680, 12.901303, 2006.539429>, 0/2 deceased)
+18:31:43.070 [AI Patrol] Despawning 3 Airfield bots (spawn position <6010.226563, 73.984451, 3574.669189>, 0/3 deceased)
+18:32:33.570 [AI Patrol] Despawning 3 SouthOfSmallville bots (spawn position <8574.576172, 3.770887, 3981.183838>, 0/3 deceased)
+18:41:32.937 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<10504.184570, 1.801180, 5661.089355>) as pilot
+18:41:39.632 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<10504.184570, 1.800936, 5661.089844>)
+18:43:42.703 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<7724.330078, 166.647064, 4612.208984>) Entered the safezone
+18:44:49.750 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<7551.656738, 88.035599, 4587.824219>)
+18:44:59.070 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<7551.583008, 87.727577, 4587.941406>)
+18:48:06.359 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase airbornemask x1 from the trader "Nbc (Lewis [Nbc])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>).
+18:48:06.367 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought airbornemask x1 from the trader "Nbc (Lewis [Nbc])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>) for a price of 200.
+18:48:14.992 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase nbcpantsgray x1 from the trader "Nbc (Lewis [Nbc])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>).
+18:48:15.000 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought nbcpantsgray x1 from the trader "Nbc (Lewis [Nbc])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>) for a price of 250.
+18:48:15.968 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase nbcpantsgray x1 from the trader "Nbc (Lewis [Nbc])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>).
+18:48:15.968 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought nbcpantsgray x1 from the trader "Nbc (Lewis [Nbc])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>) for a price of 250.
+18:48:18.281 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase nbcjacketgray x1 from the trader "Nbc (Lewis [Nbc])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>).
+18:48:18.281 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought nbcjacketgray x1 from the trader "Nbc (Lewis [Nbc])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>) for a price of 250.
+18:48:19.070 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase nbcjacketgray x1 from the trader "Nbc (Lewis [Nbc])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>).
+18:48:19.070 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought nbcjacketgray x1 from the trader "Nbc (Lewis [Nbc])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>) for a price of 250.
+18:48:28.585 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase gasmask_filter x1 from the trader "Nbc (Lewis [Nbc])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>).
+18:48:28.585 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought gasmask_filter x1 from the trader "Nbc (Lewis [Nbc])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>) for a price of 50000.
+18:49:21.953 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase gasmask_filter x1 from the trader "Nbc (Lewis [Nbc])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>).
+18:49:21.953 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought gasmask_filter x1 from the trader "Nbc (Lewis [Nbc])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>) for a price of 50000.
+18:55:04.765 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase sewingkit x1 from the trader "Components (Peter [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>).
+18:55:04.765 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought sewingkit x1 from the trader "Components (Peter [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>) for a price of 4.
+18:55:25.546 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase epoxyputty x1 from the trader "Components (Peter [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>).
+18:55:25.554 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought epoxyputty x1 from the trader "Components (Peter [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>) for a price of 15.
+18:55:48.820 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase fryingpan x1 from the trader "Components (Peter [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>).
+18:55:48.820 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought fryingpan x1 from the trader "Components (Peter [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>) for a price of 5.
+18:59:00.085 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase armband_pirates x1 from the trader "Clothing_Accessories (Maria [#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>).
+18:59:00.093 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought armband_pirates x1 from the trader "Clothing_Accessories (Maria [#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>) for a price of 15.
+19:00:18.906 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell ghilliehood_mossy x1 at the trader "Clothing_Accessories (Maria [#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>).
+19:00:18.906 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold ghilliehood_mossy x1 at the trader "Clothing_Accessories (Maria [#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>) and got 165.
+19:00:28.578 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase ghilliehood_woodland x1 from the trader "Clothing_Accessories (Maria [#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>).
+19:00:28.578 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought ghilliehood_woodland x1 from the trader "Clothing_Accessories (Maria [#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>) for a price of 220.
+19:01:56.171 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<7551.583008, 87.727570, 4587.941406>) as pilot
+19:02:00.468 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<7551.583008, 87.727570, 4587.941406>)
+19:02:51.054 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<7187.068848, 174.201797, 5151.268555>) Left the safezone
+19:03:35.859 [AI Patrol] Spawning 2 Powerplant bots at <5113.315918, 17.369686, 7137.801270>
+19:04:05.398 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<5150.497070, 225.400223, 7802.572754>) Entered the safezone
+19:04:56.898 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<5036.681152, 57.878468, 7967.368164>)
+19:05:06.523 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<5036.661621, 57.785553, 7967.385742>)
+19:14:09.867 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<5036.700684, 57.778297, 7967.408691>) as pilot
+19:14:15.132 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<5036.700684, 57.778347, 7967.408203>)
+19:15:07.406 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<4970.698242, 253.850433, 8610.042969>) Left the safezone
+19:15:44.218 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<5026.353516, 19.942820, 8826.118164>)
+19:15:55.781 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<5026.339355, 18.340666, 8826.134766>)
+19:16:03.718 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<5026.338867, 18.340675, 8826.135742>) as pilot
+19:16:08.656 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<5026.338867, 18.340588, 8826.135742>)
+19:17:12.781 [AI Patrol] Despawning 2 Powerplant bots (spawn position <5113.315918, 17.369686, 7137.801270>, 0/2 deceased)
+19:19:18.890 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<5234.288574, 48.811893, 12398.638672>) Entered the safezone
+19:19:50.625 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<5239.175781, 4.966435, 12407.138672>)
+19:19:57.781 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<5239.227539, 4.829623, 12407.092773>)
+19:21:10.218 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<5239.228516, 4.829519, 12407.092773>) as pilot
+19:21:14.257 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<5239.228516, 4.829512, 12407.092773>)
+19:21:58.296 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<4926.703613, 132.235718, 12626.402344>) Left the safezone
+19:22:36.789 [AI Patrol] Spawning 2 IslandCastle bots at <2807.127686, 34.213100, 13897.061523>
+19:22:56.031 [AI Object Patrol] Spawning 3 East bots at <3291.637451, 6.942540, 14957.777344>
+19:23:36.781 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<2279.684814, 130.481750, 14477.004883>) Entered the safezone
+19:25:44.757 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<2175.903809, 32.748260, 14614.358398>)
+19:26:01.179 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<2175.625732, 32.467220, 14614.696289>)
+19:28:54.320 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer_Basebuilding
+19:29:52.132 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase ammo_762x54 x400 from the trader "SNAFU (Mirek [SNAFU])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>).
+19:29:52.132 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought ammo_762x54 x400 from the trader "SNAFU (Mirek [SNAFU])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>) for a price of 800.
+19:33:26.359 [AI Object Patrol] Despawning 3 East bots (spawn position <3291.637451, 6.942540, 14957.777344>, 0/3 deceased)
+19:37:28.359 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell bz_hex1_bag2 x1 at the trader "Ballerz (Helga [#BallerZ])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>).
+19:37:28.359 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold bz_hex1_bag2 x1 at the trader "Ballerz (Helga [#BallerZ])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>) and got 7000.
+19:37:31.171 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell bz_tiger_bag2 x1 at the trader "Ballerz (Helga [#BallerZ])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>).
+19:37:31.171 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold bz_tiger_bag2 x1 at the trader "Ballerz (Helga [#BallerZ])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>) and got 7000.
+19:37:36.578 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell bz_beaniehat_dbz x1 at the trader "Ballerz (Helga [#BallerZ])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>).
+19:37:36.578 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold bz_beaniehat_dbz x1 at the trader "Ballerz (Helga [#BallerZ])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>) and got 3000.
+19:37:40.453 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell bz_abstract1_sneakers x1 at the trader "Ballerz (Helga [#BallerZ])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>).
+19:37:40.460 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold bz_abstract1_sneakers x1 at the trader "Ballerz (Helga [#BallerZ])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>) and got 7000.
+19:37:42.187 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell bz_monster_sneakers x1 at the trader "Ballerz (Helga [#BallerZ])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>).
+19:37:42.187 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold bz_monster_sneakers x1 at the trader "Ballerz (Helga [#BallerZ])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>) and got 7000.
+19:37:47.101 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell bz_tacthelmet_world x1 at the trader "Ballerz (Helga [#BallerZ])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>).
+19:37:47.109 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold bz_tacthelmet_world x1 at the trader "Ballerz (Helga [#BallerZ])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>) and got 3000.
+19:37:51.554 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell bz_tactgloves_wtiger x1 at the trader "Ballerz (Helga [#BallerZ])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>).
+19:37:51.562 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold bz_tactgloves_wtiger x1 at the trader "Ballerz (Helga [#BallerZ])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>) and got 3000.
+19:38:04.976 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell bz_vest_budweiser x1 at the trader "Ballerz (Helga [#BallerZ])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>).
+19:38:04.984 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold bz_vest_budweiser x1 at the trader "Ballerz (Helga [#BallerZ])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>) and got 8500.
+19:38:26.585 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+19:38:26.625 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:38:26.625 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:38:26.625 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:38:26.625 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:38:26.625 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:38:27.453 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:39:10.609 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<2124.145752, 26.957047, 14620.268555>) Entered the safezone
+19:40:36.125 [ATM] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has deposited 50000 on his ATM account.
+19:40:37.062 [ATM] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has deposited 50000 on his ATM account.
+19:40:38.156 [ATM] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has deposited 50000 on his ATM account.
+19:41:20.320 [AI Object Patrol] Spawning 3 West bots at <3505.402100, 8.347561, 15899.791992>
+19:42:33.218 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<1768.735596, 70.234428, 14696.158203>) Left the safezone
+19:42:46.031 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<1970.946533, 70.234428, 14618.591797>) Entered the safezone
+19:45:49.265 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<2175.625244, 32.467209, 14614.696289>) as pilot
+19:45:51.859 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<2175.625244, 32.467209, 14614.696289>) as passenger
+19:45:57.960 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<2175.625244, 32.467209, 14614.696289>)
+19:46:52.929 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<2511.047119, 130.286530, 14055.672852>) Left the safezone
+19:46:53.257 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<2519.542480, 130.814651, 14043.205078>) Left the safezone
+19:48:30.515 [AI Patrol] Spawning 2 SwampAltar bots at <3533.489014, 11.260865, 9454.657227>
+19:49:22.359 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<4973.821777, 224.388260, 8104.525879>) Entered the safezone
+19:49:22.617 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<4976.500000, 225.282486, 8098.320801>) Entered the safezone
+19:50:07.101 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<5039.958496, 59.693130, 7981.396484>)
+19:50:19.343 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<5042.509766, 58.586338, 7975.762207>)
+19:50:31.273 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<5042.492188, 58.585155, 7975.767578>)
+19:51:16.710 [AI Object Patrol] Despawning 3 West bots (spawn position <3505.402100, 8.347561, 15899.791992>, 0/3 deceased)
+19:52:35.148 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell crossbow_autumn x1 at the trader "Weapons (Mirek [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:52:35.148 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold crossbow_autumn x1 at the trader "Weapons (Mirek [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 600.
+19:54:04.625 [ATM] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has deposited 762866 on his ATM account.
+19:55:38.359 [AI Patrol] Despawning 2 IslandCastle bots (spawn position <2807.127686, 34.213100, 13897.061523>, 0/2 deceased)
+19:57:37.156 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<5042.349121, 58.375217, 7974.131348>) as passenger
+19:57:39.609 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<5042.348145, 58.375355, 7974.131836>) as pilot
+19:57:44.179 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<5042.345215, 58.375446, 7974.129883>)
+19:58:46.656 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<4884.561523, 194.705002, 7733.430176>) Left the safezone
+19:58:46.781 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<4884.948242, 194.702393, 7732.631348>) Left the safezone
+19:58:48.203 [AI Patrol] Despawning 2 SwampAltar bots (spawn position <3533.489014, 11.260865, 9454.657227>, 0/2 deceased)
+20:03:15.609 [AI Object Patrol] Spawning 2 East bots at <4501.915039, 30.850286, 1895.833862>
+20:03:54.992 [AI Object Patrol] Despawning 2 East bots (spawn position <4501.915039, 30.850286, 1895.833862>, 0/2 deceased)
+20:05:34.921 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<3208.824463, 1.730701, 1611.520508>)
+20:05:52.382 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<3208.852783, 1.575004, 1611.543823>)
+20:16:54.976 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<3208.514160, 1.574784, 1611.554199>)
+20:17:09.406 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+20:17:24.125 [VehicleCarKey] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<3207.117920, 1.618387, 1612.180908>) used the  ExpansionCarKey to lock ExpansionMh6 (id=499FE3913144D91C947263A0B96B9FF0 pos=<3208.513672, 1.574748, 1611.554565>)
+20:27:18.914 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+20:57:43.500 [MissionAirdrop] An airdrop is heading towards "Oldfield" (pos=<6117.000000, 0.000000, 7004.000000> type=Random_Oldfield) with a ExpansionAirdropContainer_Medical
+22:26:51.507 [MissionAirdrop] An airdrop is heading towards "Westbrook" (pos=<3614.000000, 0.000000, 6360.000000> type=Random_Westbrook) with a ExpansionAirdropContainer_Basebuilding
+23:56:47.609 [MissionAirdrop] An airdrop is heading towards "Warren-Cove" (pos=<6924.000000, 0.000000, 5473.000000> type=Random_Warren-Cove) with a ExpansionAirdropContainer_Basebuilding
+01:26:10.687 [MissionAirdrop] An airdrop is heading towards "Oceanville" (pos=<10179.000000, 0.000000, 4722.000000> type=Random_Oceanville) with a ExpansionAirdropContainer_Medical
+02:56:19.742 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer_Basebuilding
+04:26:12.851 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer_Basebuilding
+05:55:18.890 [MissionAirdrop] An airdrop is heading towards "Hazelands" (pos=<4539.000000, 0.000000, 2317.000000> type=Random_Hazelands) with a ExpansionAirdropContainer
+07:26:31.984 [MissionAirdrop] An airdrop is heading towards "Stonington" (pos=<6973.000000, 0.000000, 1701.000000> type=Random_Stonington) with a ExpansionAirdropContainer_Military

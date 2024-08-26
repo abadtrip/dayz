@@ -1,0 +1,31 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#BallerZ",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Backpack",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+       "BzBackPacks",
+		"BzMasks",
+		"BzTacHelmet",
+		"Bzvest",
+		"BzWings",
+		"BzBeanies",
+		"BzTacgloves",
+		"BzNvg",
+		"BzShoes",
+		"BzLeggings",
+		"BzShirt",
+		"BzPants",
+		"BzTops",
+ "BzTools"
+    ],
+    "Items": {}
+}

@@ -1,0 +1,175 @@
+18:56:47.718 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=
+18:56:47.726 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=
+18:56:47.726 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=
+18:56:47.726 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=
+18:59:22.078 [MissionAirdrop] An airdrop is heading towards "Hazelands" (pos=<4539.000000, 0.000000, 2317.000000> type=Random_Hazelands) with a ExpansionAirdropContainer_Military
+18:59:43.703 [AI Patrol] Spawning 2 Powerplant bots at <5049.004395, 25.680000, 6901.068848>
+19:00:28.289 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+19:00:28.296 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:00:28.296 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+19:00:28.296 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:00:28.296 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:00:28.296 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:00:29.187 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:01:34.328 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+19:01:34.367 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+19:01:34.367 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:01:34.367 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+19:01:34.367 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+19:01:34.367 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+19:01:35.179 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:01:53.539 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<6147.232910, 38.795998, 7082.271484>) as pilot
+19:02:25.203 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<6147.358887, 38.740597, 7081.905762>) as passenger
+19:02:31.234 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<6147.423828, 38.728794, 7081.898926>)
+19:04:04.695 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<6273.774902, 19.403496, 6429.142090>)
+19:04:06.414 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<6273.773438, 19.010696, 6429.144043>)
+19:04:11.617 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<6273.769531, 19.008947, 6429.144531>)
+19:04:14.296 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<6273.769531, 19.009018, 6429.144531>) as passenger
+19:04:20.453 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<6273.769531, 19.009016, 6429.144531>) as pilot
+19:04:22.828 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<6273.769531, 19.008982, 6429.144531>)
+19:07:30.875 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<3153.232666, 83.736938, 1642.255493>)
+19:09:06.257 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<3207.736084, 1.870319, 1611.542603>)
+19:09:16.187 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<3207.729492, 1.561752, 1611.488159>)
+19:13:06.882 [Safezone] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ= pos=<5277.091309, 25.429001, 7880.435547>) Entered the safezone
+19:14:36.281 [VehicleCarKey] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<3206.236328, 1.494541, 1613.013306>) used the  ExpansionCarKey to lock ExpansionMh6 (id=499FE3913144D91C947263A0B96B9FF0 pos=<3207.724854, 1.561747, 1611.489136>)
+19:14:36.820 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has send a requested to sell hippack_party x1 at the trader "Clothing_Accessories (Maria [#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:14:36.828 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has sold hippack_party x1 at the trader "Clothing_Accessories (Maria [#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 18.
+19:15:19.460 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has send a requested to sell b95 x1 at the trader "Weapons (Mirek [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:15:19.460 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has sold b95 x1 at the trader "Weapons (Mirek [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 318.
+19:16:09.906 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has send a requested to sell bandagedressing x1 at the trader "Medicals (Helga [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:16:09.906 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has sold bandagedressing x1 at the trader "Medicals (Helga [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 2.
+19:16:10.140 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has send a requested to sell bandagedressing x1 at the trader "Medicals (Helga [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:16:10.148 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has sold bandagedressing x1 at the trader "Medicals (Helga [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 2.
+19:16:10.343 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has send a requested to sell bandagedressing x1 at the trader "Medicals (Helga [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:16:10.351 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has sold bandagedressing x1 at the trader "Medicals (Helga [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 2.
+19:17:46.179 [VehicleCarKey] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<3206.642334, 1.804929, 1612.586914>) used the  ExpansionCarKey to unlock ExpansionMh6 (id=499FE3913144D91C947263A0B96B9FF0 pos=<3207.722168, 1.561741, 1611.489746>)
+19:17:57.843 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<3207.721924, 1.561742, 1611.489746>) as pilot
+19:18:03.453 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<3207.721924, 1.561741, 1611.489746>)
+19:18:53.656 [AI Patrol] Spawning 2 Greenville bots at <4780.407715, 11.095057, 2095.114014>
+19:19:15.789 [AI Patrol] Spawning 3 Airfield bots at <5430.304199, 74.489975, 3182.293213>
+19:20:15.742 [AI Patrol] Spawning 2 Milo-Ashville bots at <7751.659180, 42.909515, 3084.500488>
+19:20:55.296 [AI Patrol] Spawning 3 SouthOfSmallville bots at <8993.739258, 5.930000, 3352.350098>
+19:21:01.398 [AI Patrol] Spawning 2 CampEagle-NE bots at <9343.659180, 81.073303, 3637.132080>
+19:21:03.625 [Killfeed] AI Maria (CampEagle-NE) fell to their death.
+19:21:04.453 [Killfeed] AI Frida (CampEagle-NE) fell to their death.
+19:21:08.320 [AI Patrol] CampEagle-NE bots were wiped out (spawn position <9343.659180, 81.073303, 3637.132080>, 2/2 deceased)
+19:21:11.750 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has send a requested to sell brassknuckles_dull x1 at the trader "Weapons (Mirek [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:21:11.750 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has sold brassknuckles_dull x1 at the trader "Weapons (Mirek [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 8.
+19:21:15.429 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has send a requested to sell ammo_huntingbolt x1 at the trader "Weapons (Mirek [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:21:15.429 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has sold ammo_huntingbolt x1 at the trader "Weapons (Mirek [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 2.
+19:21:15.695 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has send a requested to sell ammo_huntingbolt x1 at the trader "Weapons (Mirek [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:21:15.695 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has sold ammo_huntingbolt x1 at the trader "Weapons (Mirek [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 2.
+19:21:15.890 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has send a requested to sell ammo_huntingbolt x1 at the trader "Weapons (Mirek [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:21:15.898 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has sold ammo_huntingbolt x1 at the trader "Weapons (Mirek [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 2.
+19:21:16.070 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has send a requested to sell ammo_huntingbolt x1 at the trader "Weapons (Mirek [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:21:16.070 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has sold ammo_huntingbolt x1 at the trader "Weapons (Mirek [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 2.
+19:21:27.046 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has send a requested to sell expansiongps x1 at the trader "Components (Hassan [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:21:27.046 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has sold expansiongps x1 at the trader "Components (Hassan [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 225.
+19:21:28.390 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has send a requested to sell gpsreceiver x1 at the trader "Components (Hassan [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:21:28.398 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has sold gpsreceiver x1 at the trader "Components (Hassan [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 56.
+19:22:50.015 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<10662.113281, 1.840838, 5209.040527>)
+19:22:56.414 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<10662.058594, 1.614943, 5209.136230>)
+19:23:52.695 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has send a requested to sell charcoaltablets x1 at the trader "Nbc (Indar [Nbc])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:23:52.703 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has sold charcoaltablets x1 at the trader "Nbc (Indar [Nbc])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 1.
+19:24:15.929 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has send a requested to sell powergenerator x1 at the trader "Components (Hassan [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:24:15.929 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has sold powergenerator x1 at the trader "Components (Hassan [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 2250.
+19:24:16.710 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has send a requested to sell barbedwire x1 at the trader "Components (Hassan [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:24:16.718 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has sold barbedwire x1 at the trader "Components (Hassan [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 253.
+19:24:16.953 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has send a requested to sell barbedwire x1 at the trader "Components (Hassan [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:24:16.953 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has sold barbedwire x1 at the trader "Components (Hassan [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 84.
+19:24:17.843 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has send a requested to sell rope x1 at the trader "Components (Hassan [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:24:17.851 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has sold rope x1 at the trader "Components (Hassan [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 3.
+19:24:22.867 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has send a requested to sell fabric x1 at the trader "Components (Hassan [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:24:22.867 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has sold fabric x1 at the trader "Components (Hassan [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 337.
+19:24:23.515 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has send a requested to sell fabric x1 at the trader "Components (Hassan [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:24:23.515 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has sold fabric x1 at the trader "Components (Hassan [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 337.
+19:24:23.882 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has send a requested to sell fabric x1 at the trader "Components (Hassan [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:24:23.882 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has sold fabric x1 at the trader "Components (Hassan [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 337.
+19:24:24.109 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has send a requested to sell fabric x1 at the trader "Components (Hassan [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:24:24.109 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has sold fabric x1 at the trader "Components (Hassan [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 337.
+19:24:29.765 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has send a requested to sell chemlight_white x1 at the trader "Components (Hassan [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:24:29.765 [Market] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has sold chemlight_white x1 at the trader "Components (Hassan [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 0.
+19:28:02.968 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<10662.060547, 1.614943, 5209.137695>) as pilot
+19:28:07.679 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<10662.060547, 1.614947, 5209.137695>)
+19:29:15.875 [Killfeed] NOVAKILLSFORYOU commited suicide with 300AC AR15 Tan.
+19:29:18.578 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<10515.490234, 3.023075, 5594.106445>)
+19:29:27.703 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<10515.481445, 2.991905, 5594.107422>)
+19:29:35.460 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+19:29:41.421 [VehicleCarKey] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<10513.553711, 2.992332, 5594.924805>) used the  ExpansionCarKey to lock ExpansionMh6 (id=499FE3913144D91C947263A0B96B9FF0 pos=<10515.482422, 2.992199, 5594.107422>)
+19:29:48.734 [AI Patrol] Despawning 2 Greenville bots (spawn position <4780.407715, 11.095057, 2095.114014>, 0/2 deceased)
+19:30:09.492 [AI Patrol] Despawning 3 Airfield bots (spawn position <5430.304199, 74.489975, 3182.293213>, 0/3 deceased)
+19:30:16.468 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+19:30:16.484 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:30:16.484 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:30:16.484 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:30:16.484 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:30:16.484 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:30:17.445 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:30:32.859 [SpawnSelection] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) spawned at <10339.783203, 7.476208, 5502.157227>
+19:31:09.664 [AI Patrol] Despawning 2 Milo-Ashville bots (spawn position <7751.659180, 42.909515, 3084.500488>, 0/2 deceased)
+19:31:29.453 [AI Object Patrol] Spawning 2 East bots at <5154.499023, 6.200936, 9083.839844>
+19:31:29.656 [AI Patrol] Despawning 3 SouthOfSmallville bots (spawn position <8993.739258, 5.930000, 3352.350098>, 0/3 deceased)
+19:31:52.062 [Safezone] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ= pos=<4968.387695, 29.154980, 8202.389648>) Left the safezone
+19:38:28.945 [AI Patrol] Despawning 2 Powerplant bots (spawn position <5049.004395, 25.680000, 6901.068848>, 0/2 deceased)
+19:41:42.312 [AI Object Patrol] Despawning 2 East bots (spawn position <5154.499023, 6.200936, 9083.839844>, 0/2 deceased)
+19:47:42.921 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=
+19:47:42.921 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=
+19:47:42.929 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=
+19:47:42.929 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=
+19:49:03.445 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<10499.638672, 1.775042, 5681.551270>) Entered the safezone
+19:49:28.265 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase sparkplug x1 from the trader "Boats (Frida [#STR_EXPANSION_MARKET_TRADER_BOATS])" in market zone "Boat trader" (pos=<10511.400391, 1.947106, 5723.339844>).
+19:49:28.265 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought sparkplug x1 from the trader "Boats (Frida [#STR_EXPANSION_MARKET_TRADER_BOATS])" in market zone "Boat trader" (pos=<10511.400391, 1.947106, 5723.339844>) for a price of 60.
+19:49:28.734 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase sparkplug x1 from the trader "Boats (Frida [#STR_EXPANSION_MARKET_TRADER_BOATS])" in market zone "Boat trader" (pos=<10511.400391, 1.947106, 5723.339844>).
+19:49:28.734 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought sparkplug x1 from the trader "Boats (Frida [#STR_EXPANSION_MARKET_TRADER_BOATS])" in market zone "Boat trader" (pos=<10511.400391, 1.947106, 5723.339844>) for a price of 60.
+19:50:24.250 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<10463.771484, 2.621233, 5636.903809>) Left the safezone
+19:55:03.945 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+19:55:46.609 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=
+19:55:46.609 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=
+19:55:46.609 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=
+19:55:46.609 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=
+19:57:04.492 [VehicleCarKey] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<10514.022461, 3.241907, 5594.422363>) used the  ExpansionCarKey to unlock ExpansionMh6 (id=499FE3913144D91C947263A0B96B9FF0 pos=<10515.458984, 2.992645, 5594.100098>)
+19:57:57.046 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+19:57:57.054 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:57:57.054 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:57:57.054 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:57:57.054 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:57:57.054 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:57:57.929 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:58:45.828 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+19:58:56.351 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<10515.458984, 2.992644, 5594.100098>) as passenger
+19:59:19.179 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+19:59:19.195 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+19:59:19.195 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:59:19.195 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+19:59:19.195 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+19:59:19.195 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+19:59:20.000 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:59:30.570 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<10515.458984, 2.992694, 5594.100098>) as pilot
+19:59:37.375 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<10515.458984, 2.992675, 5594.100098>)
+20:01:23.609 [AI Object Patrol] Spawning 2 East bots at <7525.571777, 24.610600, 3927.077637>
+20:02:39.695 [AI Object Patrol] Spawning 2 East bots at <4501.915039, 30.850286, 1895.833862>
+20:03:41.632 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<3201.944580, 59.249546, 1622.114990>)
+20:04:09.273 [AI Patrol] Spawning 3 Mountainville bots at <6628.680664, 2.383870, 8150.955566>
+20:04:22.992 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+20:04:58.789 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<3207.745361, 1.572199, 1611.869751>)
+20:05:07.882 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<3207.745361, 1.572322, 1611.869507>)
+20:05:23.492 [VehicleCarKey] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<3206.439453, 1.648843, 1612.803955>) used the  ExpansionCarKey to lock ExpansionMh6 (id=499FE3913144D91C947263A0B96B9FF0 pos=<3207.745605, 1.572321, 1611.869507>)
+20:11:59.875 [AI Object Patrol] Despawning 2 East bots (spawn position <7525.571777, 24.610600, 3927.077637>, 0/2 deceased)
+20:13:20.578 [AI Object Patrol] Despawning 2 East bots (spawn position <4501.915039, 30.850286, 1895.833862>, 0/2 deceased)
+20:20:55.125 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell bz_vest_pepsi x1 at the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+20:20:55.132 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold bz_vest_pepsi x1 at the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) and got 8500.
+20:24:14.632 [AI Patrol] Despawning 3 Mountainville bots (spawn position <6628.680664, 2.383870, 8150.955566>, 0/3 deceased)
+20:30:01.421 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+20:31:19.476 [MissionAirdrop] An airdrop is heading towards "Stonington" (pos=<6973.000000, 0.000000, 1701.000000> type=Random_Stonington) with a ExpansionAirdropContainer_Military
+20:34:52.398 [Safezone] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ= pos=<5271.129883, 5.115582, 12401.975586>) Entered the safezone
+20:38:32.367 [Safezone] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ= pos=<5283.480957, 4.798910, 12484.101563>) Entered the safezone
+20:38:39.242 [Safezone] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ= pos=<5290.824219, 4.782498, 12472.742188>) Entered the safezone
+20:39:17.250 [Safezone] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ= pos=<5303.994629, 4.971979, 12430.446289>) Entered the safezone
+20:39:58.148 [Safezone] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ= pos=<5305.044922, 4.782500, 12435.987305>) Entered the safezone
+20:40:57.687 [Safezone] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ= pos=<5243.397949, 4.782495, 12388.203125>) Left the safezone
+20:40:58.765 [Safezone] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ= pos=<5244.508301, 4.782500, 12395.479492>) Entered the safezone
+20:41:24.523 [Safezone] Player "Survivor" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ= pos=<5258.231934, 4.782487, 12566.483398>) Left the safezone
+20:43:26.960 [AI Object Patrol] Spawning 3 West bots at <5631.000000, 2.000000, 13966.000000>
+20:44:39.359 [AI Object Patrol] Spawning 2 East bots at <6186.865234, 26.661631, 14062.822266>
+20:58:54.664 [AI Object Patrol] Despawning 3 West bots (spawn position <5631.000000, 2.000000, 13966.000000>, 0/3 deceased)
+21:00:52.742 [AI Object Patrol] Despawning 2 East bots (spawn position <6186.865234, 26.661631, 14062.822266>, 0/2 deceased)

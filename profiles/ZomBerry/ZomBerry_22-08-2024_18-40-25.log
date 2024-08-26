@@ -1,0 +1,137 @@
+---------------------------------------------
+ZomBerry v0.6.4 log started at 22.08.2024 18:40:25
+
+22.08.2024 18:40:25 [ZomBerryCmdAPI]: INFO: Added category OnTarget
+22.08.2024 18:40:25 [ZomBerryCmdAPI]: INFO: Added function TPCur to category OnTarget
+22.08.2024 18:40:25 [ZomBerryCmdAPI]: INFO: Added function TPForward to category OnTarget
+22.08.2024 18:40:25 [ZomBerryCmdAPI]: INFO: Added function TPToTarget to category OnTarget
+22.08.2024 18:40:25 [ZomBerryCmdAPI]: INFO: Added function TPToAdmin to category OnTarget
+22.08.2024 18:40:25 [ZomBerryCmdAPI]: INFO: Added function HealTarget to category OnTarget
+22.08.2024 18:40:25 [ZomBerryCmdAPI]: INFO: Added function HealTargetPart to category OnTarget
+22.08.2024 18:40:25 [ZomBerryCmdAPI]: INFO: Added function GodTarget to category OnTarget
+22.08.2024 18:40:25 [ZomBerryCmdAPI]: INFO: Added function RepairTargetHands to category OnTarget
+22.08.2024 18:40:25 [ZomBerryCmdAPI]: INFO: Added function RefuelAndRepair to category OnTarget
+22.08.2024 18:40:25 [ZomBerryCmdAPI]: INFO: Added category ==
+22.08.2024 18:40:25 [ZomBerryCmdAPI]: INFO: Added function KillTarget to category ==
+22.08.2024 18:40:25 [ZomBerryCmdAPI]: INFO: Added function BiteTarget to category ==
+22.08.2024 18:40:25 [ZomBerryCmdAPI]: INFO: Added function StripTarget to category ==
+22.08.2024 18:40:25 [ZomBerryCmdAPI]: INFO: Added function RejectBellyTarget to category ==
+22.08.2024 18:40:25 [ZomBerryCmdAPI]: INFO: Added function PsycoTarget to category ==
+22.08.2024 18:40:25 [ZomBerryCmdAPI]: INFO: Added function SneezeTarget to category ==
+22.08.2024 18:40:25 [ZomBerryCmdAPI]: INFO: Added function SetHealthTarget to category ==
+22.08.2024 18:40:25 [ZomBerryCmdAPI]: INFO: Added function SetBloodTarget to category ==
+22.08.2024 18:40:25 [ZomBerryCmdAPI]: INFO: Added category OnServer
+22.08.2024 18:40:25 [ZomBerryCmdAPI]: INFO: Added function FreeCamAdm to category OnServer
+22.08.2024 18:40:25 [ZomBerryCmdAPI]: INFO: Added function TimeDay to category OnServer
+22.08.2024 18:40:25 [ZomBerryCmdAPI]: INFO: Added function TimeNight to category OnServer
+22.08.2024 18:40:25 [ZomBerryCmdAPI]: INFO: Added function SetTime to category OnServer
+22.08.2024 18:40:25 [ZomBerryCmdAPI]: INFO: Added function SetDate to category OnServer
+22.08.2024 18:40:25 [ZomBerryCmdAPI]: INFO: Added function SetWeather to category OnServer
+22.08.2024 18:40:25 [ZomBerryCmdAPI]: INFO: Added function DeleteObj to category OnServer
+22.08.2024 18:40:25 [ZomBerryConfig]: INFO: Using admins.cfg from Profile directory
+22.08.2024 18:40:25 [ZomBerryDbg]: Server ready, loading admin list from: $profile:ZomBerry\admins.cfg
+22.08.2024 18:40:25 [ZomBerryConfig]: admins.cfg loaded
+22.08.2024 18:40:25 [ZomBerryConfig]: Added admin: 76561198089301277
+22.08.2024 20:30:17 [ZomBerryDbg]: Auth Request ignored (not an admin) Major Loo (EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=)
+23.08.2024 16:28:23 [ZomBerryDbg]: Auth Request ignored (not an admin) micha (3lkUMJD7qBInfhkH6yGA08DTyjQtprYw6aqtU5DbppM=)
+23.08.2024 16:56:42 [ZomBerryDbg]: Auth respond to admin NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=)
+23.08.2024 16:59:29 [ZomBerryDbg]: Auth Request ignored (not an admin) MGM_762 (6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=)
+23.08.2024 17:05:17 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+23.08.2024 17:05:17 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+23.08.2024 17:15:43 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+23.08.2024 17:15:43 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+23.08.2024 17:16:23 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) spawned AlarmClock_Red at <3205.087891, 1.495147, 1621.720703>
+23.08.2024 17:16:24 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) spawned AlarmClock_Blue at <3205.041016, 1.512892, 1621.715210>
+23.08.2024 17:17:02 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+23.08.2024 17:17:02 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+23.08.2024 17:31:34 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+23.08.2024 17:31:34 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+23.08.2024 17:31:53 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) executed SetTime
+23.08.2024 18:39:09 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+23.08.2024 18:39:09 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+23.08.2024 18:39:55 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+23.08.2024 18:39:55 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+23.08.2024 18:40:05 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) teleported to position <162.558197, 130.012741, 1161.430664>
+23.08.2024 18:42:58 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+23.08.2024 18:42:58 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+23.08.2024 18:43:07 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) executed TPToAdmin on target MGM_762 (6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=)
+23.08.2024 18:57:26 [ZomBerryDbg]: Auth respond to admin NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=)
+23.08.2024 19:09:26 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+23.08.2024 19:09:26 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+23.08.2024 19:09:33 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) executed TPToAdmin on target MGM_762 (6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=)
+23.08.2024 19:20:33 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+23.08.2024 19:20:33 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+23.08.2024 19:20:40 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) executed TPToAdmin on target MGM_762 (6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=)
+23.08.2024 19:27:25 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+23.08.2024 19:27:25 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+23.08.2024 19:27:37 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) teleported to position <359.689209, 44.369373, 1252.982422>
+23.08.2024 19:27:53 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+23.08.2024 19:27:53 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+23.08.2024 19:27:59 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) teleported to position <360.911255, 44.496384, 1086.772461>
+23.08.2024 19:28:23 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+23.08.2024 19:28:23 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+23.08.2024 19:28:29 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) executed TPToTarget on target MGM_762 (6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=)
+23.08.2024 19:29:21 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+23.08.2024 19:29:21 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+23.08.2024 19:29:35 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) teleported to position <360.324768, 42.609280, 1118.401367>
+23.08.2024 19:44:30 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+23.08.2024 19:44:30 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+23.08.2024 19:44:37 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) executed SetWeather on target MGM_762 (6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=)
+23.08.2024 19:46:46 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+23.08.2024 19:46:46 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+23.08.2024 19:46:50 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) executed FreeCamAdm on target MGM_762 (6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=)
+23.08.2024 19:48:24 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+23.08.2024 19:48:24 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+23.08.2024 19:48:33 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) executed TimeDay
+23.08.2024 19:49:11 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+23.08.2024 19:49:11 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+23.08.2024 19:49:32 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) executed TPForward
+23.08.2024 19:49:59 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+23.08.2024 19:49:59 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+23.08.2024 19:50:11 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+23.08.2024 19:50:11 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+23.08.2024 19:50:56 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+23.08.2024 19:50:56 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+23.08.2024 19:53:27 [ZomBerryDbg]: Auth respond to admin NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=)
+23.08.2024 19:54:39 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+23.08.2024 19:54:39 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+23.08.2024 19:54:52 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) spawned Msp_Mannequin_Kit at <3213.850586, 2.530961, 1655.177979>
+23.08.2024 19:58:28 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+23.08.2024 19:58:28 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+23.08.2024 19:58:45 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) spawned ExpansionGenerator_Small at <3205.722168, 1.495147, 1620.758789>
+23.08.2024 19:58:48 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) spawned ExpansionGenerator_Large at <3204.583252, 2.517948, 1620.819336>
+23.08.2024 19:59:38 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+23.08.2024 19:59:38 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+23.08.2024 19:59:43 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) executed DeleteObj
+23.08.2024 19:59:49 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+23.08.2024 19:59:49 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+23.08.2024 19:59:52 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) executed DeleteObj
+23.08.2024 19:59:53 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) executed DeleteObj
+23.08.2024 19:59:56 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) executed DeleteObj
+23.08.2024 20:00:00 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+23.08.2024 20:00:00 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+23.08.2024 20:00:03 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) executed DeleteObj
+23.08.2024 20:00:05 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) executed DeleteObj
+23.08.2024 20:00:08 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) executed DeleteObj
+23.08.2024 20:00:10 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) executed DeleteObj
+23.08.2024 20:00:15 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+23.08.2024 20:00:15 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+23.08.2024 20:00:19 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) executed DeleteObj
+23.08.2024 20:00:20 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) executed DeleteObj
+23.08.2024 20:00:20 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) executed DeleteObj
+23.08.2024 20:00:26 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+23.08.2024 20:00:26 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+23.08.2024 20:00:31 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) executed DeleteObj
+23.08.2024 20:00:31 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) executed DeleteObj
+23.08.2024 20:00:38 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+23.08.2024 20:00:38 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+23.08.2024 20:00:51 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) spawned PowerGenerator at <3222.530273, 4.372911, 1671.169312>
+23.08.2024 20:01:00 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+23.08.2024 20:01:00 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+23.08.2024 20:01:09 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) spawned PowerGenerator at <3205.465332, 1.495147, 1623.074829>
+23.08.2024 20:01:20 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) spawned SparkPlug at <3205.280518, 1.596665, 1622.770264>
+23.08.2024 20:01:21 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) spawned SparkPlug at <3205.270020, 1.607254, 1622.731812>
+23.08.2024 20:01:31 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) spawned CanisterGasoline at <3205.248047, 1.619697, 1622.694580>
+23.08.2024 20:11:38 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+23.08.2024 20:11:38 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+23.08.2024 20:12:03 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) spawned jmc_GPSReceiver at <3202.476807, 1.493732, 1619.429321>

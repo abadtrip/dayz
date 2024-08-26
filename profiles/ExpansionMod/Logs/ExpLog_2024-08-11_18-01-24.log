@@ -1,0 +1,23 @@
+18:02:45.164 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<2159.487793, 20.369970, 14621.381836>) Entered the safezone
+18:02:45.164 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+18:02:45.175 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:02:45.179 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+18:02:45.179 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:02:45.179 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:02:45.179 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:02:45.187 [AI Object Patrol] Spawning 2 West bots at <2720.424561, 7.754950, 14721.131836>
+18:02:45.214 [AI Patrol] Spawning 2 IslandCastle bots at <2814.354004, 20.579512, 13887.982422>
+18:02:46.039 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:06:20.019 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase bz_firstaid_kit x1 from the trader "MEDS (Naomi [MEDS])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>).
+18:06:20.023 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought bz_firstaid_kit x1 from the trader "MEDS (Naomi [MEDS])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>) for a price of 5000.
+18:06:23.535 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<2162.792969, 20.369957, 14619.152344>) Entered the safezone
+18:06:23.535 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+18:06:23.546 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:06:23.546 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:06:23.550 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:06:23.550 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:06:23.550 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:06:24.441 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:07:21.546 [MissionAirdrop] An airdrop is heading towards "Hazelands" (pos=<4539.000000, 0.000000, 2317.000000> type=Random_Hazelands) with a ExpansionAirdropContainer_Medical
+18:12:45.875 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+18:12:54.062 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)

@@ -1,0 +1,237 @@
+{
+    "m_Version": 3,
+    "m_TerritoryID": 0,
+    "m_OwnerUID": "_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=",
+    "m_Vehicles": [
+        {
+            "m_OwnerUIDs": [
+                "zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg="
+            ],
+            "m_ClassName": "RFWC_Seadoo_Camo",
+            "m_Position": [
+                3188.355712890625,
+                0.0687938928604126,
+                1615.1142578125
+            ],
+            "m_Orientation": [
+                120.08769989013672,
+                0.5124806761741638,
+                0.4372072219848633
+            ],
+            "m_GlobalID": [
+                -2147483648,
+                -2147483648,
+                -2147483648,
+                -2147469609
+            ],
+            "m_SkinName": ""
+        },
+        {
+            "m_OwnerUIDs": [
+                "_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04="
+            ],
+            "m_ClassName": "RFWC_Zodiac_Orange",
+            "m_Position": [
+                3203.281494140625,
+                0.007142573595046997,
+                1603.488525390625
+            ],
+            "m_Orientation": [
+                26.801998138427736,
+                -0.08137047290802002,
+                0.07246074080467224
+            ],
+            "m_GlobalID": [
+                -2147483648,
+                -2147483648,
+                -2147483648,
+                -2147466955
+            ],
+            "m_SkinName": ""
+        },
+        {
+            "m_OwnerUIDs": [
+                "6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4="
+            ],
+            "m_ClassName": "ExpansionBus_Red",
+            "m_Position": [
+                3196.1376953125,
+                2.674879789352417,
+                1670.72119140625
+            ],
+            "m_Orientation": [
+                -161.1602783203125,
+                -0.9099026918411255,
+                0.809720516204834
+            ],
+            "m_GlobalID": [
+                -2147483648,
+                -2147483648,
+                -2147483648,
+                -2147469437
+            ],
+            "m_SkinName": "Red"
+        },
+        {
+            "m_OwnerUIDs": [
+                "_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04="
+            ],
+            "m_ClassName": "RFWC_DragBoat_Red",
+            "m_Position": [
+                3190.553955078125,
+                -0.7236616015434265,
+                1610.490478515625
+            ],
+            "m_Orientation": [
+                110.1153793334961,
+                0.05756136775016785,
+                -0.33904415369033816
+            ],
+            "m_GlobalID": [
+                -2147483648,
+                -2147483648,
+                -2147483648,
+                -2147446908
+            ],
+            "m_SkinName": ""
+        },
+        {
+            "m_OwnerUIDs": [
+                "6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4="
+            ],
+            "m_ClassName": "ExpansionUh1h",
+            "m_Position": [
+                3203.241943359375,
+                2.834462881088257,
+                1697.899658203125
+            ],
+            "m_Orientation": [
+                -94.72412872314453,
+                -1.1147069931030274,
+                -0.000006778110673621995
+            ],
+            "m_GlobalID": [
+                -2147483648,
+                -2147483648,
+                -2147483648,
+                -2147434275
+            ],
+            "m_SkinName": "Green"
+        },
+        {
+            "m_OwnerUIDs": [
+                "_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04="
+            ],
+            "m_ClassName": "Expansion_Landrover",
+            "m_Position": [
+                3201.56982421875,
+                2.6248421669006349,
+                1660.9393310546876
+            ],
+            "m_Orientation": [
+                -163.3535919189453,
+                -3.4622201919555666,
+                -0.3301841914653778
+            ],
+            "m_GlobalID": [
+                -2147483648,
+                -2147483648,
+                -2147483648,
+                -2147410055
+            ],
+            "m_SkinName": "orange"
+        },
+        {
+            "m_OwnerUIDs": [
+                "_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04="
+            ],
+            "m_ClassName": "Harley_Davidson_RUS_green",
+            "m_Position": [
+                3203.966064453125,
+                1.4868574142456055,
+                1638.6002197265626
+            ],
+            "m_Orientation": [
+                9.408024787902832,
+                -0.11128631234169007,
+                -0.23549789190292359
+            ],
+            "m_GlobalID": [
+                -2147483648,
+                -2147483648,
+                -2147483648,
+                -2147345626
+            ],
+            "m_SkinName": ""
+        },
+        {
+            "m_OwnerUIDs": [
+                "_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04="
+            ],
+            "m_ClassName": "vino_RF",
+            "m_Position": [
+                3194.844970703125,
+                1.3328204154968262,
+                1652.249267578125
+            ],
+            "m_Orientation": [
+                151.11837768554688,
+                -4.332701683044434,
+                8.248037338256836
+            ],
+            "m_GlobalID": [
+                -2147483648,
+                -2147483648,
+                -2147483648,
+                -2147354229
+            ],
+            "m_SkinName": ""
+        },
+        {
+            "m_OwnerUIDs": [
+                "6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4="
+            ],
+            "m_ClassName": "ExpansionMerlin",
+            "m_Position": [
+                3222.189208984375,
+                1.444209337234497,
+                1618.650390625
+            ],
+            "m_Orientation": [
+                -79.88612365722656,
+                0.20381182432174684,
+                0.08914577960968018
+            ],
+            "m_GlobalID": [
+                -2147483648,
+                -2147483648,
+                -2147483648,
+                -2147310325
+            ],
+            "m_SkinName": "green"
+        },
+        {
+            "m_OwnerUIDs": [
+                "6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4="
+            ],
+            "m_ClassName": "ExpansionUAZCargoRoofless",
+            "m_Position": [
+                3193.287353515625,
+                2.7043349742889406,
+                1676.0341796875
+            ],
+            "m_Orientation": [
+                -141.1705780029297,
+                -1.1142401695251465,
+                0.09408329427242279
+            ],
+            "m_GlobalID": [
+                -2147483648,
+                -2147483648,
+                -2147483648,
+                -2147434527
+            ],
+            "m_SkinName": "Green"
+        }
+    ]
+}

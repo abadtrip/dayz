@@ -1,0 +1,40 @@
+19:52:45.867 [Party] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+19:52:45.875 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+19:52:45.875 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+19:52:45.875 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+19:52:45.882 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+19:52:45.882 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+19:52:46.617 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:53:39.132 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<2161.617188, 20.369968, 14618.786133>) Entered the safezone
+19:53:39.132 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+19:53:39.140 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:53:39.140 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:53:39.140 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:53:39.140 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:53:39.140 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:53:39.148 [AI Patrol] Spawning 2 IslandCastle bots at <2761.397949, 40.232800, 13869.708984>
+19:53:40.093 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:53:42.164 [Killfeed] AI Eva (IslandCastle) fell to their death.
+19:55:00.929 [VehicleEnter] Player 1DEADMANWALKIN [uid=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=] entered vehicle Harley Davidson (id=FDA3B1002B461D48BF2C4DB8551CDE2D pos=<5976.394531, 6.394011, 8476.486328>) as driver
+19:55:58.007 [VehicleEngine] Player 1DEADMANWALKIN [uid=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=] started vehicle Harley Davidson (id=FDA3B1002B461D48BF2C4DB8551CDE2D pos=<5976.394531, 6.394019, 8476.486328>)
+19:56:43.726 [MissionAirdrop] An airdrop is heading towards "Sandy Bay" (pos=<4627.000000, 0.000000, 7507.000000> type=Random_Sandy Bay) with a ExpansionAirdropContainer_Military
+19:56:48.539 [AI Object Patrol] Spawning 2 East bots at <7103.325684, 7.401631, 8735.486328>
+19:56:51.515 [AI Patrol] Spawning 3 Mountainville bots at <7180.542969, 9.534856, 8495.997070>
+19:57:07.460 [VehicleLeave] Player 1DEADMANWALKIN [uid=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=] left vehicle Harley Davidson (id=FDA3B1002B461D48BF2C4DB8551CDE2D pos=<6227.460938, 16.035376, 8480.207031>)
+19:57:15.679 [VehicleEnter] Player 1DEADMANWALKIN [uid=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=] entered vehicle Harley Davidson (id=FDA3B1002B461D48BF2C4DB8551CDE2D pos=<6227.460938, 16.035378, 8480.207031>) as driver
+19:57:21.570 [VehicleEngine] Player 1DEADMANWALKIN [uid=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=] started vehicle Harley Davidson (id=FDA3B1002B461D48BF2C4DB8551CDE2D pos=<6227.460938, 16.035429, 8480.207031>)
+19:59:12.937 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+19:59:51.578 [AI Object Patrol] Spawning 2 East bots at <5154.499023, 6.200936, 9083.839844>
+20:00:51.070 [Killfeed] AI Rolf (East) got killed by AI Seth (Mountainville) with M4-A1 from a distance of 51 m.
+20:02:42.734 [VehicleLeave] Player 1DEADMANWALKIN [uid=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=] left vehicle Harley Davidson (id=FDA3B1002B461D48BF2C4DB8551CDE2D pos=<5418.079102, 5.021981, 9180.322266>)
+20:06:43.585 [VehicleEnter] Player 1DEADMANWALKIN [uid=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=] entered vehicle Harley Davidson (id=FDA3B1002B461D48BF2C4DB8551CDE2D pos=<5418.079102, 5.023935, 9180.323242>) as driver
+20:06:45.945 [VehicleEngine] Player 1DEADMANWALKIN [uid=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=] started vehicle Harley Davidson (id=FDA3B1002B461D48BF2C4DB8551CDE2D pos=<5418.079102, 5.023935, 9180.323242>)
+20:08:15.578 [VehicleEngine] Player 1DEADMANWALKIN [uid=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=] stopped vehicle Harley Davidson (id=FDA3B1002B461D48BF2C4DB8551CDE2D pos=<5638.063477, 10.128944, 8964.920898>)
+20:08:18.898 [VehicleEngine] Player 1DEADMANWALKIN [uid=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=] started vehicle Harley Davidson (id=FDA3B1002B461D48BF2C4DB8551CDE2D pos=<5638.063477, 10.128945, 8964.920898>)
+20:08:29.343 [VehicleEngine] Player 1DEADMANWALKIN [uid=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=] stopped vehicle Harley Davidson (id=FDA3B1002B461D48BF2C4DB8551CDE2D pos=<5640.733398, 10.317448, 8966.611328>)
+20:08:32.320 [VehicleLeave] Player 1DEADMANWALKIN [uid=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=] left vehicle Harley Davidson (id=FDA3B1002B461D48BF2C4DB8551CDE2D pos=<5640.733398, 10.317448, 8966.611328>)
+20:09:04.343 [AI Patrol] Despawning 1 IslandCastle bots (spawn position <2761.397949, 40.232800, 13869.708984>, 1/2 deceased)
+20:09:39.445 [AI Object Patrol] Despawning 1 East bots (spawn position <7103.325684, 7.401631, 8735.486328>, 1/2 deceased)
+20:09:59.078 [AI Patrol] Despawning 3 Mountainville bots (spawn position <7180.542969, 9.534856, 8495.997070>, 0/3 deceased)
+20:11:01.687 [Killfeed] AI Guo (East) got killed by 1DEADMANWALKIN with Kivaari Tan from a distance of 334 m.
+20:11:23.804 [Party] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)

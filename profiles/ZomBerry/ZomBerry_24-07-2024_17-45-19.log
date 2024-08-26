@@ -1,0 +1,45 @@
+---------------------------------------------
+ZomBerry v0.6.4 log started at 24.07.2024 17:45:19
+
+24.07.2024 17:45:19 [ZomBerryCmdAPI]: INFO: Added category OnTarget
+24.07.2024 17:45:19 [ZomBerryCmdAPI]: INFO: Added function TPCur to category OnTarget
+24.07.2024 17:45:19 [ZomBerryCmdAPI]: INFO: Added function TPForward to category OnTarget
+24.07.2024 17:45:19 [ZomBerryCmdAPI]: INFO: Added function TPToTarget to category OnTarget
+24.07.2024 17:45:19 [ZomBerryCmdAPI]: INFO: Added function TPToAdmin to category OnTarget
+24.07.2024 17:45:19 [ZomBerryCmdAPI]: INFO: Added function HealTarget to category OnTarget
+24.07.2024 17:45:19 [ZomBerryCmdAPI]: INFO: Added function HealTargetPart to category OnTarget
+24.07.2024 17:45:19 [ZomBerryCmdAPI]: INFO: Added function GodTarget to category OnTarget
+24.07.2024 17:45:19 [ZomBerryCmdAPI]: INFO: Added function RepairTargetHands to category OnTarget
+24.07.2024 17:45:19 [ZomBerryCmdAPI]: INFO: Added function RefuelAndRepair to category OnTarget
+24.07.2024 17:45:19 [ZomBerryCmdAPI]: INFO: Added category ==
+24.07.2024 17:45:19 [ZomBerryCmdAPI]: INFO: Added function KillTarget to category ==
+24.07.2024 17:45:19 [ZomBerryCmdAPI]: INFO: Added function BiteTarget to category ==
+24.07.2024 17:45:19 [ZomBerryCmdAPI]: INFO: Added function StripTarget to category ==
+24.07.2024 17:45:19 [ZomBerryCmdAPI]: INFO: Added function RejectBellyTarget to category ==
+24.07.2024 17:45:19 [ZomBerryCmdAPI]: INFO: Added function PsycoTarget to category ==
+24.07.2024 17:45:19 [ZomBerryCmdAPI]: INFO: Added function SneezeTarget to category ==
+24.07.2024 17:45:19 [ZomBerryCmdAPI]: INFO: Added function SetHealthTarget to category ==
+24.07.2024 17:45:19 [ZomBerryCmdAPI]: INFO: Added function SetBloodTarget to category ==
+24.07.2024 17:45:19 [ZomBerryCmdAPI]: INFO: Added category OnServer
+24.07.2024 17:45:19 [ZomBerryCmdAPI]: INFO: Added function FreeCamAdm to category OnServer
+24.07.2024 17:45:19 [ZomBerryCmdAPI]: INFO: Added function TimeDay to category OnServer
+24.07.2024 17:45:19 [ZomBerryCmdAPI]: INFO: Added function TimeNight to category OnServer
+24.07.2024 17:45:19 [ZomBerryCmdAPI]: INFO: Added function SetTime to category OnServer
+24.07.2024 17:45:19 [ZomBerryCmdAPI]: INFO: Added function SetDate to category OnServer
+24.07.2024 17:45:19 [ZomBerryCmdAPI]: INFO: Added function SetWeather to category OnServer
+24.07.2024 17:45:19 [ZomBerryCmdAPI]: INFO: Added function DeleteObj to category OnServer
+24.07.2024 17:45:19 [ZomBerryConfig]: INFO: Using admins.cfg from Profile directory
+24.07.2024 17:45:19 [ZomBerryDbg]: Server ready, loading admin list from: $profile:ZomBerry\admins.cfg
+24.07.2024 17:45:19 [ZomBerryConfig]: admins.cfg loaded
+24.07.2024 17:45:19 [ZomBerryConfig]: Added admin: 76561198089301277
+24.07.2024 18:06:36 [ZomBerryDbg]: Auth respond to admin NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=)
+24.07.2024 18:08:55 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+24.07.2024 18:08:55 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+24.07.2024 18:09:08 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) teleported to position <10502.530273, 2.741096, 5650.359375>
+24.07.2024 18:09:46 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+24.07.2024 18:09:46 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+24.07.2024 18:10:01 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) teleported to position <3184.461426, 2.711246, 1699.114258>
+24.07.2024 18:10:58 [ZomBerryDbg]: Auth respond to admin NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=)
+24.07.2024 18:11:52 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+24.07.2024 18:11:52 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+24.07.2024 18:12:18 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) teleported to position <5257.002930, 4.770000, 12458.449219>

@@ -1,0 +1,47 @@
+---------------------------------------------
+ZomBerry v0.6.4 log started at 18.08.2024 11:24:18
+
+18.08.2024 11:24:18 [ZomBerryCmdAPI]: INFO: Added category OnTarget
+18.08.2024 11:24:18 [ZomBerryCmdAPI]: INFO: Added function TPCur to category OnTarget
+18.08.2024 11:24:18 [ZomBerryCmdAPI]: INFO: Added function TPForward to category OnTarget
+18.08.2024 11:24:18 [ZomBerryCmdAPI]: INFO: Added function TPToTarget to category OnTarget
+18.08.2024 11:24:18 [ZomBerryCmdAPI]: INFO: Added function TPToAdmin to category OnTarget
+18.08.2024 11:24:18 [ZomBerryCmdAPI]: INFO: Added function HealTarget to category OnTarget
+18.08.2024 11:24:18 [ZomBerryCmdAPI]: INFO: Added function HealTargetPart to category OnTarget
+18.08.2024 11:24:18 [ZomBerryCmdAPI]: INFO: Added function GodTarget to category OnTarget
+18.08.2024 11:24:18 [ZomBerryCmdAPI]: INFO: Added function RepairTargetHands to category OnTarget
+18.08.2024 11:24:18 [ZomBerryCmdAPI]: INFO: Added function RefuelAndRepair to category OnTarget
+18.08.2024 11:24:18 [ZomBerryCmdAPI]: INFO: Added category ==
+18.08.2024 11:24:18 [ZomBerryCmdAPI]: INFO: Added function KillTarget to category ==
+18.08.2024 11:24:18 [ZomBerryCmdAPI]: INFO: Added function BiteTarget to category ==
+18.08.2024 11:24:18 [ZomBerryCmdAPI]: INFO: Added function StripTarget to category ==
+18.08.2024 11:24:18 [ZomBerryCmdAPI]: INFO: Added function RejectBellyTarget to category ==
+18.08.2024 11:24:18 [ZomBerryCmdAPI]: INFO: Added function PsycoTarget to category ==
+18.08.2024 11:24:18 [ZomBerryCmdAPI]: INFO: Added function SneezeTarget to category ==
+18.08.2024 11:24:18 [ZomBerryCmdAPI]: INFO: Added function SetHealthTarget to category ==
+18.08.2024 11:24:18 [ZomBerryCmdAPI]: INFO: Added function SetBloodTarget to category ==
+18.08.2024 11:24:18 [ZomBerryCmdAPI]: INFO: Added category OnServer
+18.08.2024 11:24:18 [ZomBerryCmdAPI]: INFO: Added function FreeCamAdm to category OnServer
+18.08.2024 11:24:18 [ZomBerryCmdAPI]: INFO: Added function TimeDay to category OnServer
+18.08.2024 11:24:18 [ZomBerryCmdAPI]: INFO: Added function TimeNight to category OnServer
+18.08.2024 11:24:18 [ZomBerryCmdAPI]: INFO: Added function SetTime to category OnServer
+18.08.2024 11:24:18 [ZomBerryCmdAPI]: INFO: Added function SetDate to category OnServer
+18.08.2024 11:24:18 [ZomBerryCmdAPI]: INFO: Added function SetWeather to category OnServer
+18.08.2024 11:24:18 [ZomBerryCmdAPI]: INFO: Added function DeleteObj to category OnServer
+18.08.2024 11:24:18 [ZomBerryConfig]: INFO: Using admins.cfg from Profile directory
+18.08.2024 11:24:18 [ZomBerryDbg]: Server ready, loading admin list from: $profile:ZomBerry\admins.cfg
+18.08.2024 11:24:18 [ZomBerryConfig]: admins.cfg loaded
+18.08.2024 11:24:18 [ZomBerryConfig]: Added admin: 76561198089301277
+18.08.2024 12:54:00 [ZomBerryDbg]: Auth Request ignored (not an admin) MGM_762 (6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=)
+18.08.2024 14:26:16 [ZomBerryDbg]: Auth respond to admin NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=)
+18.08.2024 14:26:34 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+18.08.2024 14:26:34 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+18.08.2024 14:26:44 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) teleported to position <5097.017090, 59.453178, 7988.254883>
+18.08.2024 14:59:38 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+18.08.2024 14:59:38 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+18.08.2024 14:59:50 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) spawned ExpansionATM_3 at <10492.426758, 2.379755, 5660.181152>
+18.08.2024 14:59:51 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) spawned ExpansionATM_2 at <10492.538086, 2.449850, 5660.463379>
+18.08.2024 14:59:52 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) spawned ExpansionATM_1 at <10492.650391, 2.518759, 5660.745605>
+18.08.2024 15:00:11 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+18.08.2024 15:00:11 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+18.08.2024 15:00:24 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) spawned ExpansionATM_1 at <10492.751953, 3.668953, 5660.141602>

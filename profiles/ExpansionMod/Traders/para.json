@@ -1,0 +1,21 @@
+{
+  "m_Version": 12,
+  "DisplayName": "DO U WANT TO GO UP OR DOWN",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Skull 1",
+  "DisplayCurrencyName": "",
+  "DisplayCurrencyValue": 1,
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "Categories": [
+    "flyingandfalling",
+"Liquids",
+"sparkplug"
+
+  ],
+  "Items": {}
+}

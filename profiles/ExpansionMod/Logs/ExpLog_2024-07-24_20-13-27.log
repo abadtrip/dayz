@@ -1,0 +1,66 @@
+20:15:25.921 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<5265.422363, 4.782500, 12448.368164>) Entered the safezone
+20:15:25.921 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+20:15:25.937 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+20:15:25.937 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+20:15:25.937 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+20:15:25.937 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+20:15:25.937 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+20:15:26.742 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+20:18:15.273 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has send a requested to purchase motorbike x1 from the trader "Motorcycle (Linda [MOTORCYCLES])" in market zone "motorcycle trader" (pos=<5256.129883, 4.862200, 12442.500000>).
+20:18:15.390 [VehicleDeleted] motorbike (id=17CB7E746849C153BAE51891B18982BF pos=<0.010407, 0.500842, 0.131087>)
+20:18:56.937 [VehicleDeleted] moped_80 (id=2CD7CAF29A4765E1FBDC2491D9CD55DE pos=<5266.276367, 4.770576, 12448.698242>)
+20:19:16.296 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has send a requested to purchase motorbike_green x1 from the trader "Motorcycle (Linda [MOTORCYCLES])" in market zone "motorcycle trader" (pos=<5256.129883, 4.862200, 12442.500000>).
+20:19:16.406 [VehicleDeleted] motorbike_green (id=0AA6FAF2D94F13D25DA70BA5B29B62A2 pos=<0.010407, 0.500842, 0.131087>)
+20:19:16.421 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has bought motorbike_green x1 from the trader "Motorcycle (Linda [MOTORCYCLES])" in market zone "motorcycle trader" (pos=<5256.129883, 4.862200, 12442.500000>) for a price of 520000.
+20:19:54.812 [MissionAirdrop] An airdrop is heading towards "Greenville" (pos=<4658.000000, 0.000000, 1414.000000> type=Random_Greenville) with a ExpansionAirdropContainer_Military
+20:21:04.968 [VehicleCarKey] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<5265.378418, 4.782500, 12448.386719>) used the  ExpansionCarKey to unlock motorbike_green (id=5178ED9E844AD35254D059A232DE2909 pos=<5266.266602, 4.691992, 12448.839844>)
+20:21:26.882 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+20:40:30.476 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 83imqfZkH-LpiTXHx7j8zism8xnbt8wuFtwNyuJW7Fw=
+20:40:30.476 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 83imqfZkH-LpiTXHx7j8zism8xnbt8wuFtwNyuJW7Fw=
+20:40:30.484 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 83imqfZkH-LpiTXHx7j8zism8xnbt8wuFtwNyuJW7Fw=
+20:40:30.484 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 83imqfZkH-LpiTXHx7j8zism8xnbt8wuFtwNyuJW7Fw=
+20:40:30.484 [AI Patrol] Spawning 3 Airfield bots at <5720.514648, 75.465187, 3033.666504>
+20:43:22.648 [VehicleCarKey] Player "Morningstar1980" (id=83imqfZkH-LpiTXHx7j8zism8xnbt8wuFtwNyuJW7Fw= pos=<5667.122559, 74.012505, 3828.886963>) used the  ExpansionCarKey to unlock OffroadHatchback_Blue (id=9685A4F2CA4823F4C1B8F785AE5CFD00 pos=<5668.761719, 74.040695, 3828.963867>)
+20:43:30.335 [VehicleEnter] Player Morningstar1980 [uid=83imqfZkH-LpiTXHx7j8zism8xnbt8wuFtwNyuJW7Fw=] entered vehicle Ada 4x4 (id=9685A4F2CA4823F4C1B8F785AE5CFD00 pos=<5668.761719, 74.040695, 3828.963867>) as driver
+20:43:32.992 [VehicleEngine] Player Morningstar1980 [uid=83imqfZkH-LpiTXHx7j8zism8xnbt8wuFtwNyuJW7Fw=] started vehicle Ada 4x4 (id=9685A4F2CA4823F4C1B8F785AE5CFD00 pos=<5668.761719, 74.040703, 3828.963867>)
+20:45:01.179 [AI Patrol] Spawning 2 Greenville bots at <5191.283691, 18.361561, 2081.092285>
+20:47:44.617 [VehicleLeave] Player Morningstar1980 [uid=83imqfZkH-LpiTXHx7j8zism8xnbt8wuFtwNyuJW7Fw=] left vehicle Ada 4x4 (id=9685A4F2CA4823F4C1B8F785AE5CFD00 pos=<4676.597168, 10.261070, 1513.741455>)
+20:54:41.742 [VehicleEnter] Player Morningstar1980 [uid=83imqfZkH-LpiTXHx7j8zism8xnbt8wuFtwNyuJW7Fw=] entered vehicle Ada 4x4 (id=9685A4F2CA4823F4C1B8F785AE5CFD00 pos=<4676.597168, 10.261075, 1513.741333>) as driver
+20:54:44.539 [VehicleEngine] Player Morningstar1980 [uid=83imqfZkH-LpiTXHx7j8zism8xnbt8wuFtwNyuJW7Fw=] started vehicle Ada 4x4 (id=9685A4F2CA4823F4C1B8F785AE5CFD00 pos=<4676.597168, 10.261074, 1513.741455>)
+20:57:45.289 [AI Patrol] Spawning 3 ParisIsland bots at <2555.463867, 35.099998, 3492.592773>
+20:57:51.929 [AI Patrol] Spawning 3 ParisIsland2 bots at <2899.294434, 20.900000, 4217.454590>
+20:59:03.382 [VehicleEngine] Player Morningstar1980 [uid=83imqfZkH-LpiTXHx7j8zism8xnbt8wuFtwNyuJW7Fw=] stopped vehicle Ada 4x4 (id=9685A4F2CA4823F4C1B8F785AE5CFD00 pos=<2944.410400, 15.132190, 3276.289063>)
+20:59:08.546 [VehicleLeave] Player Morningstar1980 [uid=83imqfZkH-LpiTXHx7j8zism8xnbt8wuFtwNyuJW7Fw=] left vehicle Ada 4x4 (id=9685A4F2CA4823F4C1B8F785AE5CFD00 pos=<2944.410645, 15.132157, 3276.289063>)
+20:59:20.273 [VehicleCarKey] Player "Morningstar1980" (id=83imqfZkH-LpiTXHx7j8zism8xnbt8wuFtwNyuJW7Fw= pos=<2945.790039, 15.137950, 3275.101318>) used the  ExpansionCarKey to lock OffroadHatchback_Blue (id=9685A4F2CA4823F4C1B8F785AE5CFD00 pos=<2944.410400, 15.132190, 3276.289307>)
+21:56:09.390 [MissionAirdrop] An airdrop is heading towards "Georgstown" (pos=<4522.000000, 0.000000, 4370.000000> type=Random_Georgstown) with a ExpansionAirdropContainer_Medical
+23:25:47.476 [MissionAirdrop] An airdrop is heading towards "Georgstown" (pos=<4522.000000, 0.000000, 4370.000000> type=Random_Georgstown) with a ExpansionAirdropContainer_Medical
+00:56:32.734 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer_Medical
+01:43:43.695 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: izvio2jbpyEHvbxoa8yROF5r34lihKWIqWu_ZuzszFc=
+01:43:43.695 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: izvio2jbpyEHvbxoa8yROF5r34lihKWIqWu_ZuzszFc=
+01:43:43.695 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: izvio2jbpyEHvbxoa8yROF5r34lihKWIqWu_ZuzszFc=
+01:43:43.695 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: izvio2jbpyEHvbxoa8yROF5r34lihKWIqWu_ZuzszFc=
+02:26:06.062 [MissionAirdrop] An airdrop is heading towards "Sandy Bay" (pos=<4627.000000, 0.000000, 7507.000000> type=Random_Sandy Bay) with a ExpansionAirdropContainer
+03:55:52.195 [MissionAirdrop] An airdrop is heading towards "Warren-Cove" (pos=<6924.000000, 0.000000, 5473.000000> type=Random_Warren-Cove) with a ExpansionAirdropContainer
+05:15:56.867 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: izvio2jbpyEHvbxoa8yROF5r34lihKWIqWu_ZuzszFc=
+05:15:56.867 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: izvio2jbpyEHvbxoa8yROF5r34lihKWIqWu_ZuzszFc=
+05:15:56.867 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: izvio2jbpyEHvbxoa8yROF5r34lihKWIqWu_ZuzszFc=
+05:15:56.867 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: izvio2jbpyEHvbxoa8yROF5r34lihKWIqWu_ZuzszFc=
+05:15:56.875 [AI Patrol] Spawning 1 East bots at <9777.817383, 6.263564, 4343.940918>
+05:24:43.304 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer_Medical
+05:28:13.593 [AI Patrol] Spawning 2 East bots at <7113.862793, 8.541735, 5452.572266>
+05:28:16.242 [Safezone] Player "jman" (id=izvio2jbpyEHvbxoa8yROF5r34lihKWIqWu_ZuzszFc= pos=<7718.866699, 47.779339, 4664.457031>) Entered the safezone
+05:35:08.664 [ATM] Player "jman" (id=izvio2jbpyEHvbxoa8yROF5r34lihKWIqWu_ZuzszFc=) has withdrawn 10000 from his ATM account.
+05:35:22.117 [ATM] Player "jman" (id=izvio2jbpyEHvbxoa8yROF5r34lihKWIqWu_ZuzszFc=) has deposited 10000 on his ATM account.
+05:57:21.609 [Safezone] Player "jman" (id=izvio2jbpyEHvbxoa8yROF5r34lihKWIqWu_ZuzszFc= pos=<7380.555664, 44.498611, 4446.958496>) Left the safezone
+07:00:14.906 [MissionAirdrop] An airdrop is heading towards "Oldfield" (pos=<6117.000000, 0.000000, 7004.000000> type=Random_Oldfield) with a ExpansionAirdropContainer_Military
+07:45:14.429 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<5264.184570, 4.782500, 12445.457031>) Entered the safezone
+07:45:14.429 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+07:45:14.460 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+07:45:14.468 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+07:45:14.468 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+07:45:14.468 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+07:45:14.468 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+07:45:15.171 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+07:58:48.187 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+08:27:59.406 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer_Medical
+09:57:30.593 [MissionAirdrop] An airdrop is heading towards "Stonington" (pos=<6973.000000, 0.000000, 1701.000000> type=Random_Stonington) with a ExpansionAirdropContainer

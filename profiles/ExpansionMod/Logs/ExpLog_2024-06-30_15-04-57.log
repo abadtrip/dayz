@@ -1,0 +1,23 @@
+15:05:14.218 [VehicleDeleted] ExpansionUAZ (id=952C3BF0B145DCE3EE93B9A456A146CA pos=<-0.001685, 0.798157, 0.148879>)
+15:05:14.234 [VehicleDeleted] RFWC_DragBoat_Punisher (id=1943DC325640F0962FF37490666B48AD pos=<0.003438, 0.133472, 0.062345>)
+15:05:14.242 [VehicleDeleted] RFWC_Seadoo_Green (id=4422AE92BB443C38289DF3829E4EB865 pos=<0.005640, 0.001733, 0.009462>)
+15:05:14.246 [VehicleDeleted] RFWC_Seadoo_Orange (id=FD8761B3A840558C9F71FFA9A04BE827 pos=<0.005640, 0.001733, 0.009462>)
+15:05:14.246 [VehicleDeleted] RFWC_Seadoo_Camo (id=AEAD2881B44547489493D4A210A2527E pos=<0.005640, 0.001733, 0.009462>)
+15:05:14.289 [VehicleDeleted] ExpansionMh6_Sunset (id=40590455984502DFA752BDB63C9A005E pos=<0.000861, 1.692845, 0.535123>)
+15:06:49.726 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+15:06:49.765 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+15:06:49.765 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+15:06:49.765 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+15:06:49.769 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+15:06:49.769 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+15:06:50.632 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+15:07:12.820 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+15:07:12.843 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+15:07:12.847 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+15:07:12.847 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+15:07:12.847 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+15:07:12.847 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+15:07:13.628 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+15:10:39.156 [MissionAirdrop] An airdrop is heading towards "Mountainville" (pos=<7911.000000, 0.000000, 8864.000000> type=Random_Mountainville) with a ExpansionAirdropContainer_Military
+15:10:43.468 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+15:11:36.355 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)

@@ -1,0 +1,114 @@
+13:31:07.722 [MissionAirdrop] An airdrop is heading towards "Hazelands" (pos=<4539.000000, 0.000000, 2317.000000> type=Random_Hazelands) with a ExpansionAirdropContainer_Basebuilding
+14:11:12.523 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+14:11:12.523 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+14:11:12.523 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+14:11:12.523 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+14:14:04.296 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<10498.089844, 1.692478, 5675.613281>) Entered the safezone
+14:17:02.859 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<10454.297852, 2.856183, 5623.201172>) Left the safezone
+14:19:49.886 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+14:19:49.886 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+14:19:49.886 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+14:19:49.890 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+14:20:35.511 [AI Patrol] Spawning 3 SouthOfSmallville bots at <10049.541016, 20.798332, 3743.081543>
+14:34:03.875 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+14:34:03.875 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+14:34:03.875 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+14:34:03.875 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+14:48:33.210 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+14:48:33.210 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+14:48:33.210 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+14:48:33.210 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+14:51:44.636 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+14:51:44.671 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+14:51:44.671 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 0
+14:51:44.671 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+14:51:44.671 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+14:51:44.671 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+14:51:44.675 [AI Patrol] Spawning 2 CampEagle-NE bots at <9253.078125, 33.106045, 3523.753662>
+14:51:45.500 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+14:53:18.992 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<7553.670898, 87.669998, 4607.556641>) Entered the safezone
+14:54:15.929 [AI Patrol] Spawning 2 Milo-Ashville bots at <7042.504883, 62.299564, 3726.755127>
+15:01:53.250 [MissionAirdrop] An airdrop is heading towards "Old-Town" (pos=<1849.000000, 0.000000, 8830.000000> type=Random_Old-Town) with a ExpansionAirdropContainer_Military
+15:02:49.000 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+15:02:49.000 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+15:02:49.000 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+15:02:49.000 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+15:05:35.460 [AI Patrol] Spawning 2 Powerplant bots at <4998.671387, 20.433321, 7010.249023>
+15:17:04.386 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+15:17:04.386 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+15:17:04.386 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+15:17:04.390 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+15:24:18.324 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<9589.297852, 14.598526, 5893.377930>) Left the safezone
+15:24:37.015 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) invited the player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=)to the party named OSS
+15:24:44.214 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) invited the player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=)to the party named OSS
+15:25:13.050 [Party] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) joinded the party "  OLDSCHOOLSHOOTERS" (id=1 ownerUID= ownerName=)
+15:25:13.050 [Party] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) created a party named   OLDSCHOOLSHOOTERS ()
+15:25:14.050 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 1
+15:27:00.398 [AI Patrol] Spawning 1 East bots at <10146.129883, 21.770000, 10885.785156>
+15:27:00.613 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<10178.673828, 26.968649, 10000.427734>) Entered the safezone
+15:28:29.015 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+15:28:30.015 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+15:29:05.359 [Party] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) left the party "  OLDSCHOOLSHOOTERS" (id=1 ownerUID=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg= ownerName=1DEADMANWALKIN)
+15:29:07.808 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<9537.048828, 2.822984, 5957.415039>) Left the safezone
+15:29:14.449 [Party] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+15:29:15.449 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+15:30:45.875 [Party] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+15:31:38.789 [Party] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+15:31:38.800 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+15:31:38.800 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+15:31:38.800 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+15:31:38.800 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+15:31:38.800 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+15:31:39.519 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+15:32:49.839 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+15:44:57.074 [Party] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+15:45:48.847 [Party] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+15:45:48.855 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+15:45:48.855 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+15:45:48.855 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+15:45:48.859 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+15:45:48.859 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+15:45:49.621 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+15:59:40.093 [Party] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+16:00:46.867 [Party] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+16:00:46.875 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+16:00:46.878 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+16:00:46.878 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+16:00:46.878 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+16:00:46.878 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+16:00:47.671 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+16:14:22.164 [Party] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+16:15:14.484 [Party] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+16:15:14.496 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+16:15:14.496 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+16:15:14.496 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+16:15:14.496 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+16:15:14.496 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+16:15:15.246 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+16:28:48.132 [Party] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+16:29:40.421 [Party] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+16:29:40.433 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+16:29:40.433 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+16:29:40.433 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+16:29:40.433 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+16:29:40.437 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+16:29:41.226 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+16:32:22.921 [MissionAirdrop] An airdrop is heading towards "Warren-Cove" (pos=<6924.000000, 0.000000, 5473.000000> type=Random_Warren-Cove) with a ExpansionAirdropContainer
+16:39:52.453 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+16:39:52.464 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+16:39:52.464 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+16:39:52.464 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+16:39:52.464 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+16:39:52.464 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+16:39:53.335 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+16:42:59.378 [Party] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+16:43:52.785 [Party] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+16:43:52.796 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+16:43:52.796 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+16:43:52.796 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+16:43:52.796 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+16:43:52.796 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+16:43:53.523 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+16:46:10.796 [Party] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+16:47:35.382 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+16:47:52.582 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)

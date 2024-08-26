@@ -1,0 +1,34 @@
+13:05:26.148 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+13:05:26.167 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+13:05:26.167 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+13:05:26.167 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+13:05:26.171 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+13:05:26.171 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+13:05:26.960 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+13:09:12.746 [MissionAirdrop] An airdrop is heading towards "Oldfield" (pos=<6117.000000, 0.000000, 7004.000000> type=Random_Oldfield) with a ExpansionAirdropContainer_Medical
+13:10:05.753 [VehicleDeleted] ExpansionMh6_Sunset (id=B5766ACC6148BC1D5121B8A58F82F384 pos=<0.000861, 1.692845, 0.535123>)
+13:10:05.835 [VirtualGarage] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<3206.981201, 1.680365, 1650.303955>) retrieved a vehicle "ExpansionMh6_Sunset" (GlobalID=800000008000000080000000800031B8 pos=<3206.938965, 1.552204, 1613.246216>)
+13:10:24.851 [VehicleCarKey] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<3206.012207, 1.522991, 1611.930786>) used the  ExpansionCarKey to unlock ExpansionMh6_Sunset (id=87E8A18E494912745FD05299D473B001 pos=<3206.940918, 1.567654, 1613.245361>)
+13:10:32.437 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=87E8A18E494912745FD05299D473B001 pos=<3206.940918, 1.551965, 1613.246216>) as pilot
+13:10:38.132 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] started vehicle Mh-6 Little Bird (id=87E8A18E494912745FD05299D473B001 pos=<3206.941162, 1.552215, 1613.246094>)
+13:16:10.855 [AI Patrol] Spawning 3 Airfield bots at <5679.815918, 74.418938, 3940.392334>
+13:17:18.628 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] stopped vehicle Mh-6 Little Bird (id=87E8A18E494912745FD05299D473B001 pos=<5531.279297, 84.706482, 3737.127197>)
+13:17:30.046 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=87E8A18E494912745FD05299D473B001 pos=<5531.954590, 84.005196, 3737.236816>)
+13:21:00.210 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=87E8A18E494912745FD05299D473B001 pos=<5531.954590, 84.005196, 3737.237305>) as passenger
+13:21:03.296 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=87E8A18E494912745FD05299D473B001 pos=<5531.954590, 84.005196, 3737.237305>)
+13:21:09.726 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=87E8A18E494912745FD05299D473B001 pos=<5531.954590, 84.005196, 3737.237305>) as pilot
+13:21:12.414 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] started vehicle Mh-6 Little Bird (id=87E8A18E494912745FD05299D473B001 pos=<5531.954590, 84.005196, 3737.237305>)
+13:24:21.371 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] stopped vehicle Mh-6 Little Bird (id=87E8A18E494912745FD05299D473B001 pos=<3207.765381, 2.545135, 1612.696899>)
+13:24:29.359 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=87E8A18E494912745FD05299D473B001 pos=<3207.711182, 1.588451, 1612.999512>)
+13:25:49.859 [VehicleCarKey] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<3206.240967, 1.494085, 1614.854980>) used the  ExpansionCarKey to lock ExpansionMh6_Sunset (id=87E8A18E494912745FD05299D473B001 pos=<3207.707275, 1.586983, 1613.055176>)
+13:26:12.871 [VehicleDeleted] ExpansionMh6_Sunset (id=87E8A18E494912745FD05299D473B001 pos=<3207.707520, 1.587310, 1613.057617>)
+13:26:12.875 [VirtualGarage] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<3206.787109, 1.741580, 1650.779053>) stored a vehicle "ExpansionMh6_Sunset" (GlobalID=800000008000000080000000800031B8 pos=<3207.707520, 1.587310, 1613.057617>)
+13:26:44.648 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+14:13:55.527 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+14:13:55.539 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+14:13:55.539 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+14:13:55.539 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+14:13:55.542 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+14:13:55.542 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+14:13:56.367 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+14:18:36.859 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)

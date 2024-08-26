@@ -1,0 +1,51 @@
+18:41:54.937 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+18:41:54.953 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:41:54.953 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+18:41:54.953 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:41:54.953 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:41:54.953 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:41:55.890 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:44:13.320 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+18:44:13.328 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:44:13.335 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:44:13.335 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:44:13.335 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:44:13.335 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:44:14.117 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:45:59.398 [MissionAirdrop] An airdrop is heading towards "Mountainville" (pos=<7911.000000, 0.000000, 8864.000000> type=Random_Mountainville) with a ExpansionAirdropContainer_Basebuilding
+18:53:20.218 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle The Whaler (id=1B32CBD2704AC86639E503BE15748A28 pos=<3195.119141, 0.043302, 1623.663818>) as driver
+18:53:26.851 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle The Whaler (id=1B32CBD2704AC86639E503BE15748A28 pos=<3194.654297, -0.417832, 1623.766968>) as passenger
+18:54:53.671 [AI Patrol] Spawning 3 ParisIsland bots at <2635.005127, 34.401760, 3520.740479>
+18:55:49.117 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle The Whaler (id=1B32CBD2704AC86639E503BE15748A28 pos=<2746.403564, 0.030711, 3190.963623>)
+18:55:53.640 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle The Whaler (id=1B32CBD2704AC86639E503BE15748A28 pos=<2746.403564, -0.289509, 3190.963623>)
+18:55:56.906 [AI Patrol] Spawning 3 ParisIsland2 bots at <2896.229004, 20.889553, 4185.308105>
+19:03:01.750 [Killfeed] AI Manua (ParisIsland) got killed by MGM_762 with SNAFU Scar-H OD from a distance of 84 m.
+19:06:50.703 [Killfeed] NOVAKILLSFORYOU got killed by AI Lewis (ParisIsland) with AUR A1 from a distance of 51 m.
+19:07:28.218 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+19:07:29.203 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:07:58.226 [SpawnSelection] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) spawned at <3233.246338, 2.739967, 1677.017334>
+19:08:05.148 [Killfeed] AI Baty (ParisIsland2) got killed by MGM_762 with SNAFU Scar-H OD from a distance of 39 m.
+19:09:49.281 [Killfeed] AI Judy (ParisIsland2) got killed by MGM_762 with SNAFU Scar-H OD from a distance of 82 m.
+19:10:14.695 [Killfeed] AI Keiko (ParisIsland) got killed by MGM_762 with SNAFU Scar-H OD from a distance of 4 m.
+19:10:39.656 [Killfeed] AI Lewis (ParisIsland) got killed by MGM_762 with SNAFU Scar-H OD from a distance of 54 m.
+19:10:40.632 [AI Patrol] ParisIsland bots were wiped out (spawn position <2635.005127, 34.401760, 3520.740479>, 3/3 deceased)
+19:16:08.726 [Killfeed] AI Rolf (ParisIsland2) got killed by NOVAKILLSFORYOU with 300AC AR15 Tan from a distance of 21 m.
+19:16:11.328 [AI Patrol] ParisIsland2 bots were wiped out (spawn position <2896.229004, 20.889553, 4185.308105>, 3/3 deceased)
+19:41:13.968 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle The Whaler (id=1B32CBD2704AC86639E503BE15748A28 pos=<2746.403809, 0.192152, 3190.963379>) as driver
+19:41:17.554 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle The Whaler (id=1B32CBD2704AC86639E503BE15748A28 pos=<2746.403809, 0.405989, 3190.963379>) as passenger
+19:41:22.750 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle The Whaler (id=1B32CBD2704AC86639E503BE15748A28 pos=<2746.403809, -0.075654, 3190.963379>) as passenger
+19:42:10.664 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle The Whaler (id=1B32CBD2704AC86639E503BE15748A28 pos=<2759.328125, 0.087891, 3200.160400>)
+19:43:36.484 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+19:44:03.953 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+19:44:03.968 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+19:44:03.968 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:44:03.968 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+19:44:03.968 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+19:44:03.968 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+19:44:04.703 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:44:13.023 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle The Whaler (id=1B32CBD2704AC86639E503BE15748A28 pos=<2759.328125, 0.408992, 3200.160400>) as passenger
+19:44:21.750 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle The Whaler (id=1B32CBD2704AC86639E503BE15748A28 pos=<2759.328125, 0.260911, 3200.160400>) as driver
+19:46:34.703 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle The Whaler (id=1B32CBD2704AC86639E503BE15748A28 pos=<3195.654053, 0.009818, 1624.942627>)
+19:46:38.085 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle The Whaler (id=1B32CBD2704AC86639E503BE15748A28 pos=<3195.654053, 0.143203, 1624.942627>)
+19:48:27.585 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+19:48:54.812 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)

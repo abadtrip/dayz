@@ -1,0 +1,29 @@
+18:45:49.750 [VehicleDeleted] RFWC_DragBoat_Red (id=1DDFCF60994FD01EAAA7F386B3BA7BB7 pos=<3176.741211, -0.063207, 1656.389648>)
+18:48:46.070 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+18:48:46.085 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:48:46.085 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+18:48:46.085 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:48:46.093 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:48:46.093 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:48:46.796 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:50:51.937 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer_Medical
+18:52:22.781 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+18:52:22.796 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:52:22.796 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:52:22.796 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:52:22.796 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:52:22.796 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:52:23.585 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:53:27.015 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle UAZ 469 Cargo Roofless (id=C0E93EFCC4475690974D1C9D82E2CB20 pos=<3204.357666, 2.731215, 1671.447144>) as driver
+18:53:46.460 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle UAZ 469 Cargo Roofless (id=C0E93EFCC4475690974D1C9D82E2CB20 pos=<3204.357666, 2.731215, 1671.447144>)
+18:54:00.562 [AdminTools] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<3205.235596, 2.738561, 1670.593994>) used the  ExpansionCarAdminKey to lock ExpansionUAZCargoRoofless (id=C0E93EFCC4475690974D1C9D82E2CB20 pos=<3204.357666, 2.731211, 1671.447021>)
+18:54:01.843 [AdminTools] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<3205.235596, 2.738561, 1670.593994>) used the Admin CarKey to unpair ExpansionUAZCargoRoofless (id=C0E93EFCC4475690974D1C9D82E2CB20 pos=<3204.357666, 2.731211, 1671.447021>)
+18:54:06.242 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle UAZ 469 Cargo Roofless (id=C0E93EFCC4475690974D1C9D82E2CB20 pos=<3204.357666, 2.731208, 1671.446167>) as driver
+18:54:08.484 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] started vehicle UAZ 469 Cargo Roofless (id=C0E93EFCC4475690974D1C9D82E2CB20 pos=<3204.357666, 2.731212, 1671.446289>)
+18:54:24.085 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle UAZ 469 Cargo Roofless (id=C0E93EFCC4475690974D1C9D82E2CB20 pos=<3199.021240, 2.146058, 1656.999146>)
+18:54:32.234 [VehicleDeleted] ExpansionUAZCargoRoofless (id=548D64094A489BB0077A2BB1A2DE4803 pos=<-0.016775, 0.677601, 0.025196>)
+18:55:02.265 [VehicleCarKey] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<3200.545166, 2.343006, 1658.619995>) paired a  ExpansionCarKey to ExpansionUAZCargoRoofless (id=C0E93EFCC4475690974D1C9D82E2CB20 pos=<3199.021240, 2.146030, 1656.999023>)
+18:55:06.890 [VehicleDeleted] ExpansionUAZCargoRoofless (id=C0E93EFCC4475690974D1C9D82E2CB20 pos=<3199.021240, 2.146030, 1656.999023>)
+18:55:06.890 [VirtualGarage] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<3202.492920, 2.439401, 1659.284668>) stored a vehicle "ExpansionUAZCargoRoofless" (GlobalID=80000000800000008000000080003180 pos=<3199.021240, 2.146030, 1656.999023>)
+19:04:44.343 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+19:04:58.554 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)

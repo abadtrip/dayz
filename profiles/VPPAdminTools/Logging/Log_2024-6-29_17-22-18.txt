@@ -1,0 +1,254 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2024-6-29_17-22-18
+====================================================================================
+17:22:18 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+17:22:18 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+17:22:18 | [PermissionManager] Perm (FreeCamera) has been registered!
+17:22:18 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+17:22:18 | [PermissionManager] Perm (MenuItemManager) has been registered!
+17:22:18 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+17:22:18 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+17:22:18 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+17:22:18 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+17:22:18 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+17:22:18 | [PermissionManager] Perm (MenuServerManager) has been registered!
+17:22:18 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+17:22:18 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+17:22:18 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+17:22:18 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+17:22:18 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+17:22:18 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+17:22:18 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+17:22:18 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+17:22:18 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+17:22:18 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+17:22:18 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+17:22:18 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+17:22:18 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+17:22:18 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+17:22:18 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+17:22:18 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+17:22:18 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+17:22:18 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+17:22:18 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+17:22:18 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+17:22:18 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+17:22:18 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+17:22:18 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+17:22:18 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+17:22:18 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+17:22:18 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+17:22:18 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+17:22:18 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+17:22:18 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+17:22:18 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+17:22:18 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+17:22:18 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+17:22:18 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+17:22:18 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+17:22:18 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+17:22:18 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+17:22:18 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+17:22:18 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+17:22:18 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+17:22:18 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+17:22:18 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+17:22:18 | [PermissionManager] Perm (MenuBansManager) has been registered!
+17:22:18 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+17:22:18 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+17:22:18 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+17:22:18 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+17:22:18 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+17:22:18 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+17:22:18 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+17:22:18 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+17:22:18 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+17:22:18 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+17:22:18 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+17:22:18 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+17:22:18 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+17:22:18 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+17:22:18 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+17:22:18 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+17:22:18 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+17:22:18 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+17:22:18 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+17:22:18 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+17:22:18 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+17:22:18 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+17:22:18 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+17:22:18 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+17:22:18 | [PermissionManager] Adding Super Admin (76561198089301277)
+17:22:20 | [PermissionManager] Loaded UserGroups.json
+17:22:20 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+17:22:20 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+17:22:20 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+17:22:20 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+17:22:20 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+17:22:20 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+17:22:20 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+17:22:20 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+17:22:20 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+17:22:20 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+17:22:20 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+17:22:20 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+17:22:20 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+17:22:20 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+17:22:20 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+17:22:20 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+17:22:20 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+17:22:20 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+17:22:24 | Building Sets Loaded: 0
+17:22:24 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+17:22:24 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+17:24:52 | Player "MGM_762" (steamId=76561198330451260) connected to server!
+17:25:2 | Player "NOVAKILLSFORYOU" (steamId=76561198089301277) connected to server!
+17:51:5 | "NOVAKILLSFORYOU" (steamid=76561198089301277) teleported to crosshair (pos=<3222.428955, 2.740002, 1704.128784>)
+17:57:50 | "NOVAKILLSFORYOU" (steamid=76561198089301277) toggled freecam
+17:57:51 | "NOVAKILLSFORYOU" (steamid=76561198089301277) toggled freecam
+17:57:51 | "NOVAKILLSFORYOU" (steamid=76561198089301277) toggled freecam
+17:57:51 | "NOVAKILLSFORYOU" (steamid=76561198089301277) toggled freecam
+17:57:51 | "NOVAKILLSFORYOU" (steamid=76561198089301277) toggled freecam
+17:57:54 | "NOVAKILLSFORYOU" (steamid=76561198089301277) toggled freecam
+18:27:20 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part level_1_base at position: <3215.987305, 2.746837, 1669.496704>
+18:27:22 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part level_1_roof at position: <3215.987305, 2.746837, 1669.496704>
+18:27:24 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part level_1_stairs at position: <3215.987305, 2.746837, 1669.496704>
+18:27:34 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part level_2_base at position: <3215.987305, 2.746837, 1669.496704>
+18:27:37 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part level_2_roof at position: <3215.987305, 2.746837, 1669.496704>
+18:27:39 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part level_2_stairs at position: <3215.987305, 2.746837, 1669.496704>
+18:27:52 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part level_3_base at position: <3215.987305, 2.746837, 1669.496704>
+18:28:29 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part level_3_roof at position: <3215.987305, 2.746837, 1669.496704>
+18:31:42 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3207.760986, 10.798099, 1658.352539>
+18:31:44 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorframe at position: <3207.760986, 10.798099, 1658.352539>
+18:31:45 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorfinished at position: <3207.760986, 10.798099, 1658.352539>
+18:32:9 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3204.682861, 10.798099, 1663.502808>
+18:32:15 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorframe at position: <3204.682861, 10.798099, 1663.502808>
+18:32:17 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorfinished at position: <3204.682861, 10.798099, 1663.502808>
+18:32:48 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3212.911621, 10.798571, 1661.430664>
+18:33:6 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorframe at position: <3212.911621, 10.798571, 1661.430664>
+18:33:7 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorfinished at position: <3212.911621, 10.798571, 1661.430664>
+18:33:15 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3209.833252, 10.798571, 1666.581299>
+18:33:16 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorframe at position: <3209.833252, 10.798571, 1666.581299>
+18:33:17 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorfinished at position: <3209.833252, 10.798571, 1666.581299>
+18:35:45 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3214.850098, 7.798571, 1666.958984>
+18:35:51 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_support at position: <3214.850098, 7.798571, 1666.958984>
+18:35:52 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_tread at position: <3214.850098, 7.798571, 1666.958984>
+18:38:23 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part level_3_base at position: <3215.987305, 2.746837, 1669.496704>
+18:38:31 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part level_3_wall_3_base_down at position: <3215.987305, 2.746837, 1669.496704>
+18:38:39 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part level_3_wall_1_base_down at position: <3215.987305, 2.746837, 1669.496704>
+18:38:42 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part level_3_wall_2_base_down at position: <3215.987305, 2.746837, 1669.496704>
+18:38:50 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part level_3_roof at position: <3215.987305, 2.746837, 1669.496704>
+18:39:25 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part level_2_wall_1_base_down at position: <3215.987305, 2.746837, 1669.496704>
+18:39:28 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part level_2_wall_2_base_down at position: <3215.987305, 2.746837, 1669.496704>
+18:39:31 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part level_2_wall_3_base_down at position: <3215.987305, 2.746837, 1669.496704>
+18:39:40 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part level_2_wall_3_wood_down at position: <3215.987305, 2.746837, 1669.496704>
+18:39:42 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part level_2_wall_2_metal_down at position: <3215.987305, 2.746837, 1669.496704>
+18:39:46 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part level_2_wall_1_wood_down at position: <3215.987305, 2.746837, 1669.496704>
+18:40:17 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part level_2_wall_1_base_up at position: <3215.987305, 2.746837, 1669.496704>
+18:40:23 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part level_2_wall_3_base_up at position: <3215.987305, 2.746837, 1669.496704>
+19:0:14 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3208.039551, 2.738719, 1675.447632>
+19:0:17 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_support at position: <3208.039551, 2.738719, 1675.447632>
+19:0:19 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_tread at position: <3208.039551, 2.738719, 1675.447632>
+19:0:22 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_handrailing at position: <3208.039551, 2.738719, 1675.447632>
+19:4:20 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3212.592285, 2.716205, 1666.982544>
+19:4:22 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_support at position: <3212.592285, 2.716205, 1666.982544>
+19:4:24 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_tread at position: <3212.592285, 2.716205, 1666.982544>
+19:4:28 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_handrailing at position: <3212.592285, 2.716205, 1666.982544>
+19:5:21 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3216.149658, 5.716205, 1669.738525>
+19:5:22 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorframe at position: <3216.149658, 5.716205, 1669.738525>
+19:5:24 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorfinished at position: <3216.149658, 5.716205, 1669.738525>
+19:7:18 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3219.824463, 5.716676, 1664.995117>
+19:7:19 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorframe at position: <3219.824463, 5.716676, 1664.995117>
+19:7:20 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorfinished at position: <3219.824463, 5.716676, 1664.995117>
+19:7:34 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3212.475098, 5.716676, 1674.481689>
+19:7:35 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorframe at position: <3212.475098, 5.716676, 1674.481689>
+19:7:36 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorfinished at position: <3212.475098, 5.716676, 1674.481689>
+19:9:15 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3218.905762, 5.715969, 1666.180908>
+19:9:20 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_support at position: <3218.905762, 5.715969, 1666.180908>
+19:9:22 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_tread at position: <3218.905762, 5.715969, 1666.180908>
+19:10:28 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3216.151367, 8.718164, 1669.737549>
+19:10:29 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorframe at position: <3216.151367, 8.718164, 1669.737549>
+19:10:31 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorfinished at position: <3216.151367, 8.718164, 1669.737549>
+19:12:45 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3219.825928, 8.715235, 1664.994507>
+19:12:50 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_hatchframe at position: <3219.825928, 8.715235, 1664.994507>
+19:12:53 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_hatchfinished at position: <3219.825928, 8.715235, 1664.994507>
+19:13:46 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorfinished at position: <3219.824463, 5.716676, 1664.995117>
+19:14:37 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3220.022217, 5.715078, 1664.738647>
+19:14:43 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_support at position: <3220.022217, 5.715078, 1664.738647>
+19:14:44 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_tread at position: <3220.022217, 5.715078, 1664.738647>
+19:14:46 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_handrailing at position: <3220.022217, 5.715078, 1664.738647>
+19:15:33 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3223.500977, 8.712305, 1660.251709>
+19:15:34 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorframe at position: <3223.500977, 8.712305, 1660.251709>
+19:15:36 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorfinished at position: <3223.500977, 8.712305, 1660.251709>
+19:16:5 | "NOVAKILLSFORYOU" (steamid=76561198089301277) toggled freecam
+19:16:5 | "NOVAKILLSFORYOU" (steamid=76561198089301277) toggled freecam
+19:16:5 | "NOVAKILLSFORYOU" (steamid=76561198089301277) toggled freecam
+19:16:5 | "NOVAKILLSFORYOU" (steamid=76561198089301277) toggled freecam
+19:17:6 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3227.176270, 8.709375, 1655.509155>
+19:17:7 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorframe at position: <3227.176270, 8.709375, 1655.509155>
+19:17:9 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorfinished at position: <3227.176270, 8.709375, 1655.509155>
+19:17:35 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3231.918945, 8.706373, 1659.184570>
+19:18:27 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3222.433594, 8.713321, 1651.833862>
+19:18:28 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorframe at position: <3222.433594, 8.713321, 1651.833862>
+19:18:29 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorfinished at position: <3222.433594, 8.713321, 1651.833862>
+19:19:7 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3230.851563, 8.706446, 1650.766602>
+19:19:10 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorframe at position: <3230.851563, 8.706446, 1650.766602>
+19:19:11 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorfinished at position: <3230.851563, 8.706446, 1650.766602>
+19:20:5 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3226.108887, 8.710391, 1647.091309>
+19:20:6 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorframe at position: <3226.108887, 8.710391, 1647.091309>
+19:20:7 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorfinished at position: <3226.108887, 8.710391, 1647.091309>
+19:20:58 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3221.661621, 5.716676, 1662.623535>
+19:21:10 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_windowframe at position: <3221.661621, 5.716676, 1662.623535>
+19:21:12 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_windowfinished at position: <3221.661621, 5.716676, 1662.623535>
+19:21:34 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3210.637939, 5.716676, 1676.853271>
+19:21:38 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_windowframe at position: <3210.637939, 5.716676, 1676.853271>
+19:21:40 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_windowfinished at position: <3210.637939, 5.716676, 1676.853271>
+19:22:3 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3214.846680, 5.717148, 1676.318970>
+19:22:10 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_windowframe at position: <3214.846680, 5.717148, 1676.318970>
+19:22:11 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_windowfinished at position: <3214.846680, 5.717148, 1676.318970>
+19:22:33 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3218.521240, 5.716205, 1671.575806>
+19:22:36 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_doorframe at position: <3218.521240, 5.716205, 1671.575806>
+19:23:3 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_windowframe at position: <3218.521240, 5.716205, 1671.575806>
+19:23:6 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_windowfinished at position: <3218.521240, 5.716205, 1671.575806>
+19:23:24 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3222.196289, 5.717148, 1666.832520>
+19:23:28 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_windowframe at position: <3222.196289, 5.717148, 1666.832520>
+19:23:30 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_windowfinished at position: <3222.196289, 5.717148, 1666.832520>
+19:23:59 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3210.103271, 5.717148, 1672.644287>
+19:24:2 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_wallframe at position: <3210.103271, 5.717148, 1672.644287>
+19:24:4 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_wallfinished at position: <3210.103271, 5.717148, 1672.644287>
+19:24:23 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3217.452881, 5.717148, 1663.157837>
+19:24:26 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_wallframe at position: <3217.452881, 5.717148, 1663.157837>
+19:24:27 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_wallfinished at position: <3217.452881, 5.717148, 1663.157837>
+19:24:50 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3213.778076, 5.716205, 1667.901245>
+19:24:52 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_doorframe at position: <3213.778076, 5.716205, 1667.901245>
+19:24:53 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_doorfinished at position: <3213.778076, 5.716205, 1667.901245>
+19:25:23 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3212.474854, 8.719904, 1674.481567>
+19:25:24 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorframe at position: <3212.474854, 8.719904, 1674.481567>
+19:25:25 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorfinished at position: <3212.474854, 8.719904, 1674.481567>
+19:27:40 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base_third at position: <3210.638184, 8.719432, 1676.853394>
+19:27:44 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_wallframe_third at position: <3210.638184, 8.719432, 1676.853394>
+19:28:6 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base_third at position: <3214.846436, 8.719904, 1676.318848>
+19:28:10 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_wallframe_third at position: <3214.846436, 8.719904, 1676.318848>
+19:28:27 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base_third at position: <3218.521484, 8.718961, 1671.575684>
+19:28:28 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_wallframe_third at position: <3218.521484, 8.718961, 1671.575684>
+19:28:41 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base_third at position: <3222.196533, 8.719904, 1666.832397>
+19:28:42 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_wallframe_third at position: <3222.196533, 8.719904, 1666.832397>
+19:28:59 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base_third at position: <3221.129639, 8.714369, 1658.414063>
+19:29:0 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_wallframe_third at position: <3221.129639, 8.714369, 1658.414063>
+19:29:18 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base_third at position: <3225.872559, 8.711185, 1662.089478>
+19:29:19 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_wallframe_third at position: <3225.872559, 8.711185, 1662.089478>
+19:32:57 | "NOVAKILLSFORYOU" (steamid=76561198089301277) toggled freecam
+19:34:19 | "NOVAKILLSFORYOU" (steamid=76561198089301277) toggled freecam
+19:49:38 | "NOVAKILLSFORYOU" (steamid=76561198089301277) /refuel used on self.
+19:50:45 | "NOVAKILLSFORYOU" (steamid=76561198089301277) /refuel used on self.
+20:19:19 | Player "1DEADMANWALKIN" (steamId=76561198056112020) connected to server!
+21:9:9 | "NOVAKILLSFORYOU" (steamid=76561198089301277) /refuel used on self.
+21:28:43 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base_third at position: <3213.779541, 8.719794, 1667.900146>
+21:28:46 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_wallframe_third at position: <3213.779541, 8.719794, 1667.900146>
+21:35:12 | "NOVAKILLSFORYOU" (steamid=76561198089301277) /heal used on: "NOVAKILLSFORYOU" (steamid=76561198089301277)
+21:44:10 | Player "NOVAKILLSFORYOU" (steamId=76561198089301277) initiated disconnect process...
+21:44:13 | Player "NOVAKILLSFORYOU" (steamId=76561198089301277) disconnected from server.
+21:44:16 | Player "1DEADMANWALKIN" (steamId=76561198056112020) initiated disconnect process...
+21:44:19 | Player "1DEADMANWALKIN" (steamId=76561198056112020) disconnected from server.
+21:44:27 | Player "MGM_762" (steamId=76561198330451260) initiated disconnect process...
+21:44:30 | Player "MGM_762" (steamId=76561198330451260) disconnected from server.

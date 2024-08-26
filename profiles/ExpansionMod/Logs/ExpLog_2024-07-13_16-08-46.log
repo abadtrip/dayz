@@ -1,0 +1,14 @@
+16:14:30.941 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+16:14:30.953 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+16:14:30.953 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+16:14:30.957 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+16:14:30.957 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+16:14:30.957 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+16:14:30.964 [AI Patrol] Spawning 2 Greenville bots at <5265.604004, 27.379433, 2000.613770>
+16:14:31.730 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+16:15:15.820 [MissionAirdrop] An airdrop is heading towards "Old-Town" (pos=<1849.000000, 0.000000, 8830.000000> type=Random_Old-Town) with a ExpansionAirdropContainer_Medical
+16:15:18.890 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=AD10BF63AB4B96A2050AAEBA336920EC pos=<4643.230957, 13.061854, 1547.322021>) as pilot
+16:15:20.093 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] started vehicle Mh-6 Little Bird (id=AD10BF63AB4B96A2050AAEBA336920EC pos=<4643.230957, 13.061818, 1547.321655>)
+16:17:22.714 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] stopped vehicle Mh-6 Little Bird (id=AD10BF63AB4B96A2050AAEBA336920EC pos=<3207.031006, 1.741709, 1612.787231>)
+16:17:28.046 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=AD10BF63AB4B96A2050AAEBA336920EC pos=<3206.999512, 1.587298, 1613.179932>)
+16:27:14.761 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)

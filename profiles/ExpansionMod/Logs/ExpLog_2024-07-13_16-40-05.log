@@ -1,0 +1,82 @@
+16:43:41.753 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+16:43:41.761 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+16:43:41.761 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+16:43:41.765 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+16:43:41.765 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+16:43:41.765 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+16:43:42.578 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+16:45:50.796 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=AD10BF63AB4B96A2050AAEBA336920EC pos=<3206.988281, 1.584590, 1613.445801>) as pilot
+16:45:54.488 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] started vehicle Mh-6 Little Bird (id=AD10BF63AB4B96A2050AAEBA336920EC pos=<3206.988281, 1.584593, 1613.446289>)
+16:46:31.753 [MissionAirdrop] An airdrop is heading towards "Oceanville" (pos=<10179.000000, 0.000000, 4722.000000> type=Random_Oceanville) with a ExpansionAirdropContainer_Medical
+16:46:49.960 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] stopped vehicle Mh-6 Little Bird (id=AD10BF63AB4B96A2050AAEBA336920EC pos=<3191.775879, 10.726334, 1699.828613>)
+16:46:56.640 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=AD10BF63AB4B96A2050AAEBA336920EC pos=<3193.567383, 6.994165, 1699.523926>)
+16:48:27.125 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=AD10BF63AB4B96A2050AAEBA336920EC pos=<3193.889648, 6.939692, 1699.345459>) as pilot
+16:48:29.410 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] started vehicle Mh-6 Little Bird (id=AD10BF63AB4B96A2050AAEBA336920EC pos=<3193.889893, 6.939609, 1699.360718>)
+16:48:48.156 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] stopped vehicle Mh-6 Little Bird (id=AD10BF63AB4B96A2050AAEBA336920EC pos=<3213.253418, 4.714636, 1700.478638>)
+16:48:52.242 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=AD10BF63AB4B96A2050AAEBA336920EC pos=<3210.536133, 2.798519, 1701.172119>)
+16:49:25.105 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Land Rover Defender (id=A4B6B435A943D78D574986B2A15F2E75 pos=<3181.347656, 2.819271, 1696.423340>) as passenger
+16:49:28.003 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] switched seats in vehicle Land Rover Defender (id=A4B6B435A943D78D574986B2A15F2E75 pos=<3181.347656, 2.819271, 1696.423340>) to driver
+16:49:31.921 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] switched seats in vehicle Land Rover Defender (id=A4B6B435A943D78D574986B2A15F2E75 pos=<3181.347168, 2.819268, 1696.423340>) to passenger
+16:49:37.636 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] switched seats in vehicle Land Rover Defender (id=A4B6B435A943D78D574986B2A15F2E75 pos=<3181.347656, 2.819271, 1696.423340>) to driver
+16:49:42.007 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] started vehicle Land Rover Defender (id=A4B6B435A943D78D574986B2A15F2E75 pos=<3181.347168, 2.819268, 1696.423340>)
+16:52:28.441 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Land Rover Defender (id=A4B6B435A943D78D574986B2A15F2E75 pos=<3182.575195, 2.822417, 1693.965454>)
+16:53:24.480 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Land Rover Defender (id=A4B6B435A943D78D574986B2A15F2E75 pos=<3182.575195, 2.822416, 1693.966064>) as driver
+16:53:26.007 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] started vehicle Land Rover Defender (id=A4B6B435A943D78D574986B2A15F2E75 pos=<3182.575195, 2.822416, 1693.966064>)
+16:55:27.554 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] stopped vehicle Land Rover Defender (id=A4B6B435A943D78D574986B2A15F2E75 pos=<3182.781006, 2.821826, 1693.164429>)
+16:55:32.570 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Land Rover Defender (id=A4B6B435A943D78D574986B2A15F2E75 pos=<3182.781006, 2.821831, 1693.164185>)
+16:56:06.878 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Land Rover Defender (id=A4B6B435A943D78D574986B2A15F2E75 pos=<3184.222900, 2.837691, 1695.142456>) as driver
+16:56:07.898 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] started vehicle Land Rover Defender (id=A4B6B435A943D78D574986B2A15F2E75 pos=<3184.222900, 2.837691, 1695.142456>)
+16:56:25.867 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] stopped vehicle Land Rover Defender (id=A4B6B435A943D78D574986B2A15F2E75 pos=<3184.039795, 2.843510, 1698.007324>)
+16:56:29.632 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Land Rover Defender (id=A4B6B435A943D78D574986B2A15F2E75 pos=<3184.039551, 2.843505, 1698.007690>)
+16:57:11.492 [VehicleCarKey] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<3184.095215, 2.870818, 1696.197510>) paired a  ExpansionCarKey to Expansion_Landrover_Red (id=A4B6B435A943D78D574986B2A15F2E75 pos=<3184.039795, 2.843511, 1698.007202>)
+16:59:35.898 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=AD10BF63AB4B96A2050AAEBA336920EC pos=<3210.535645, 2.797569, 1701.172607>) as pilot
+16:59:39.078 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] started vehicle Mh-6 Little Bird (id=AD10BF63AB4B96A2050AAEBA336920EC pos=<3210.535645, 2.797568, 1701.172607>)
+17:00:25.460 [AI Patrol] Spawning 2 Greenville bots at <4753.806641, 12.790245, 2103.474609>
+17:00:40.828 [AI Patrol] Spawning 3 Airfield bots at <5241.803711, 77.965508, 3085.582764>
+17:01:00.003 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] stopped vehicle Mh-6 Little Bird (id=AD10BF63AB4B96A2050AAEBA336920EC pos=<4333.713379, 3.442321, 2829.648682>)
+17:01:04.070 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=AD10BF63AB4B96A2050AAEBA336920EC pos=<4333.540527, 2.771161, 2829.395020>)
+17:23:19.437 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=AD10BF63AB4B96A2050AAEBA336920EC pos=<4333.540039, 2.771168, 2829.395996>) as pilot
+17:23:21.335 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] started vehicle Mh-6 Little Bird (id=AD10BF63AB4B96A2050AAEBA336920EC pos=<4333.540039, 2.771169, 2829.395996>)
+17:24:50.964 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=AD10BF63AB4B96A2050AAEBA336920EC pos=<3228.684570, 2.412088, 1635.590332>)
+17:25:10.242 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=AD10BF63AB4B96A2050AAEBA336920EC pos=<3229.161621, -0.461869, 1633.451172>) as pilot
+17:25:11.527 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] started vehicle Mh-6 Little Bird (id=AD10BF63AB4B96A2050AAEBA336920EC pos=<3229.160400, -0.468606, 1633.450073>)
+17:25:45.652 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] stopped vehicle Mh-6 Little Bird (id=AD10BF63AB4B96A2050AAEBA336920EC pos=<3225.417236, 3.878982, 1631.815063>)
+17:25:51.015 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=AD10BF63AB4B96A2050AAEBA336920EC pos=<3218.375488, -1.530028, 1625.882202>)
+17:25:51.070 [VehicleDestroyed] ExpansionMh6_Wasp (id=AD10BF63AB4B96A2050AAEBA336920EC pos=<3218.219727, -1.557162, 1625.841919>)
+17:26:15.695 [VehicleDeleted] ExpansionMh6_Wasp (id=D9E4F744994688E2D119308ABFAC1ED0 pos=<0.000861, 1.692845, 0.535123>)
+17:26:40.066 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+17:31:56.089 [VehicleDeleted] ExpansionMh6_Wasp (id=AD10BF63AB4B96A2050AAEBA336920EC pos=<3217.992432, -2.223420, 1585.403687>)
+18:02:24.097 [Party] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+18:02:24.132 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+18:02:24.132 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:02:24.132 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+18:02:24.132 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+18:02:24.132 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+18:02:24.875 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:15:38.414 [MissionAirdrop] An airdrop is heading towards "Stonington" (pos=<6973.000000, 0.000000, 1701.000000> type=Random_Stonington) with a ExpansionAirdropContainer_Basebuilding
+18:26:52.101 [VehicleEnter] Player 1DEADMANWALKIN [uid=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=] entered vehicle Land Rover Defender (id=A4B6B435A943D78D574986B2A15F2E75 pos=<3183.993164, 2.843284, 1698.057617>) as driver
+18:26:57.132 [VehicleLeave] Player 1DEADMANWALKIN [uid=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=] left vehicle Land Rover Defender (id=A4B6B435A943D78D574986B2A15F2E75 pos=<3183.993164, 2.843287, 1698.057251>)
+18:37:22.937 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+18:37:22.960 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:37:22.960 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:37:22.960 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:37:22.960 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:37:22.968 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:37:23.671 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:40:22.632 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Land Rover Defender (id=A4B6B435A943D78D574986B2A15F2E75 pos=<3183.993164, 2.843283, 1698.057739>) as driver
+18:40:31.898 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Land Rover Defender (id=A4B6B435A943D78D574986B2A15F2E75 pos=<3183.993164, 2.843282, 1698.057861>)
+18:43:42.640 [Party] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+18:50:09.343 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+18:50:09.359 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:50:09.359 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:50:09.359 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:50:09.359 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:50:09.359 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:50:10.101 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:52:26.226 [ATM] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has deposited 2352379 on his ATM account.
+18:56:04.101 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has send a requested to sell cp_workbench_kit x1 at the trader "Drugs (Naomi [#DRUGS])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+18:56:04.171 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has sold cp_workbench_kit x1 at the trader "Drugs (Naomi [#DRUGS])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) and got 84375.
+18:56:30.851 [ATM] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has deposited 84375 on his ATM account.
+18:59:32.445 [BaseRaiding] ExpansionSafeMedium (<3213.977783, 2.724401, 1658.845581>) Code set by player "MGM_762" (ID = "6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=" at <3214.868652, 2.689544, 1659.460205>) and the code is 1911
+19:05:59.320 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+19:06:10.242 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)

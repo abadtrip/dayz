@@ -1,0 +1,14 @@
+19:32:23.320 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<5258.840820, 4.862192, 12445.938477>) Entered the safezone
+19:32:23.320 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+19:32:23.335 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:32:23.335 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+19:32:23.335 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:32:23.335 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:32:23.335 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:32:24.171 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:32:44.093 [ATM] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has withdrawn 3943301 from his ATM account.
+19:32:57.968 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has send a requested to purchase moped_80 x1 from the trader "Motorcycle (Linda [MOTORCYCLES])" in market zone "motorcycle trader" (pos=<5256.129883, 4.862200, 12442.500000>).
+19:32:58.070 [VehicleDeleted] moped_80 (id=E8A62E606F479FD0BCF07F889F7A1761 pos=<-0.001767, 0.328995, -0.012776>)
+19:32:58.078 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has bought moped_80 x1 from the trader "Motorcycle (Linda [MOTORCYCLES])" in market zone "motorcycle trader" (pos=<5256.129883, 4.862200, 12442.500000>) for a price of 50000.
+19:34:26.000 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+19:36:52.195 [MissionAirdrop] An airdrop is heading towards "Stonington" (pos=<6973.000000, 0.000000, 1701.000000> type=Random_Stonington) with a ExpansionAirdropContainer_Basebuilding

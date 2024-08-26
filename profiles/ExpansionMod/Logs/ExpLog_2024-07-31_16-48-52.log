@@ -1,0 +1,68 @@
+16:55:24.859 [MissionAirdrop] An airdrop is heading towards "Sandy Bay" (pos=<4627.000000, 0.000000, 7507.000000> type=Random_Sandy Bay) with a ExpansionAirdropContainer_Military
+17:20:39.863 [Party] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+17:20:39.906 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+17:20:39.906 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+17:20:39.906 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+17:20:39.910 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+17:20:39.910 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+17:20:40.613 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+17:31:07.332 [AI Patrol] Spawning 3 Airfield bots at <4941.514648, 73.161377, 3160.505371>
+17:35:23.328 [AI Patrol] Spawning 2 Milo-Ashville bots at <6841.614746, 30.210857, 2822.041260>
+17:44:43.878 [Safezone] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg= pos=<7404.854980, 62.190182, 4455.394043>) Entered the safezone
+17:46:03.398 [Safezone] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg= pos=<7716.922852, 44.260151, 4802.121582>) Left the safezone
+17:47:58.613 [VehicleEnter] Player 1DEADMANWALKIN [uid=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=] entered vehicle The Zodiac Black (id=E320EAB3394C003CE049D2AD775B7B98 pos=<7742.150391, 0.249895, 5164.268555>) as driver
+17:48:05.148 [VehicleLeave] Player 1DEADMANWALKIN [uid=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=] left vehicle The Zodiac Black (id=E320EAB3394C003CE049D2AD775B7B98 pos=<7742.150391, -0.240154, 5164.268555>)
+17:49:18.281 [Safezone] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg= pos=<7630.458984, 59.035152, 4776.421387>) Entered the safezone
+17:50:32.179 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase truckbattery x1 from the trader "Vehicle_Parts (Oliver [#STR_EXPANSION_MARKET_TRADER_VEHICLE_PARTS])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>).
+17:50:32.191 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought truckbattery x1 from the trader "Vehicle_Parts (Oliver [#STR_EXPANSION_MARKET_TRADER_VEHICLE_PARTS])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>) for a price of 180.
+17:50:33.535 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase carbattery x1 from the trader "Vehicle_Parts (Oliver [#STR_EXPANSION_MARKET_TRADER_VEHICLE_PARTS])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>).
+17:50:33.542 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought carbattery x1 from the trader "Vehicle_Parts (Oliver [#STR_EXPANSION_MARKET_TRADER_VEHICLE_PARTS])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>) for a price of 100.
+17:50:56.531 [AI Patrol] Despawning 3 Airfield bots (spawn position <4941.514648, 73.161377, 3160.505371>, 0/3 deceased)
+17:53:05.980 [AI Patrol] Despawning 2 Milo-Ashville bots (spawn position <6841.614746, 30.210857, 2822.041260>, 0/2 deceased)
+17:53:38.886 [Safezone] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg= pos=<7302.300293, 41.340305, 4711.908691>) Left the safezone
+17:54:19.828 [Safezone] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg= pos=<7361.538574, 63.659092, 4719.041016>) Entered the safezone
+17:54:51.050 [Safezone] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg= pos=<7499.375977, 51.874687, 4834.177246>) Left the safezone
+17:56:55.277 [VehicleEnter] Player 1DEADMANWALKIN [uid=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=] entered vehicle The Zodiac Black (id=E320EAB3394C003CE049D2AD775B7B98 pos=<7742.150391, 0.545043, 5164.268555>) as driver
+18:01:44.042 [VehicleLeave] Player 1DEADMANWALKIN [uid=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=] left vehicle The Zodiac Black (id=E320EAB3394C003CE049D2AD775B7B98 pos=<7410.001953, 0.432000, 7711.500000>)
+18:02:50.480 [AI Patrol] Spawning 3 Mountainville bots at <6582.094238, 20.800049, 8405.801758>
+18:07:40.929 [AI Object Patrol] Spawning 1 East bots at <6612.644043, 22.269283, 8625.120117>
+18:14:32.929 [Killfeed] AI Taiki (East) got beaten to a pulp by AI Kaito (Mountainville) with bare hands.
+18:14:37.679 [AI Object Patrol] East bots were wiped out (spawn position <6612.644043, 22.269283, 8625.120117>, 1/1 deceased)
+18:17:09.320 [AI Object Patrol] Despawning 0 East bots (spawn position <6612.644043, 22.269283, 8625.120117>, 1/1 deceased)
+18:20:52.632 [AI Object Patrol] Spawning 1 East bots at <5300.991211, 5.663317, 9166.144531>
+18:24:41.390 [MissionAirdrop] An airdrop is heading towards "Westbrook" (pos=<3614.000000, 0.000000, 6360.000000> type=Random_Westbrook) with a ExpansionAirdropContainer
+18:25:38.390 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+18:25:38.421 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:25:38.421 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:25:38.421 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:25:38.421 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:25:38.421 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:25:39.359 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:28:04.007 [AI Patrol] Spawning 2 IslandCastle bots at <2768.818115, 24.560255, 13851.500977>
+18:31:52.109 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+18:33:01.187 [AI Patrol] Despawning 3 Mountainville bots (spawn position <6582.094238, 20.800049, 8405.801758>, 0/3 deceased)
+18:37:28.460 [Safezone] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg= pos=<5244.413574, 4.782460, 12398.484375>) Entered the safezone
+18:38:44.625 [AI Object Patrol] Despawning 1 East bots (spawn position <5300.991211, 5.663317, 9166.144531>, 0/1 deceased)
+18:39:37.351 [ATM] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has withdrawn 600000 from his ATM account.
+18:40:31.085 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase harley_davidson_rus_green x1 from the trader "motorcycles (Linda [MOTORCYCLES])" in market zone "motorcycle trader" (pos=<5256.129883, 4.862200, 12442.500000>).
+18:40:31.085 [VehicleDeleted] Harley_Davidson_RUS_green (id=66A059CDB9495A183DA3479043DB3904 pos=<-0.003001, 0.371727, 0.048913>)
+18:40:31.109 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought harley_davidson_rus_green x1 from the trader "motorcycles (Linda [MOTORCYCLES])" in market zone "motorcycle trader" (pos=<5256.129883, 4.862200, 12442.500000>) for a price of 515220.
+18:41:02.984 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase harley_davidson_rus_wheel x1 from the trader "motorcycles (Linda [MOTORCYCLES])" in market zone "motorcycle trader" (pos=<5256.129883, 4.862200, 12442.500000>).
+18:41:02.992 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought harley_davidson_rus_wheel x1 from the trader "motorcycles (Linda [MOTORCYCLES])" in market zone "motorcycle trader" (pos=<5256.129883, 4.862200, 12442.500000>) for a price of 5000.
+18:41:04.093 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase harley_davidson_rus_wheel x1 from the trader "motorcycles (Linda [MOTORCYCLES])" in market zone "motorcycle trader" (pos=<5256.129883, 4.862200, 12442.500000>).
+18:41:04.101 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought harley_davidson_rus_wheel x1 from the trader "motorcycles (Linda [MOTORCYCLES])" in market zone "motorcycle trader" (pos=<5256.129883, 4.862200, 12442.500000>) for a price of 5000.
+18:41:51.507 [AI Patrol] Despawning 2 IslandCastle bots (spawn position <2768.818115, 24.560255, 13851.500977>, 0/2 deceased)
+18:42:22.632 [VehicleCarKey] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg= pos=<5265.585449, 4.782500, 12448.826172>) used the  ExpansionCarKey to unlock Harley_Davidson_RUS_green (id=FDA3B1002B461D48BF2C4DB8551CDE2D pos=<5266.276855, 4.763117, 12448.748047>)
+18:42:43.421 [VehicleEnter] Player 1DEADMANWALKIN [uid=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=] entered vehicle Harley Davidson (id=FDA3B1002B461D48BF2C4DB8551CDE2D pos=<5266.276855, 4.763121, 12448.748047>) as driver
+18:43:49.101 [VehicleEngine] Player 1DEADMANWALKIN [uid=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=] started vehicle Harley Davidson (id=FDA3B1002B461D48BF2C4DB8551CDE2D pos=<5266.276855, 4.763118, 12448.748047>)
+18:44:27.640 [Safezone] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg= pos=<5214.255371, 5.567725, 12225.877930>) Left the safezone
+18:51:24.195 [VehicleLeave] Player 1DEADMANWALKIN [uid=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=] left vehicle Harley Davidson (id=FDA3B1002B461D48BF2C4DB8551CDE2D pos=<5976.394531, 6.394011, 8476.486328>)
+19:09:34.476 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+19:09:34.507 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:09:34.507 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:09:34.507 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:09:34.507 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:09:34.507 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:09:35.453 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:11:40.656 [Party] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+19:11:40.679 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)

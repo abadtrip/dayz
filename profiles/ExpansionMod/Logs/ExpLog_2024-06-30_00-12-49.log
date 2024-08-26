@@ -1,0 +1,46 @@
+00:14:47.075 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+00:14:47.087 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+00:14:47.087 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+00:14:47.087 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+00:14:47.088 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+00:14:47.088 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+00:14:47.984 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+00:16:37.892 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle The Seadoo Camo (id=3529ECD79545DF9EB2513699C420221F pos=<3119.202637, 0.374609, 1646.423218>) as driver
+00:17:35.409 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+00:17:35.418 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+00:17:35.420 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+00:17:35.420 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+00:17:35.421 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+00:17:35.421 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+00:17:36.153 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+00:18:40.734 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle The Seadoo Camo (id=3529ECD79545DF9EB2513699C420221F pos=<3185.749268, -0.033810, 1644.228149>)
+00:18:59.269 [VehicleDeleted] RFWC_Seadoo_Camo (id=4B6815A35C4C60DF1BC59EA87C1F64C4 pos=<0.005640, 0.001733, 0.009462>)
+00:19:19.624 [MissionAirdrop] An airdrop is heading towards "Georgstown" (pos=<4522.000000, 0.000000, 4370.000000> type=Random_Georgstown) with a ExpansionAirdropContainer
+00:20:42.150 [VehicleCarKey] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<3185.333008, -0.565044, 1648.560303>) paired a  ExpansionCarKey to RFWC_Seadoo_Green (id=A85C3E6B4B47190C612E83A90D24CCCD pos=<3183.257324, -0.088765, 1647.490723>)
+00:20:53.901 [VehicleCarKey] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<3182.320313, 0.122560, 1645.127563>) paired a  ExpansionCarKey to RFWC_Seadoo_Orange (id=CA302A3AE74B923728189385D7B6C68D pos=<3181.932373, -0.012224, 1646.521118>)
+00:21:02.313 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle The Seadoo Green (id=A85C3E6B4B47190C612E83A90D24CCCD pos=<3183.257324, 0.344786, 1647.490723>) as driver
+00:21:04.817 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle The Seadoo Orange (id=CA302A3AE74B923728189385D7B6C68D pos=<3181.932373, 0.185101, 1646.521118>) as driver
+00:24:55.878 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle The Seadoo Green (id=A85C3E6B4B47190C612E83A90D24CCCD pos=<3181.716064, -0.022092, 1649.393677>)
+00:25:01.988 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle The Seadoo Orange (id=CA302A3AE74B923728189385D7B6C68D pos=<3193.884033, 0.222744, 1639.878296>)
+00:25:12.698 [VehicleDeleted] RFWC_Seadoo_Orange (id=77370C7BB24E999FAE44F184CF0071D3 pos=<0.005640, 0.001733, 0.009462>)
+00:25:12.718 [VehicleDeleted] RFWC_Seadoo_Orange (id=CA302A3AE74B923728189385D7B6C68D pos=<3193.884033, 0.341300, 1639.878174>)
+00:25:12.720 [VirtualGarage] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<3203.601074, 2.454135, 1659.138794>) stored a vehicle "RFWC_Seadoo_Orange" (GlobalID=8000000080000000800000008000377D pos=<3193.884033, -0.016969, 1639.878174>)
+00:25:26.128 [VehicleDeleted] RFWC_Seadoo_Green (id=1DCBC0E9D2473EE7EABCD7908DD932B0 pos=<0.005640, 0.001733, 0.009462>)
+00:25:26.151 [VehicleDeleted] RFWC_Seadoo_Green (id=A85C3E6B4B47190C612E83A90D24CCCD pos=<3181.716064, 0.289860, 1649.393677>)
+00:25:26.154 [VirtualGarage] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<3203.169434, 2.449889, 1659.217163>) stored a vehicle "RFWC_Seadoo_Green" (GlobalID=8000000080000000800000008000377E pos=<3181.716064, -0.068410, 1649.393677>)
+00:25:34.504 [VehicleCarKey] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<3187.855713, -0.691703, 1645.370850>) paired a  ExpansionCarKey to RFWC_Seadoo_Camo (id=3529ECD79545DF9EB2513699C420221F pos=<3185.801025, 0.112109, 1643.982666>)
+00:26:28.857 [VehicleDeleted] ExpansionMh6_Sunset (id=15C92A0E024BDBC645F28D997C069948 pos=<0.000861, 1.692845, 0.535123>)
+00:26:28.923 [VirtualGarage] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<3203.184082, 2.406553, 1658.593384>) retrieved a vehicle "ExpansionMh6_Sunset" (GlobalID=800000008000000080000000800031B8 pos=<3226.737549, 9.047234, 1651.855469>)
+00:26:32.895 [VehicleDeleted] ExpansionUAZ (id=C0AE2E67DA427F4E3B56D9A8301787E1 pos=<-0.001685, 0.798157, 0.148879>)
+00:26:43.888 [VehicleDeleted] ExpansionUAZCargoRoofless (id=28C5E360F549ABD68C96DFB98CA003A1 pos=<-0.016775, 0.677601, 0.025196>)
+00:26:43.912 [VirtualGarage] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<3203.184082, 2.406553, 1658.593384>) retrieved a vehicle "ExpansionUAZCargoRoofless" (GlobalID=80000000800000008000000080003180 pos=<3198.804688, 2.055266, 1656.136475>)
+00:27:00.011 [VirtualGarage] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<3203.476318, 2.462064, 1659.292236>) retrieved a vehicle "RFWC_Seadoo_Green" (GlobalID=8000000080000000800000008000377E pos=<3181.716064, -0.068410, 1649.393677>)
+00:27:03.354 [VirtualGarage] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<3203.476318, 2.462064, 1659.292236>) retrieved a vehicle "RFWC_Seadoo_Orange" (GlobalID=8000000080000000800000008000377D pos=<3193.884033, -0.016969, 1639.878174>)
+00:27:08.719 [VehicleDeleted] RFWC_DragBoat_Punisher (id=F0351481134170BDE212218D0BD05196 pos=<0.003438, 0.133472, 0.062345>)
+00:27:08.755 [VirtualGarage] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<3203.476318, 2.462064, 1659.292236>) retrieved a vehicle "RFWC_DragBoat_Punisher" (GlobalID=800000008000000080000000800032A2 pos=<3198.875488, -0.531146, 1633.563721>)
+00:30:15.409 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle UAZ 469 (id=E040AE4D5F4D13DFE0BD4FA49307DB8E pos=<3202.079346, 2.738019, 1675.054565>) as driver
+00:30:17.554 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle UAZ 469 (id=E040AE4D5F4D13DFE0BD4FA49307DB8E pos=<3202.079102, 2.738018, 1675.054932>)
+00:30:38.780 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle UAZ 469 (id=E040AE4D5F4D13DFE0BD4FA49307DB8E pos=<3203.933105, 1.245888, 1647.997559>)
+00:30:42.197 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle UAZ 469 (id=E040AE4D5F4D13DFE0BD4FA49307DB8E pos=<3203.933105, 1.245959, 1647.997803>)
+00:34:33.250 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+00:34:54.914 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)

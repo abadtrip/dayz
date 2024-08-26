@@ -1,0 +1,47 @@
+18:42:20.617 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<2162.737305, 20.369946, 14614.436523>) Entered the safezone
+18:42:20.617 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+18:42:20.632 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:42:20.632 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+18:42:20.632 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:42:20.632 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:42:20.640 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:42:20.648 [AI Object Patrol] Spawning 3 West bots at <2720.424561, 7.754950, 14721.131836>
+18:42:20.734 [AI Patrol] Spawning 2 IslandCastle bots at <2448.530273, 24.183800, 13937.504883>
+18:42:21.625 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:42:24.234 [Killfeed] AI Boris (IslandCastle) fell to their death.
+18:44:48.429 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<2159.203613, 20.369967, 14621.811523>) Entered the safezone
+18:44:48.429 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+18:44:48.445 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:44:48.445 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:44:48.445 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:44:48.453 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:44:48.453 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:44:49.195 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:44:55.726 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=FC0331031A459CDA397EBAB816CA8442 pos=<2180.402344, 32.467190, 14614.860352>) as pilot
+18:45:41.093 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase gasmask_filter x1 from the trader "FOOD (Linda [would u like a drink sailor])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>).
+18:45:41.101 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought gasmask_filter x1 from the trader "FOOD (Linda [would u like a drink sailor])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>) for a price of 50000.
+18:46:43.726 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] started vehicle Mh-6 Little Bird (id=FC0331031A459CDA397EBAB816CA8442 pos=<2180.402344, 32.467194, 14614.860352>)
+18:46:45.312 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=FC0331031A459CDA397EBAB816CA8442 pos=<2180.402344, 32.467194, 14614.860352>) as passenger
+18:46:51.671 [MissionAirdrop] An airdrop is heading towards "Warren-Cove" (pos=<6924.000000, 0.000000, 5473.000000> type=Random_Warren-Cove) with a ExpansionAirdropContainer
+18:47:25.304 [AI Object Patrol] Spawning 2 East bots at <1836.760986, 4.459307, 13508.295898>
+18:47:28.945 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<2544.602295, 178.043167, 14144.131836>) Left the safezone
+18:47:29.101 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<2548.938232, 178.235870, 14138.751953>) Left the safezone
+18:48:54.703 [AI Object Patrol] Despawning 3 West bots (spawn position <2720.424561, 7.754950, 14721.131836>, 0/3 deceased)
+18:48:54.718 [AI Object Patrol] Despawning 2 East bots (spawn position <1836.760986, 4.459307, 13508.295898>, 0/2 deceased)
+18:49:01.984 [AI Patrol] Spawning 2 SwampAltar bots at <3730.884766, 13.194243, 9570.085938>
+18:49:46.734 [AI Object Patrol] Spawning 2 East bots at <5389.540039, 3.144200, 7553.140137>
+18:50:09.914 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<5085.052246, 65.401611, 8182.963867>) Entered the safezone
+18:50:09.968 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<5085.939941, 65.482460, 8182.860840>) Entered the safezone
+18:50:57.835 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] stopped vehicle Mh-6 Little Bird (id=FC0331031A459CDA397EBAB816CA8442 pos=<5104.844238, 59.576725, 8028.586426>)
+18:51:07.453 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Mh-6 Little Bird (id=FC0331031A459CDA397EBAB816CA8442 pos=<5104.840332, 59.525326, 8028.585938>)
+18:51:10.835 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=FC0331031A459CDA397EBAB816CA8442 pos=<5104.840332, 59.525333, 8028.585938>)
+18:52:30.101 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase nvgheadstrap x1 from the trader "Clothing_Accessories (Maria [#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+18:52:30.101 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought nvgheadstrap x1 from the trader "Clothing_Accessories (Maria [#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) for a price of 200.
+18:56:18.460 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase charcoaltablets x20 from the trader "Medicals (Helga [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+18:56:18.531 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought charcoaltablets x20 from the trader "Medicals (Helga [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) for a price of 40.
+18:57:56.812 [AI Patrol] Despawning 1 IslandCastle bots (spawn position <2448.530273, 24.183800, 13937.504883>, 1/2 deceased)
+18:58:58.757 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase smallprotectorcase x1 from the trader "Components (Hassan [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+18:58:58.757 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought smallprotectorcase x1 from the trader "Components (Hassan [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) for a price of 70.
+18:59:27.367 [AI Patrol] Despawning 2 SwampAltar bots (spawn position <3730.884766, 13.194243, 9570.085938>, 0/2 deceased)
+19:00:11.390 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+19:00:16.125 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)

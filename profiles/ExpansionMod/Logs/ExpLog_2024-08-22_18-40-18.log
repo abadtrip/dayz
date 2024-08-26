@@ -1,0 +1,129 @@
+18:46:23.906 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer_Medical
+20:15:51.656 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer_Medical
+20:30:37.273 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=
+20:30:37.273 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=
+20:30:37.273 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=
+20:30:37.273 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=
+20:30:37.281 [AI Object Patrol] Spawning 1 East bots at <5154.499023, 6.200936, 9083.839844>
+20:33:17.648 [Safezone] Player "Major Loo" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ= pos=<5073.970215, 37.466209, 8178.926758>) Entered the safezone
+20:34:48.398 [Market] Player "Major Loo" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has send a requested to sell bz_tacthelmet_thai x1 at the trader "Clothing_Accessories (Maria [#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+20:34:48.398 [Market] Player "Major Loo" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has sold bz_tacthelmet_thai x1 at the trader "Clothing_Accessories (Maria [#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 3000.
+20:35:01.726 [Market] Player "Major Loo" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has send a requested to sell bz_leggings_ls x1 at the trader "Clothing (Cyril [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+20:35:01.734 [Market] Player "Major Loo" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has sold bz_leggings_ls x1 at the trader "Clothing (Cyril [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 8500.
+20:38:17.890 [Market] Player "Major Loo" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has send a requested to purchase snafu_ammo_46x30 x101 from the trader "Attachments (Seth [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+20:38:17.898 [Market] Player "Major Loo" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has bought snafu_ammo_46x30 x101 from the trader "Attachments (Seth [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) for a price of 404.
+20:38:43.492 [Market] Player "Major Loo" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has send a requested to sell bz_tacthelmet_wtiger x1 at the trader "Clothing_Accessories (Maria [#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+20:38:43.500 [Market] Player "Major Loo" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has sold bz_tacthelmet_wtiger x1 at the trader "Clothing_Accessories (Maria [#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 2250.
+20:39:04.875 [ATM] Player "Major Loo" (id=EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=) has deposited 13346 on his ATM account.
+20:47:53.890 [AI Object Patrol] Despawning 1 East bots (spawn position <5154.499023, 6.200936, 9083.839844>, 0/1 deceased)
+21:46:01.726 [MissionAirdrop] An airdrop is heading towards "Oldfield" (pos=<6117.000000, 0.000000, 7004.000000> type=Random_Oldfield) with a ExpansionAirdropContainer
+23:13:34.734 [MissionAirdrop] An airdrop is heading towards "Westbrook" (pos=<3614.000000, 0.000000, 6360.000000> type=Random_Westbrook) with a ExpansionAirdropContainer
+00:44:20.781 [MissionAirdrop] An airdrop is heading towards "Oceanville" (pos=<10179.000000, 0.000000, 4722.000000> type=Random_Oceanville) with a ExpansionAirdropContainer_Basebuilding
+02:13:22.843 [MissionAirdrop] An airdrop is heading towards "Stonington" (pos=<6973.000000, 0.000000, 1701.000000> type=Random_Stonington) with a ExpansionAirdropContainer_Military
+03:44:04.890 [MissionAirdrop] An airdrop is heading towards "Oldfield" (pos=<6117.000000, 0.000000, 7004.000000> type=Random_Oldfield) with a ExpansionAirdropContainer
+05:12:43.031 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer_Medical
+06:41:18.640 [MissionAirdrop] An airdrop is heading towards "Hazelands" (pos=<4874.000000, 0.000000, 2452.000000> type=Random_Hazelands) with a ExpansionAirdropContainer_Basebuilding
+08:12:42.656 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer_Medical
+09:42:31.773 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer_Medical
+11:11:23.937 [MissionAirdrop] An airdrop is heading towards "Oceanville" (pos=<10179.000000, 0.000000, 4722.000000> type=Random_Oceanville) with a ExpansionAirdropContainer_Basebuilding
+12:40:30.984 [MissionAirdrop] An airdrop is heading towards "Sandy Bay" (pos=<4627.000000, 0.000000, 7507.000000> type=Random_Sandy Bay) with a ExpansionAirdropContainer_Military
+14:09:17.125 [MissionAirdrop] An airdrop is heading towards "Sandy Bay" (pos=<4627.000000, 0.000000, 7507.000000> type=Random_Sandy Bay) with a ExpansionAirdropContainer_Military
+15:38:40.250 [MissionAirdrop] An airdrop is heading towards "Hazelands" (pos=<4874.000000, 0.000000, 2452.000000> type=Random_Hazelands) with a ExpansionAirdropContainer_Basebuilding
+16:28:34.593 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 3lkUMJD7qBInfhkH6yGA08DTyjQtprYw6aqtU5DbppM=
+16:28:34.593 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 3lkUMJD7qBInfhkH6yGA08DTyjQtprYw6aqtU5DbppM=
+16:28:34.593 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 3lkUMJD7qBInfhkH6yGA08DTyjQtprYw6aqtU5DbppM=
+16:28:34.593 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 3lkUMJD7qBInfhkH6yGA08DTyjQtprYw6aqtU5DbppM=
+16:40:18.906 [Safezone] Player "micha" (id=3lkUMJD7qBInfhkH6yGA08DTyjQtprYw6aqtU5DbppM= pos=<7434.759766, 66.645103, 4783.817871>) Entered the safezone
+16:41:09.937 [ATM] Player "micha" (id=3lkUMJD7qBInfhkH6yGA08DTyjQtprYw6aqtU5DbppM=) has withdrawn 11850 from his ATM account.
+16:45:25.187 [Market] Player "micha" (id=3lkUMJD7qBInfhkH6yGA08DTyjQtprYw6aqtU5DbppM=) has send a requested to sell bz_tactgloves_vietnam x1 at the trader "Clothing (Quinn [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>).
+16:45:25.187 [Market] Player "micha" (id=3lkUMJD7qBInfhkH6yGA08DTyjQtprYw6aqtU5DbppM=) has sold bz_tactgloves_vietnam x1 at the trader "Clothing (Quinn [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>) and got 3000.
+16:46:36.437 [Market] Player "micha" (id=3lkUMJD7qBInfhkH6yGA08DTyjQtprYw6aqtU5DbppM=) has send a requested to sell bz_lv_nvgs x1 at the trader "Clothing_Accessories (Maria [#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>).
+16:46:36.437 [Market] Player "micha" (id=3lkUMJD7qBInfhkH6yGA08DTyjQtprYw6aqtU5DbppM=) has sold bz_lv_nvgs x1 at the trader "Clothing_Accessories (Maria [#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>) and got 7000.
+16:47:33.468 [Market] Player "micha" (id=3lkUMJD7qBInfhkH6yGA08DTyjQtprYw6aqtU5DbppM=) has send a requested to purchase canteen x1 from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>).
+16:47:33.468 [Market] Player "micha" (id=3lkUMJD7qBInfhkH6yGA08DTyjQtprYw6aqtU5DbppM=) has bought canteen x1 from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Hill" (pos=<7529.135742, 89.198120, 4610.044922>) for a price of 18.
+16:48:38.812 [ATM] Player "micha" (id=3lkUMJD7qBInfhkH6yGA08DTyjQtprYw6aqtU5DbppM=) has deposited 21832 on his ATM account.
+16:56:00.953 [Safezone] Player "micha" (id=3lkUMJD7qBInfhkH6yGA08DTyjQtprYw6aqtU5DbppM= pos=<7408.511719, 55.514122, 4841.019531>) Left the safezone
+16:56:49.468 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+16:56:49.500 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+16:56:49.500 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+16:56:49.500 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+16:56:49.500 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+16:56:49.500 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+16:56:50.296 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+16:59:33.750 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+16:59:33.781 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+16:59:33.781 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+16:59:33.781 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+16:59:33.781 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+16:59:33.781 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+16:59:34.468 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+17:09:16.843 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has send a requested to purchase snafu_ammo_300acc x1000 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+17:09:16.859 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has bought snafu_ammo_300acc x1000 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 4000.
+17:10:09.406 [MissionAirdrop] An airdrop is heading towards "Westbrook" (pos=<3614.000000, 0.000000, 6360.000000> type=Random_Westbrook) with a ExpansionAirdropContainer
+17:11:27.656 [ATM] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has deposited 100000 on his ATM account.
+17:13:10.109 [AI Object Patrol] Spawning 1 East bots at <6622.452637, 15.841632, 6393.248047>
+17:14:49.062 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase gcgn_ammo_50cal x200 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+17:14:49.062 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought gcgn_ammo_50cal x200 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 800.
+17:15:17.031 [ATM] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has deposited 40440 on his ATM account.
+17:17:58.500 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle The Whaler (id=1B32CBD2704AC86639E503BE15748A28 pos=<3197.108887, 0.238815, 1633.120605>) as driver
+17:18:15.531 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle The Whaler (id=1B32CBD2704AC86639E503BE15748A28 pos=<3184.367676, 0.179437, 1641.142334>) as passenger
+17:19:38.093 [AI Patrol] Spawning 3 ParisIsland2 bots at <2630.352783, 20.357660, 4335.802246>
+17:21:48.781 [AI Object Patrol] Spawning 1 East bots at <1968.403931, 9.941629, 9001.665039>
+17:21:54.968 [AI Patrol] Spawning 3 OldTown bots at <2080.395752, 25.128708, 8781.064453>
+17:22:38.375 [AI Object Patrol] Spawning 2 East bots at <3236.851318, 3.122551, 10784.713867>
+17:22:44.890 [AI Patrol] Spawning 2 SwampAltar bots at <3572.091309, 12.547869, 9477.110352>
+17:24:05.687 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle The Whaler (id=1B32CBD2704AC86639E503BE15748A28 pos=<3667.819580, 0.139417, 10267.864258>)
+17:24:07.312 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle The Whaler (id=1B32CBD2704AC86639E503BE15748A28 pos=<3667.819580, 0.341353, 10267.864258>)
+17:24:55.125 [AI Object Patrol] Despawning 1 East bots (spawn position <6622.452637, 15.841632, 6393.248047>, 0/1 deceased)
+17:30:07.093 [AI Patrol] Despawning 3 ParisIsland2 bots (spawn position <2630.352783, 20.357660, 4335.802246>, 0/3 deceased)
+17:32:27.937 [AI Patrol] Despawning 3 OldTown bots (spawn position <2080.395752, 25.128708, 8781.064453>, 0/3 deceased)
+17:32:34.359 [AI Object Patrol] Despawning 1 East bots (spawn position <1968.403931, 9.941629, 9001.665039>, 0/1 deceased)
+17:33:41.968 [AI Patrol] Spawning 2 TempleValleyIsle bots at <544.472351, 30.517601, 1008.888367>
+17:40:59.562 [AI Object Patrol] Despawning 2 East bots (spawn position <3236.851318, 3.122551, 10784.713867>, 0/2 deceased)
+17:43:17.156 [AI Patrol] Despawning 2 SwampAltar bots (spawn position <3572.091309, 12.547869, 9477.110352>, 0/2 deceased)
+18:38:02.718 [Killfeed] NOVAKILLSFORYOU fell to their death.
+18:38:32.687 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+18:38:33.671 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:38:39.265 [SpawnSelection] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) spawned at <3233.246338, 2.739967, 1677.017334>
+18:39:22.843 [MissionAirdrop] An airdrop is heading towards "Oldfield" (pos=<6117.000000, 0.000000, 7004.000000> type=Random_Oldfield) with a ExpansionAirdropContainer
+18:55:02.687 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+18:57:33.031 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+18:57:33.062 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:57:33.062 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:57:33.062 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:57:33.062 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:57:33.062 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:57:33.906 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:33:06.890 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle The Whaler (id=1B32CBD2704AC86639E503BE15748A28 pos=<3667.819336, 0.059091, 10267.866211>) as driver
+19:33:10.468 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle The Whaler (id=1B32CBD2704AC86639E503BE15748A28 pos=<3667.819336, -0.212723, 10267.866211>) as passenger
+19:35:00.156 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle The Whaler (id=1B32CBD2704AC86639E503BE15748A28 pos=<3667.819336, 0.048489, 10267.866211>)
+19:35:26.531 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle The Whaler (id=1B32CBD2704AC86639E503BE15748A28 pos=<3667.819336, -0.031669, 10267.866211>) as passenger
+19:39:32.875 [AI Patrol] Despawning 2 TempleValleyIsle bots (spawn position <544.472351, 30.517601, 1008.888367>, 0/2 deceased)
+19:43:39.218 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle The Whaler (id=1B32CBD2704AC86639E503BE15748A28 pos=<3172.428955, 0.727521, 1743.675781>)
+19:43:41.390 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle The Whaler (id=1B32CBD2704AC86639E503BE15748A28 pos=<3172.448730, 0.732401, 1743.619263>)
+19:51:22.187 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+19:53:30.437 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+19:53:30.453 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:53:30.453 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:53:30.453 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:53:30.453 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:53:30.453 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:53:31.312 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+20:07:29.125 [MissionAirdrop] An airdrop is heading towards "Hazelands" (pos=<4874.000000, 0.000000, 2452.000000> type=Random_Hazelands) with a ExpansionAirdropContainer_Basebuilding
+20:14:13.968 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase bz_leggings_abstract1 x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+20:14:13.968 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought bz_leggings_abstract1 x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 8500.
+20:14:58.265 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase bz_shirt_abstract1 x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+20:14:58.281 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought bz_shirt_abstract1 x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 8500.
+20:16:23.375 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+20:17:45.625 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase ammo_762x54 x400 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+20:17:45.625 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought ammo_762x54 x400 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 800.
+20:23:03.968 [ATM] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has withdrawn 40000 from his ATM account.
+20:23:24.468 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase bz_vest_abstract1 x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+20:23:24.468 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought bz_vest_abstract1 x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 8500.
+20:23:36.375 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase bz_abstract1_sneakers x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+20:23:36.375 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought bz_abstract1_sneakers x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 7000.
+20:23:43.937 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase bz_tactgloves_abstract1 x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+20:23:43.937 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought bz_tactgloves_abstract1 x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 3000.
+20:27:04.531 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase bz_beaniehat_abstract1 x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+20:27:04.531 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought bz_beaniehat_abstract1 x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 3000.
+20:31:06.203 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)

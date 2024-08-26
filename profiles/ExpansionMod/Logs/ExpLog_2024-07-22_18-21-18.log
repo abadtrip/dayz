@@ -1,0 +1,31 @@
+18:23:05.976 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+18:23:05.984 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:23:05.992 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+18:23:05.992 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:23:05.992 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:23:05.992 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:23:06.000 [AI Patrol] Spawning 1 West bots at <13915.555664, 4.597418, 2233.541260>
+18:23:06.031 [AI Patrol] Spawning 3 West bots at <13981.305664, 2.198854, 2186.198730>
+18:23:06.765 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:23:15.695 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+18:23:15.710 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:23:15.710 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:23:15.710 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:23:15.710 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:23:15.710 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:23:16.585 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:23:30.812 [Party] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+18:23:30.820 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+18:23:30.820 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:23:30.820 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+18:23:30.828 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+18:23:30.828 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+18:23:31.625 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:23:37.757 [AI Patrol] Spawning 1 West bots at <14437.815430, 118.522774, 1588.170532>
+18:27:45.945 [MissionAirdrop] An airdrop is heading towards "Westbrook" (pos=<3614.000000, 0.000000, 6360.000000> type=Random_Westbrook) with a ExpansionAirdropContainer
+18:33:57.750 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<14502.257813, 132.091980, 2336.341797>) as pilot
+18:34:01.734 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<14502.308594, 132.062820, 2336.458496>) as passenger
+18:34:02.062 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] started vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<14502.309570, 132.061508, 2336.467529>)
+18:34:10.593 [VehicleEnter] Player 1DEADMANWALKIN [uid=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=] entered vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<14502.391602, 132.037033, 2336.693115>) as passenger
+18:34:53.226 [AI Patrol] Spawning 1 East bots at <13058.955078, 41.688652, 3390.873291>
+18:34:54.023 [AI Patrol] Spawning 2 West bots at <14282.390625, 9.604024, 4332.284668>

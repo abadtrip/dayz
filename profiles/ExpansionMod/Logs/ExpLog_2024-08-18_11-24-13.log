@@ -1,0 +1,125 @@
+11:30:12.757 [MissionAirdrop] An airdrop is heading towards "Warren-Cove" (pos=<6924.000000, 0.000000, 5473.000000> type=Random_Warren-Cove) with a ExpansionAirdropContainer_Basebuilding
+12:54:05.109 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+12:54:05.121 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+12:54:05.121 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+12:54:05.125 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+12:54:05.125 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+12:54:05.125 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+12:54:05.898 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+12:58:43.433 [MissionAirdrop] An airdrop is heading towards "Georgstown" (pos=<4522.000000, 0.000000, 4370.000000> type=Random_Georgstown) with a ExpansionAirdropContainer
+13:06:44.050 [VehicleDeleted] ExpansionUAZCargoRoofless (id=DABD18DA6E48ACAC5B21588FF5F50C7F pos=<-0.016775, 0.677601, 0.025196>)
+13:06:44.117 [VirtualGarage] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<3206.336914, 1.731507, 1650.795898>) retrieved a vehicle "ExpansionUAZCargoRoofless" (GlobalID=8000000080000000800000008000BFE1 pos=<3195.831299, 2.728505, 1677.794800>)
+13:08:02.367 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<3195.832275, 2.728504, 1677.795044>) as driver
+13:08:07.316 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<3195.832275, 2.728505, 1677.795044>)
+13:08:09.550 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<3195.832031, 2.728508, 1677.795166>)
+13:08:12.789 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<3195.832031, 2.728508, 1677.795166>)
+13:08:14.921 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<3195.832275, 2.728504, 1677.795044>)
+13:08:19.195 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<3195.832031, 2.728508, 1677.795166>)
+13:09:53.417 [AI Object Patrol] Spawning 2 East bots at <4410.878418, 5.474814, 2849.042725>
+13:10:13.882 [AI Patrol] Spawning 2 Greenville bots at <5293.173340, 24.064404, 2112.040039>
+13:16:39.632 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<4306.646484, 5.683999, 2754.606934>)
+13:16:43.589 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<4306.646484, 5.684000, 2754.606934>)
+13:17:31.625 [Killfeed] AI Judy (East) got killed by MGM_762 with AS50 from a distance of 120 m.
+13:18:33.031 [Killfeed] AI Kaito (East) got killed by MGM_762 with AS50 from a distance of 147 m.
+13:18:37.359 [AI Object Patrol] East bots were wiped out (spawn position <4410.878418, 5.474814, 2849.042725>, 2/2 deceased)
+13:19:50.898 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<4306.646484, 5.683992, 2754.606689>) as driver
+13:19:53.984 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<4306.646484, 5.683999, 2754.606934>)
+13:20:42.996 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<4347.809082, 2.722218, 2833.256592>)
+13:20:46.019 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<4347.809082, 2.722218, 2833.256592>)
+13:21:33.371 [AI Patrol] Despawning 2 Greenville bots (spawn position <5293.173340, 24.064404, 2112.040039>, 0/2 deceased)
+13:27:37.292 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<4347.809082, 2.722192, 2833.256592>) as driver
+13:28:27.453 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<4347.809082, 2.722213, 2833.256592>)
+13:29:47.289 [AI Patrol] Spawning 3 ParisIsland bots at <2670.597900, 22.450001, 3611.327881>
+13:30:08.074 [AI Patrol] Spawning 3 ParisIsland2 bots at <2593.553955, 21.838640, 4038.023438>
+13:31:46.046 [AI Object Patrol] Spawning 2 East bots at <3589.559814, 9.709557, 5392.733398>
+13:32:49.902 [Killfeed] AI Guo (ParisIsland) fell to their death.
+13:33:12.707 [Killfeed] AI Boris (ParisIsland) fell to their death.
+13:34:28.496 [AI Object Patrol] Despawning 2 East bots (spawn position <3589.559814, 9.709557, 5392.733398>, 0/2 deceased)
+13:35:49.199 [AI Object Patrol] Despawning 0 East bots (spawn position <4410.878418, 5.474814, 2849.042725>, 2/2 deceased)
+13:37:07.328 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<3638.921143, 20.515129, 6674.113770>)
+13:37:31.390 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<3638.921143, 20.515196, 6674.113770>) as driver
+13:37:33.191 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<3638.921143, 20.515184, 6674.113770>)
+13:37:36.281 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<3638.921143, 20.515184, 6674.113770>)
+13:38:14.363 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<3638.921143, 20.515171, 6674.113770>) as driver
+13:38:18.800 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<3638.921143, 20.515186, 6674.113770>)
+13:40:35.460 [Killfeed] AI Peter (ParisIsland) fell to their death.
+13:40:39.226 [AI Patrol] ParisIsland bots were wiped out (spawn position <2670.597900, 22.450001, 3611.327881>, 3/3 deceased)
+13:42:04.058 [AI Patrol] Despawning 3 ParisIsland2 bots (spawn position <2593.553955, 21.838640, 4038.023438>, 0/3 deceased)
+13:43:13.632 [AI Patrol] Spawning 2 SwampAltar bots at <3698.391113, 11.330000, 8661.109375>
+13:47:32.320 [AI Object Patrol] Spawning 3 West bots at <3264.501465, 3.647374, 11169.711914>
+13:47:51.742 [Killfeed] AI Baty (West) got killed by AI Elias (West) with VSSK from a distance of 2 m.
+13:50:25.921 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<3645.195068, 8.085623, 10244.020508>)
+13:51:20.562 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<3645.195313, 8.085567, 10244.020508>) as driver
+13:52:55.148 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<3508.729004, 9.356112, 10295.979492>)
+13:52:59.164 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<3508.728760, 9.356097, 10295.979492>)
+13:53:38.996 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<3508.729004, 9.356104, 10295.979492>) as driver
+13:53:41.898 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<3508.729004, 9.356108, 10295.979492>)
+13:59:38.234 [AI Patrol] Spawning 2 Powerplant bots at <4810.182129, 22.045811, 6874.928711>
+14:01:08.722 [AI Patrol] Despawning 2 SwampAltar bots (spawn position <3698.391113, 11.330000, 8661.109375>, 0/2 deceased)
+14:01:36.503 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<5079.940430, 38.812592, 8180.870605>) Entered the safezone
+14:02:13.871 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<5116.665527, 59.475616, 8030.569824>)
+14:02:26.292 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<5116.665527, 59.475613, 8030.569336>) as driver
+14:03:04.906 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<5084.869629, 59.369022, 7990.533691>)
+14:03:08.222 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<5084.869629, 59.369022, 7990.533691>)
+14:04:34.187 [AI Object Patrol] Despawning 2 West bots (spawn position <3264.501465, 3.647374, 11169.711914>, 1/3 deceased)
+14:06:23.480 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase ammo_huntingbolt x5 from the trader "Attachments (Seth [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+14:06:23.484 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought ammo_huntingbolt x5 from the trader "Attachments (Seth [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) for a price of 25.
+14:08:19.035 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase snafu_docter x1 from the trader "Attachments (Seth [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+14:08:19.035 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought snafu_docter x1 from the trader "Attachments (Seth [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) for a price of 400.
+14:13:34.652 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase crossbow_autumn x1 from the trader "Weapons (Mirek [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+14:13:34.656 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought crossbow_autumn x1 from the trader "Weapons (Mirek [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) for a price of 800.
+14:13:43.363 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell crossbow_autumn x1 at the trader "Weapons (Mirek [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+14:13:43.367 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold crossbow_autumn x1 at the trader "Weapons (Mirek [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 600.
+14:14:05.593 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase crossbow_black x1 from the trader "Weapons (Mirek [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+14:14:05.597 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought crossbow_black x1 from the trader "Weapons (Mirek [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) for a price of 800.
+14:16:28.859 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase ammo_huntingbolt x1 from the trader "Attachments (Seth [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+14:16:28.859 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought ammo_huntingbolt x1 from the trader "Attachments (Seth [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) for a price of 5.
+14:17:43.074 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase buisoptic x1 from the trader "Attachments (Seth [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+14:17:43.078 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought buisoptic x1 from the trader "Attachments (Seth [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) for a price of 150.
+14:18:46.390 [AI Object Patrol] Spawning 2 East bots at <5389.531738, 3.141980, 7553.063477>
+14:19:50.539 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell buisoptic x1 at the trader "Attachments (Seth [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+14:19:50.546 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold buisoptic x1 at the trader "Attachments (Seth [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 112.
+14:20:42.917 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase fnp45_mrdsoptic x1 from the trader "Attachments (Seth [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+14:20:42.921 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought fnp45_mrdsoptic x1 from the trader "Attachments (Seth [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) for a price of 260.
+14:26:21.460 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+14:26:21.484 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+14:26:21.484 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+14:26:21.488 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+14:26:21.488 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+14:26:21.488 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+14:26:22.328 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+14:26:45.105 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<5097.017090, 59.453178, 7988.254883>) Entered the safezone
+14:27:35.054 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell bz_shirt_alienware x1 at the trader "Clothing (Cyril [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+14:27:35.054 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold bz_shirt_alienware x1 at the trader "Clothing (Cyril [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 4250.
+14:27:54.718 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<5084.869629, 59.369022, 7990.533691>) as driver
+14:28:19.074 [MissionAirdrop] An airdrop is heading towards "Oldfield" (pos=<6117.000000, 0.000000, 7004.000000> type=Random_Oldfield) with a ExpansionAirdropContainer_Medical
+14:30:28.710 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<5084.869629, 59.369022, 7990.533691>)
+14:30:35.429 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<5084.869629, 59.369022, 7990.533691>) as passenger
+14:31:37.476 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<5245.861328, 19.542650, 8328.923828>) Left the safezone
+14:31:37.773 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<5246.227539, 19.474136, 8332.187500>) Left the safezone
+14:32:05.855 [AI Object Patrol] Spawning 2 East bots at <6612.644043, 22.269283, 8625.120117>
+14:32:23.039 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<5822.166992, 8.888383, 8317.896484>)
+14:34:40.082 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<5472.174805, 24.924236, 7313.904785>)
+14:34:43.507 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<5472.174805, 24.924253, 7313.904297>)
+14:35:16.515 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<5472.174805, 24.924232, 7313.904785>) as driver
+14:35:19.015 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<5472.174805, 24.924234, 7313.904785>)
+14:39:13.863 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<6190.851074, 33.377926, 6965.631836>)
+14:39:16.980 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<6190.851074, 33.377930, 6965.631836>)
+14:41:23.906 [AI Patrol] Despawning 2 Powerplant bots (spawn position <4810.182129, 22.045811, 6874.928711>, 0/2 deceased)
+14:43:05.082 [AI Object Patrol] Despawning 2 East bots (spawn position <6612.644043, 22.269283, 8625.120117>, 0/2 deceased)
+14:43:11.812 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<6190.851074, 33.377930, 6965.631836>) as driver
+14:43:13.796 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<6190.851074, 33.377930, 6965.631836>)
+14:48:31.664 [AI Patrol] Spawning 3 SouthOfSmallville bots at <8616.810547, 3.900000, 3947.232178>
+14:49:44.539 [AI Patrol] Spawning 2 CampEagle-NE bots at <9237.041016, 50.168217, 3663.318115>
+14:51:41.457 [AI Object Patrol] Despawning 2 East bots (spawn position <5389.531738, 3.141980, 7553.063477>, 0/2 deceased)
+14:54:05.382 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<10372.893555, 2.059965, 5586.405273>)
+14:54:09.613 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<10372.893555, 2.059968, 5586.405273>)
+14:54:42.246 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<10498.727539, 1.664466, 5678.645996>) Entered the safezone
+14:55:03.000 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<10497.968750, 1.692526, 5676.298828>) Entered the safezone
+14:55:17.613 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<10499.033203, 1.664466, 5681.270996>) Entered the safezone
+14:58:56.074 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<10494.335938, 1.897940, 5664.977051>) Left the safezone
+14:59:01.312 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<10491.092773, 1.792013, 5666.874512>) Left the safezone
+15:00:43.898 [AI Patrol] Despawning 3 SouthOfSmallville bots (spawn position <8616.810547, 3.900000, 3947.232178>, 0/3 deceased)
+15:01:18.597 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+15:01:19.062 [AI Patrol] Despawning 2 CampEagle-NE bots (spawn position <9237.041016, 50.168217, 3663.318115>, 0/2 deceased)
+15:01:25.300 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)

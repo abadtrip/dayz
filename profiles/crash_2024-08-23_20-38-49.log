@@ -1,0 +1,282 @@
+---------------------------------------------
+Log C:\Users\Administrator\Desktop\servers\2\profiles\crash_2024-08-23_20-38-49.log started at 23.08. 20:39:34
+
+
+
+------------------------------------
+WIN-UU5EFMOPA3M, 23.08 2024 20:39:34
+
+Item bz_battery_9v has already been added to category Batteries (ID 9)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:224
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:123
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:160
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1099
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:53
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:58
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:38
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\expansionsettings.c:22
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:304
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:117
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:15
+$CurrentDir:mpmissions\empty.deerisle\init.c:110
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2402 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DeerIsle;@Dabs Framework;@SNAFU Weapons;@RedFalcon Watercraft;@VPPAdminTools;@ZomBerry Admin Tools;@CannabisPlus;@BallerZ Gear;@PristineRepair;@DayZ-Expansion-Licensed;@SIX-DayZ-Auto-Run;@DayZ-Expansion-Bundle;@FlipTransport;@Portable Houses (codelock version);@Code Lock;@ClothingInventoryFix;@MuchStuffPack;@MuchFramework;@Solar Panel Power System;@MagazineLoading;@BulletStacksPlusPlusEnhanced;@DayZ-Dog;@Admirals Parachute Mod;@RUSForma_Motorcycles;@LightObjects; 
+
+
+------------------------------------
+WIN-UU5EFMOPA3M, 23.08 2024 20:39:34
+
+Item bz_bandage has already been added to category Ballerzmeds (ID 7)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:224
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:123
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:160
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1099
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:53
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:58
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:38
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\expansionsettings.c:22
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:304
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:117
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:15
+$CurrentDir:mpmissions\empty.deerisle\init.c:110
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2402 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DeerIsle;@Dabs Framework;@SNAFU Weapons;@RedFalcon Watercraft;@VPPAdminTools;@ZomBerry Admin Tools;@CannabisPlus;@BallerZ Gear;@PristineRepair;@DayZ-Expansion-Licensed;@SIX-DayZ-Auto-Run;@DayZ-Expansion-Bundle;@FlipTransport;@Portable Houses (codelock version);@Code Lock;@ClothingInventoryFix;@MuchStuffPack;@MuchFramework;@Solar Panel Power System;@MagazineLoading;@BulletStacksPlusPlusEnhanced;@DayZ-Dog;@Admirals Parachute Mod;@RUSForma_Motorcycles;@LightObjects; 
+
+
+------------------------------------
+WIN-UU5EFMOPA3M, 23.08 2024 20:39:34
+
+Item carbattery has already been added to category Batteries (ID 9)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:224
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:123
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:160
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1099
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:53
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:58
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:38
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\expansionsettings.c:22
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:304
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:117
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:15
+$CurrentDir:mpmissions\empty.deerisle\init.c:110
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2402 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DeerIsle;@Dabs Framework;@SNAFU Weapons;@RedFalcon Watercraft;@VPPAdminTools;@ZomBerry Admin Tools;@CannabisPlus;@BallerZ Gear;@PristineRepair;@DayZ-Expansion-Licensed;@SIX-DayZ-Auto-Run;@DayZ-Expansion-Bundle;@FlipTransport;@Portable Houses (codelock version);@Code Lock;@ClothingInventoryFix;@MuchStuffPack;@MuchFramework;@Solar Panel Power System;@MagazineLoading;@BulletStacksPlusPlusEnhanced;@DayZ-Dog;@Admirals Parachute Mod;@RUSForma_Motorcycles;@LightObjects; 
+
+
+------------------------------------
+WIN-UU5EFMOPA3M, 23.08 2024 20:39:35
+
+[ExpansionMarketItem] The minimum price must be lower than or equal to the maximum price for 'msp_greenhouse_kit'
+Class:      'ExpansionMarketItem'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketitem.c:153
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:150
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:160
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1099
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:53
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:58
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:38
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\expansionsettings.c:22
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:304
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:117
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:15
+$CurrentDir:mpmissions\empty.deerisle\init.c:110
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2402 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DeerIsle;@Dabs Framework;@SNAFU Weapons;@RedFalcon Watercraft;@VPPAdminTools;@ZomBerry Admin Tools;@CannabisPlus;@BallerZ Gear;@PristineRepair;@DayZ-Expansion-Licensed;@SIX-DayZ-Auto-Run;@DayZ-Expansion-Bundle;@FlipTransport;@Portable Houses (codelock version);@Code Lock;@ClothingInventoryFix;@MuchStuffPack;@MuchFramework;@Solar Panel Power System;@MagazineLoading;@BulletStacksPlusPlusEnhanced;@DayZ-Dog;@Admirals Parachute Mod;@RUSForma_Motorcycles;@LightObjects; 
+
+
+------------------------------------
+WIN-UU5EFMOPA3M, 23.08 2024 20:39:35
+
+Item adm_parachutebag_fabric has already been added to category flyingandfalling (ID 48)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:224
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:123
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:160
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1099
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:53
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:58
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:38
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\expansionsettings.c:22
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:304
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:117
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:15
+$CurrentDir:mpmissions\empty.deerisle\init.c:110
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2402 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DeerIsle;@Dabs Framework;@SNAFU Weapons;@RedFalcon Watercraft;@VPPAdminTools;@ZomBerry Admin Tools;@CannabisPlus;@BallerZ Gear;@PristineRepair;@DayZ-Expansion-Licensed;@SIX-DayZ-Auto-Run;@DayZ-Expansion-Bundle;@FlipTransport;@Portable Houses (codelock version);@Code Lock;@ClothingInventoryFix;@MuchStuffPack;@MuchFramework;@Solar Panel Power System;@MagazineLoading;@BulletStacksPlusPlusEnhanced;@DayZ-Dog;@Admirals Parachute Mod;@RUSForma_Motorcycles;@LightObjects; 
+
+
+------------------------------------
+WIN-UU5EFMOPA3M, 23.08 2024 20:39:35
+
+Item headlighth7_box has already been added to category motorcycle_parts (ID 74)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:224
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:123
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:160
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1099
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:53
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:58
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:38
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\expansionsettings.c:22
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:304
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:37
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:117
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:15
+$CurrentDir:mpmissions\empty.deerisle\init.c:110
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2402 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DeerIsle;@Dabs Framework;@SNAFU Weapons;@RedFalcon Watercraft;@VPPAdminTools;@ZomBerry Admin Tools;@CannabisPlus;@BallerZ Gear;@PristineRepair;@DayZ-Expansion-Licensed;@SIX-DayZ-Auto-Run;@DayZ-Expansion-Bundle;@FlipTransport;@Portable Houses (codelock version);@Code Lock;@ClothingInventoryFix;@MuchStuffPack;@MuchFramework;@Solar Panel Power System;@MagazineLoading;@BulletStacksPlusPlusEnhanced;@DayZ-Dog;@Admirals Parachute Mod;@RUSForma_Motorcycles;@LightObjects; 
+
+
+------------------------------------
+WIN-UU5EFMOPA3M, 24.08 2024 00:33:23
+NULL pointer to instance
+Function: 'BuildList'
+Stack trace:
+VPPAdminTools/3_Game/vppadmintools\playerlist\playerlist.c:253
+VPPAdminTools/3_Game/vppadmintools\playerlist\playerlist.c:296
+VPPAdminTools/3_Game/vppadmintools\playerlist\playerlist.c:224
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:482
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:264
+Dayz_Dog/scripts/5_Mission/missionserver.c:59
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:246
+DayZExpansion/AI/Scripts/5_Mission/dayzexpansion_ai\mission\missionserver.c:82
+scripts/5_Mission/mission\missionserver.c:243
+scripts/5_Mission/mission\missionserver.c:98
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:58
+JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c:46
+scripts/3_Game/dayzgame.c:2846
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:211
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:248
+AdmiralsParachuteMod\scripts\3_Game/dayzgame\adm_dayzgame.c:70
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2402 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DeerIsle;@Dabs Framework;@SNAFU Weapons;@RedFalcon Watercraft;@VPPAdminTools;@ZomBerry Admin Tools;@CannabisPlus;@BallerZ Gear;@PristineRepair;@DayZ-Expansion-Licensed;@SIX-DayZ-Auto-Run;@DayZ-Expansion-Bundle;@FlipTransport;@Portable Houses (codelock version);@Code Lock;@ClothingInventoryFix;@MuchStuffPack;@MuchFramework;@Solar Panel Power System;@MagazineLoading;@BulletStacksPlusPlusEnhanced;@DayZ-Dog;@Admirals Parachute Mod;@RUSForma_Motorcycles;@LightObjects; 
+
+
+------------------------------------
+WIN-UU5EFMOPA3M, 24.08 2024 21:37:58
+NULL pointer to instance
+Class:      'ZomberryStockFunctions'
+Function: 'MessagePlayer'
+Stack trace:
+ZomBerry/AT/scripts/5_Mission/zomberrystockfnc.c:68
+ZomBerry/AT/scripts/5_Mission/zomberrystockfnc.c:233
+ZomBerry/AT/scripts/5_Mission/zomberrystockfnc.c:162
+ZomBerry/AT/scripts/5_Mission/zomberrystockfnc.c:251
+ZomBerry/AT/scripts/5_Mission/zomberry.c:297
+JM/CF/Scripts/3_Game/communityframework\rpc\rpcmanager.c:91
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:42
+VPPAdminTools/3_Game/communityframework\rpc\dayzgame.c:10
+WRDG/FlipTransport/Scripts/3_Game/fliptransport\dayzgame.c:5
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:284
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2402 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DeerIsle;@Dabs Framework;@SNAFU Weapons;@RedFalcon Watercraft;@VPPAdminTools;@ZomBerry Admin Tools;@CannabisPlus;@BallerZ Gear;@PristineRepair;@DayZ-Expansion-Licensed;@SIX-DayZ-Auto-Run;@DayZ-Expansion-Bundle;@FlipTransport;@Portable Houses (codelock version);@Code Lock;@ClothingInventoryFix;@MuchStuffPack;@MuchFramework;@Solar Panel Power System;@MagazineLoading;@BulletStacksPlusPlusEnhanced;@DayZ-Dog;@Admirals Parachute Mod;@RUSForma_Motorcycles;@LightObjects; 
+
+
+------------------------------------
+WIN-UU5EFMOPA3M, 24.08 2024 22:00:31
+NULL pointer to instance
+Class:      'ZomberryStockFunctions'
+Function: 'MessagePlayer'
+Stack trace:
+ZomBerry/AT/scripts/5_Mission/zomberrystockfnc.c:68
+ZomBerry/AT/scripts/5_Mission/zomberrystockfnc.c:233
+ZomBerry/AT/scripts/5_Mission/zomberrystockfnc.c:162
+ZomBerry/AT/scripts/5_Mission/zomberrystockfnc.c:251
+ZomBerry/AT/scripts/5_Mission/zomberry.c:297
+JM/CF/Scripts/3_Game/communityframework\rpc\rpcmanager.c:91
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:42
+VPPAdminTools/3_Game/communityframework\rpc\dayzgame.c:10
+WRDG/FlipTransport/Scripts/3_Game/fliptransport\dayzgame.c:5
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:284
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2402 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DeerIsle;@Dabs Framework;@SNAFU Weapons;@RedFalcon Watercraft;@VPPAdminTools;@ZomBerry Admin Tools;@CannabisPlus;@BallerZ Gear;@PristineRepair;@DayZ-Expansion-Licensed;@SIX-DayZ-Auto-Run;@DayZ-Expansion-Bundle;@FlipTransport;@Portable Houses (codelock version);@Code Lock;@ClothingInventoryFix;@MuchStuffPack;@MuchFramework;@Solar Panel Power System;@MagazineLoading;@BulletStacksPlusPlusEnhanced;@DayZ-Dog;@Admirals Parachute Mod;@RUSForma_Motorcycles;@LightObjects; 
+
+
+------------------------------------
+WIN-UU5EFMOPA3M, 25.08 2024 00:19:58
+NULL pointer to instance
+Function: 'BuildList'
+Stack trace:
+VPPAdminTools/3_Game/vppadmintools\playerlist\playerlist.c:253
+VPPAdminTools/3_Game/vppadmintools\playerlist\playerlist.c:296
+VPPAdminTools/3_Game/vppadmintools\playerlist\playerlist.c:224
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:482
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:264
+Dayz_Dog/scripts/5_Mission/missionserver.c:59
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:246
+DayZExpansion/AI/Scripts/5_Mission/dayzexpansion_ai\mission\missionserver.c:82
+scripts/5_Mission/mission\missionserver.c:243
+scripts/5_Mission/mission\missionserver.c:98
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:58
+JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c:46
+scripts/3_Game/dayzgame.c:2846
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:211
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:248
+AdmiralsParachuteMod\scripts\3_Game/dayzgame\adm_dayzgame.c:70
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2402 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DeerIsle;@Dabs Framework;@SNAFU Weapons;@RedFalcon Watercraft;@VPPAdminTools;@ZomBerry Admin Tools;@CannabisPlus;@BallerZ Gear;@PristineRepair;@DayZ-Expansion-Licensed;@SIX-DayZ-Auto-Run;@DayZ-Expansion-Bundle;@FlipTransport;@Portable Houses (codelock version);@Code Lock;@ClothingInventoryFix;@MuchStuffPack;@MuchFramework;@Solar Panel Power System;@MagazineLoading;@BulletStacksPlusPlusEnhanced;@DayZ-Dog;@Admirals Parachute Mod;@RUSForma_Motorcycles;@LightObjects; 
+
+
+------------------------------------
+WIN-UU5EFMOPA3M, 25.08 2024 21:03:11
+NULL pointer to instance
+Function: 'BuildList'
+Stack trace:
+VPPAdminTools/3_Game/vppadmintools\playerlist\playerlist.c:253
+VPPAdminTools/3_Game/vppadmintools\playerlist\playerlist.c:296
+VPPAdminTools/3_Game/vppadmintools\playerlist\playerlist.c:224
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:482
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:264
+Dayz_Dog/scripts/5_Mission/missionserver.c:59
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:246
+DayZExpansion/AI/Scripts/5_Mission/dayzexpansion_ai\mission\missionserver.c:82
+scripts/5_Mission/mission\missionserver.c:243
+scripts/5_Mission/mission\missionserver.c:98
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:58
+JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c:46
+scripts/3_Game/dayzgame.c:2846
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:211
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:248
+AdmiralsParachuteMod\scripts\3_Game/dayzgame\adm_dayzgame.c:70
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2402 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DeerIsle;@Dabs Framework;@SNAFU Weapons;@RedFalcon Watercraft;@VPPAdminTools;@ZomBerry Admin Tools;@CannabisPlus;@BallerZ Gear;@PristineRepair;@DayZ-Expansion-Licensed;@SIX-DayZ-Auto-Run;@DayZ-Expansion-Bundle;@FlipTransport;@Portable Houses (codelock version);@Code Lock;@ClothingInventoryFix;@MuchStuffPack;@MuchFramework;@Solar Panel Power System;@MagazineLoading;@BulletStacksPlusPlusEnhanced;@DayZ-Dog;@Admirals Parachute Mod;@RUSForma_Motorcycles;@LightObjects; 

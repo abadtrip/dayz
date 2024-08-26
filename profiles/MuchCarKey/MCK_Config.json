@@ -1,0 +1,19 @@
+{
+    "version": 4,
+    "CanCraftKey": 1,
+    "CanPickCarLocks": 0,
+    "RaidTools": [
+        "Lockpick"
+    ],
+    "ToolDamage": 50,
+    "ChanceToPickLock": -1.0,
+    "TimeToPickLock": 200.0,
+    "RaidResetsKeyAssigned": 1,
+    "LifetimeMaintenanceEnabled": 0,
+    "MaxLifetime": 1296000,
+    "MaxLifetimeWithoutAnyPlayerInteraction": 432000,
+    "CanPlayersResetKey": 0,
+    "HideInventoryWhenDoorsClosed": 0,
+    "DoFileLogs": 1,
+    "ActivateExtendedLogs": 1
+}

@@ -1,0 +1,21 @@
+16:51:40.371 [MissionAirdrop] An airdrop is heading towards "Oceanville" (pos=<10179.000000, 0.000000, 4722.000000> type=Random_Oceanville) with a ExpansionAirdropContainer
+16:54:39.363 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<5271.291992, 4.913675, 12469.106445>) Entered the safezone
+16:54:39.363 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+16:54:39.390 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+16:54:39.390 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+16:54:39.390 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+16:54:39.394 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+16:54:39.394 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+16:54:40.195 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+16:57:27.699 [VehicleDeleted] motorbike_green (id=5178ED9E844AD35254D059A232DE2909 pos=<5266.266602, 4.691992, 12448.839844>)
+16:57:30.871 [VehicleDeleted] vino_RF (id=8DE2953A364CB26291090ABCA203F6F1 pos=<5277.718750, 4.574653, 12463.064453>)
+16:57:33.699 [VehicleDeleted] URAL_M62_milicia (id=D90F5AD8DB4A0E89F01A18986937AF07 pos=<5278.201172, 4.688507, 12465.804688>)
+16:57:37.386 [VehicleDeleted] moped_80 (id=CEA46CC7AD4B983D0D193C8806283E9F pos=<5278.059082, 4.624727, 12469.224609>)
+16:57:40.949 [VehicleDeleted] jawa_350_638 (id=CC4B14B2244DE7F5F6C0DE95D1CF3729 pos=<5275.964355, 4.549153, 12470.472656>)
+16:57:43.871 [VehicleDeleted] Izh_56K_RUS (id=B3A6D1400348C1BF3FFF1DBB4223ACBE pos=<5273.356934, 4.515786, 12471.694336>)
+16:57:46.867 [VehicleDeleted] Izh_56_RUS (id=0252F3ECC9469CCF7B8D799CCEF93C5A pos=<5271.473145, 4.790046, 12470.750977>)
+16:57:49.667 [VehicleDeleted] Harley_Davidson_RUS_red (id=64742801AE4EF946B8AEF598A58FC374 pos=<5269.355469, 4.534574, 12470.274414>)
+16:57:53.105 [VehicleDeleted] Dnepr_MT_11 (id=3FB4C23B7D48638D2FF2BC86F433F9F0 pos=<5267.902344, 4.486338, 12467.791016>)
+16:57:56.117 [VehicleDeleted] DadyBikeRF_black (id=7FC9907B6140A1954BF382B8165BEE5B pos=<5268.548828, 4.518997, 12443.541992>)
+16:57:58.914 [VehicleDeleted] Buran_red (id=9B2A39DF4A4952559E43BE963BDAC35A pos=<5266.880371, 4.579813, 12443.892578>)
+17:00:34.828 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)

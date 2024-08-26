@@ -1,0 +1,259 @@
+08:40:05.560 [MissionAirdrop] An airdrop is heading towards "Hazelands" (pos=<4539.000000, 0.000000, 2317.000000> type=Random_Hazelands) with a ExpansionAirdropContainer_Medical
+10:11:18.746 [MissionAirdrop] An airdrop is heading towards "Stonington" (pos=<6973.000000, 0.000000, 1701.000000> type=Random_Stonington) with a ExpansionAirdropContainer_Military
+11:41:55.835 [MissionAirdrop] An airdrop is heading towards "Oldfield" (pos=<6117.000000, 0.000000, 7004.000000> type=Random_Oldfield) with a ExpansionAirdropContainer
+13:09:35.835 [MissionAirdrop] An airdrop is heading towards "Sandy Bay" (pos=<4627.000000, 0.000000, 7507.000000> type=Random_Sandy Bay) with a ExpansionAirdropContainer_Basebuilding
+14:38:39.859 [MissionAirdrop] An airdrop is heading towards "Oceanville" (pos=<10179.000000, 0.000000, 4722.000000> type=Random_Oceanville) with a ExpansionAirdropContainer_Basebuilding
+16:07:25.867 [MissionAirdrop] An airdrop is heading towards "Sandy Bay" (pos=<4627.000000, 0.000000, 7507.000000> type=Random_Sandy Bay) with a ExpansionAirdropContainer_Basebuilding
+17:24:54.097 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: 985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE=
+17:24:54.125 [Expansion Quests] - CompleteQuest - Player with UID 985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE= has completed quest 14
+17:25:21.992 [SpawnSelection] Player "PsiTom" (id=985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE=) spawned at <10299.725586, 43.082348, 5171.118652>
+17:25:22.007 [AI Object Patrol] Spawning 1 East bots at <9770.666016, 7.013412, 4344.996094>
+17:28:19.242 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE=
+17:28:19.242 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE=
+17:28:19.242 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE=
+17:28:19.242 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE=
+17:28:52.925 [Chat - Direct]("PsiTom"(id=985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE=)): Ok Im in water under the map? WTH?
+17:29:08.687 [Chat - Global]("PsiTom"(id=985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE=)): why am I under the map? In water., swimming
+17:37:12.890 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer_Medical
+17:38:58.945 [AI Object Patrol] Despawning 1 East bots (spawn position <9770.666016, 7.013412, 4344.996094>, 0/1 deceased)
+19:06:24.937 [MissionAirdrop] An airdrop is heading towards "Oceanville" (pos=<10179.000000, 0.000000, 4722.000000> type=Random_Oceanville) with a ExpansionAirdropContainer_Basebuilding
+19:45:17.929 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE=
+19:45:17.929 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE=
+19:45:17.929 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE=
+19:45:17.929 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE=
+19:45:43.125 [Chat - Global]("PsiTom"(id=985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE=)): is there NO ONE that can get ME out of the map please!!!!
+19:45:47.343 [Chat - Global]("PsiTom"(id=985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE=)): ADMIN
+20:35:18.984 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer_Medical
+22:04:36.062 [MissionAirdrop] An airdrop is heading towards "Stonington" (pos=<6973.000000, 0.000000, 1701.000000> type=Random_Stonington) with a ExpansionAirdropContainer_Military
+23:35:47.093 [MissionAirdrop] An airdrop is heading towards "Oldfield" (pos=<6117.000000, 0.000000, 7004.000000> type=Random_Oldfield) with a ExpansionAirdropContainer
+00:49:22.257 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE=
+00:49:22.257 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE=
+00:49:22.257 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE=
+00:49:22.257 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE=
+00:49:22.265 [AI Object Patrol] Spawning 1 East bots at <9770.625977, 7.012744, 4345.062500>
+00:50:17.437 [Chat - Global]("PsiTom"(id=985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE=)): HEELPPP
+00:56:52.257 [Chat - Global]("PsiTom"(id=985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE=)): whos shooting
+00:58:10.703 [Chat - Global]("PsiTom"(id=985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE=)): who ever was shooting, Im under the map right below you. : )
+01:03:11.328 [AI Patrol] Spawning 2 CampEagle-NE bots at <9490.051758, 71.487526, 3563.086426>
+01:03:24.640 [Killfeed] PsiTom starved to death.
+01:03:56.187 [SpawnSelection] Player "PsiTom" (id=985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE=) spawned at <10307.980469, 4.610003, 4283.039551>
+01:04:27.093 [MissionAirdrop] An airdrop is heading towards "Oldfield" (pos=<6117.000000, 0.000000, 7004.000000> type=Random_Oldfield) with a ExpansionAirdropContainer
+01:13:33.265 [AI Patrol] Despawning 2 CampEagle-NE bots (spawn position <9490.051758, 71.487526, 3563.086426>, 0/2 deceased)
+01:14:54.046 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE=
+01:14:54.046 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE=
+01:14:54.046 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE=
+01:14:54.046 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE=
+01:26:34.453 [Chat - Global]("PsiTom"(id=985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE=)): Jump Scare
+01:34:18.804 [AI Object Patrol] Despawning 1 East bots (spawn position <9770.625977, 7.012744, 4345.062500>, 0/1 deceased)
+02:32:12.164 [MissionAirdrop] An airdrop is heading towards "Oceanville" (pos=<10179.000000, 0.000000, 4722.000000> type=Random_Oceanville) with a ExpansionAirdropContainer_Basebuilding
+04:01:05.179 [MissionAirdrop] An airdrop is heading towards "Oldfield" (pos=<6117.000000, 0.000000, 7004.000000> type=Random_Oldfield) with a ExpansionAirdropContainer
+04:02:41.304 [Safezone] Player "Reapskie" (id=hx4KLs__vN5RyM_Afu-G5rhncBn2UUHcjWd0WP75y7c= pos=<7530.988770, 87.682503, 4605.383301>) Entered the safezone
+04:02:41.335 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: hx4KLs__vN5RyM_Afu-G5rhncBn2UUHcjWd0WP75y7c=
+04:02:41.335 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: hx4KLs__vN5RyM_Afu-G5rhncBn2UUHcjWd0WP75y7c=
+04:02:41.335 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: hx4KLs__vN5RyM_Afu-G5rhncBn2UUHcjWd0WP75y7c=
+04:02:41.335 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: hx4KLs__vN5RyM_Afu-G5rhncBn2UUHcjWd0WP75y7c=
+05:28:45.250 [MissionAirdrop] An airdrop is heading towards "Old-Town" (pos=<1849.000000, 0.000000, 8830.000000> type=Random_Old-Town) with a ExpansionAirdropContainer_Basebuilding
+06:59:52.351 [MissionAirdrop] An airdrop is heading towards "Oceanville" (pos=<10179.000000, 0.000000, 4722.000000> type=Random_Oceanville) with a ExpansionAirdropContainer_Basebuilding
+08:29:30.476 [MissionAirdrop] An airdrop is heading towards "Hazelands" (pos=<4539.000000, 0.000000, 2317.000000> type=Random_Hazelands) with a ExpansionAirdropContainer_Medical
+10:00:19.484 [MissionAirdrop] An airdrop is heading towards "Georgstown" (pos=<4522.000000, 0.000000, 4370.000000> type=Random_Georgstown) with a ExpansionAirdropContainer_Military
+11:30:24.515 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer_Medical
+13:00:28.562 [MissionAirdrop] An airdrop is heading towards "Oldfield" (pos=<6117.000000, 0.000000, 7004.000000> type=Random_Oldfield) with a ExpansionAirdropContainer
+14:28:11.093 [MissionAirdrop] An airdrop is heading towards "Oldfield" (pos=<6117.000000, 0.000000, 7004.000000> type=Random_Oldfield) with a ExpansionAirdropContainer
+15:56:32.468 [MissionAirdrop] An airdrop is heading towards "Old-Town" (pos=<1849.000000, 0.000000, 8830.000000> type=Random_Old-Town) with a ExpansionAirdropContainer_Basebuilding
+16:50:10.125 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<2157.927979, 28.406122, 14619.731445>) Entered the safezone
+16:50:10.125 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+16:50:10.156 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+16:50:10.156 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+16:50:10.156 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+16:50:10.156 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+16:50:10.156 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+16:50:11.062 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+16:57:13.828 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<3178.133057, 2.466444, 1706.242310>) Left the safezone
+17:03:12.093 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+17:25:57.750 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+17:25:57.750 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+17:25:57.750 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+17:25:57.750 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+17:25:57.750 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+17:25:57.750 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+17:25:58.531 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+17:27:21.656 [MissionAirdrop] An airdrop is heading towards "Georgstown" (pos=<4522.000000, 0.000000, 4370.000000> type=Random_Georgstown) with a ExpansionAirdropContainer_Military
+17:28:59.734 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+17:28:59.750 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+17:28:59.750 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+17:28:59.750 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+17:28:59.750 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+17:28:59.765 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+17:29:00.468 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+17:39:02.218 [VehicleCarKey] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<3204.473389, 1.748230, 1612.372559>) used the  ExpansionCarKey to unlock ExpansionMh6 (id=499FE3913144D91C947263A0B96B9FF0 pos=<3205.837646, 1.556653, 1611.914307>)
+17:39:15.812 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<3205.837646, 1.556653, 1611.914307>) as pilot
+17:39:20.546 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<3205.837646, 1.556654, 1611.914307>) as passenger
+17:39:26.328 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<3205.837646, 1.556654, 1611.914307>)
+17:41:56.000 [AI Patrol] Spawning 2 Powerplant bots at <4710.883789, 20.430000, 6876.480469>
+17:42:40.125 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<5231.216797, 170.824203, 7826.813477>) Entered the safezone
+17:42:40.156 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<5232.626953, 170.805359, 7827.662109>) Entered the safezone
+17:42:47.625 [AI Patrol] Spawning 3 Mountainville bots at <6372.928223, 16.946136, 8361.717773>
+17:42:53.937 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<5578.980957, 167.894211, 8353.253906>) Left the safezone
+17:42:53.937 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<5579.628418, 167.932739, 8352.810547>) Left the safezone
+17:45:09.750 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<7123.716309, 848.158142, 11694.368164>)
+17:46:30.421 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<7219.353027, 604.409546, 11775.208984>)
+17:46:42.937 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<7219.398438, 604.403259, 11775.215820>)
+17:52:40.093 [AI Patrol] Despawning 2 Powerplant bots (spawn position <4710.883789, 20.430000, 6876.480469>, 0/2 deceased)
+17:53:20.453 [AI Patrol] Despawning 3 Mountainville bots (spawn position <6372.928223, 16.946136, 8361.717773>, 0/3 deceased)
+18:11:34.437 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<7219.397949, 604.403259, 11775.210938>) as passenger
+18:11:36.734 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<7219.397949, 604.403259, 11775.210938>) as pilot
+18:11:41.000 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<7219.397949, 604.403259, 11775.210938>)
+18:14:23.843 [AI Object Patrol] Spawning 1 East bots at <3730.153809, 5.463351, 13707.007813>
+18:14:46.312 [AI Patrol] Spawning 2 IslandCastle bots at <2715.807373, 15.803444, 13630.751953>
+18:16:59.218 [AI Object Patrol] Spawning 2 East bots at <1821.136353, 5.548142, 13319.341797>
+18:17:05.703 [AI Object Patrol] Spawning 1 West bots at <1008.066528, 11.067881, 12733.143555>
+18:17:41.687 [AI Object Patrol] Spawning 1 West bots at <1672.000000, 20.000000, 12716.000000>
+18:18:49.062 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<1032.370605, 7.286209, 13218.885742>)
+18:18:56.312 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<1032.365479, 7.057552, 13218.890625>)
+18:18:59.781 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<1032.365234, 7.057561, 13218.890625>)
+18:20:39.000 [AI Object Patrol] Despawning 1 East bots (spawn position <3730.153809, 5.463351, 13707.007813>, 0/1 deceased)
+18:25:10.281 [AI Patrol] Despawning 2 IslandCastle bots (spawn position <2715.807373, 15.803444, 13630.751953>, 0/2 deceased)
+18:36:01.531 [Killfeed] NOVAKILLSFORYOU fell to their death.
+18:36:43.500 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+18:36:44.468 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:37:32.562 [SpawnSelection] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) spawned at <10027.609375, 46.279781, 5010.659668>
+18:39:29.375 [AI Object Patrol] Despawning 2 East bots (spawn position <1821.136353, 5.548142, 13319.341797>, 0/2 deceased)
+18:57:45.343 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer_Medical
+18:58:28.406 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<1032.365234, 7.057558, 13218.890625>) as pilot
+18:58:32.375 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<1032.365234, 7.057561, 13218.890625>)
+18:58:32.687 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<1032.365234, 7.057561, 13218.890625>) as passenger
+18:59:33.625 [AI Object Patrol] Spawning 1 East bots at <2372.022217, 8.354220, 12359.518555>
+19:01:51.875 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<5018.208008, 203.249237, 8146.590820>) Entered the safezone
+19:01:52.000 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<5021.050781, 202.168671, 8146.352051>) Entered the safezone
+19:01:52.625 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<5022.064941, 195.945129, 8140.503418>)
+19:02:38.703 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<5046.190918, 58.998329, 7980.000000>)
+19:02:49.375 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<5046.207520, 58.997868, 7980.001465>)
+19:02:56.015 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has send a requested to sell wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:02:56.015 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has sold wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 6000.
+19:02:57.218 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has send a requested to sell wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:02:57.218 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has sold wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 6937.
+19:02:58.906 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has send a requested to sell wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:02:58.906 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has sold wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 5750.
+19:03:00.812 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has send a requested to sell wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:00.812 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has sold wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 8500.
+19:03:02.109 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has send a requested to sell wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:02.125 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has sold wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 5875.
+19:03:03.250 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has send a requested to sell wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:03.250 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has sold wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 5062.
+19:03:04.656 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has send a requested to sell wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:04.656 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has sold wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 5937.
+19:03:06.031 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has send a requested to sell wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:06.031 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has sold wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 5625.
+19:03:07.078 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has send a requested to sell wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:07.078 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has sold wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 6437.
+19:03:07.937 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has send a requested to sell wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:07.937 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has sold wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 5250.
+19:03:10.031 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has send a requested to sell wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:10.031 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has sold wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 5250.
+19:03:11.000 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has send a requested to sell wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:11.000 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has sold wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 7687.
+19:03:29.515 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:29.515 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 4812.
+19:03:29.937 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:29.937 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 7375.
+19:03:30.312 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:30.312 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 4812.
+19:03:30.765 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:30.765 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 5437.
+19:03:31.125 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:31.125 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 5187.
+19:03:31.359 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:31.359 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 9312.
+19:03:31.593 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:31.593 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 7562.
+19:03:31.906 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:31.906 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 5187.
+19:03:32.453 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:32.468 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 5875.
+19:03:32.968 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:32.968 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 7937.
+19:03:33.328 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:33.343 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 5687.
+19:03:33.718 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:33.718 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 6562.
+19:03:34.140 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:34.156 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 6562.
+19:03:34.765 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:34.781 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 5875.
+19:03:35.250 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:35.265 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 9000.
+19:03:35.875 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:35.875 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 4875.
+19:03:36.484 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:36.484 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 7750.
+19:03:37.218 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:37.218 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 5062.
+19:03:38.687 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:38.687 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold wolfsteakmeat x1 at the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 5875.
+19:03:49.625 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase tunacan x1 from the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:49.625 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought tunacan x1 from the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) for a price of 15.
+19:03:50.125 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase tunacan x1 from the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:50.125 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought tunacan x1 from the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) for a price of 15.
+19:03:50.687 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase tunacan x1 from the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:50.687 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought tunacan x1 from the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) for a price of 15.
+19:03:51.234 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase tunacan x1 from the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:51.250 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought tunacan x1 from the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) for a price of 15.
+19:03:51.843 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase tunacan x1 from the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:51.843 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought tunacan x1 from the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) for a price of 15.
+19:03:52.406 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase tunacan x1 from the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:52.406 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought tunacan x1 from the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) for a price of 15.
+19:03:53.000 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase tunacan x1 from the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:53.000 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought tunacan x1 from the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) for a price of 15.
+19:03:53.578 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase tunacan x1 from the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:53.578 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought tunacan x1 from the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) for a price of 15.
+19:03:54.187 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase tunacan x1 from the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:54.187 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought tunacan x1 from the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) for a price of 15.
+19:03:54.875 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase tunacan x1 from the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:03:54.875 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought tunacan x1 from the trader "Consumables (Maria [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) for a price of 15.
+19:04:48.218 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has send a requested to purchase sewingkit x1 from the trader "Components (Hassan [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:04:48.218 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has bought sewingkit x1 from the trader "Components (Hassan [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) for a price of 4.
+19:06:20.468 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase fryingpan x1 from the trader "Components (Hassan [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+19:06:20.468 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought fryingpan x1 from the trader "Components (Hassan [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) for a price of 5.
+19:06:50.906 [AI Object Patrol] Despawning 1 West bots (spawn position <1008.066528, 11.067881, 12733.143555>, 0/1 deceased)
+19:07:24.687 [ATM] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has deposited 90681 on his ATM account.
+19:07:51.156 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<5046.284668, 58.992264, 7980.007324>) as passenger
+19:08:28.437 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<5046.292969, 58.992050, 7980.007813>) as pilot
+19:08:32.734 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<5046.292480, 58.992077, 7980.007813>)
+19:09:35.968 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<4735.525879, 221.450821, 7888.804199>) Left the safezone
+19:09:36.062 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<4735.776855, 221.407913, 7887.709473>) Left the safezone
+19:10:00.625 [AI Object Patrol] Despawning 1 West bots (spawn position <1672.000000, 20.000000, 12716.000000>, 0/1 deceased)
+19:10:14.421 [AI Object Patrol] Despawning 1 East bots (spawn position <2372.022217, 8.354220, 12359.518555>, 0/1 deceased)
+19:12:22.562 [AI Object Patrol] Spawning 2 East bots at <4410.945313, 5.474492, 2849.003906>
+19:14:56.578 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<3206.322266, 2.007291, 1610.892944>)
+19:15:00.281 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<3205.966064, 1.562269, 1610.954224>)
+19:15:07.937 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<3205.966309, 1.562386, 1610.953979>)
+19:15:30.000 [VehicleCarKey] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<3204.480225, 1.494567, 1612.128418>) used the  ExpansionCarKey to lock ExpansionMh6 (id=499FE3913144D91C947263A0B96B9FF0 pos=<3205.967041, 1.562577, 1610.953857>)
+19:18:55.453 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle The Whaler (id=1B32CBD2704AC86639E503BE15748A28 pos=<3195.395508, -0.008621, 1625.044922>) as driver
+19:20:32.484 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle The Whaler (id=1B32CBD2704AC86639E503BE15748A28 pos=<3190.797607, -0.060181, 1629.132690>)
+19:22:48.531 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle The Whaler (id=1B32CBD2704AC86639E503BE15748A28 pos=<3190.797607, -0.218790, 1629.132568>) as driver
+19:22:59.515 [AI Object Patrol] Despawning 2 East bots (spawn position <4410.945313, 5.474492, 2849.003906>, 0/2 deceased)
+19:23:24.765 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle The Whaler (id=1B32CBD2704AC86639E503BE15748A28 pos=<3189.494873, -0.368825, 1628.847290>)
+19:25:03.843 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+19:29:02.625 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+20:26:56.953 [MissionAirdrop] An airdrop is heading towards "Westbrook" (pos=<3614.000000, 0.000000, 6360.000000> type=Random_Westbrook) with a ExpansionAirdropContainer_Basebuilding
+21:57:06.312 [MissionAirdrop] An airdrop is heading towards "Greenville" (pos=<4658.000000, 0.000000, 1414.000000> type=Random_Greenville) with a ExpansionAirdropContainer_Medical
+23:29:03.687 [MissionAirdrop] An airdrop is heading towards "Greenville" (pos=<4658.000000, 0.000000, 1414.000000> type=Random_Greenville) with a ExpansionAirdropContainer_Medical
+01:01:17.140 [MissionAirdrop] An airdrop is heading towards "Stonington" (pos=<6973.000000, 0.000000, 1701.000000> type=Random_Stonington) with a ExpansionAirdropContainer_Military
+02:32:30.578 [MissionAirdrop] An airdrop is heading towards "Oceanville" (pos=<10179.000000, 0.000000, 4722.000000> type=Random_Oceanville) with a ExpansionAirdropContainer_Basebuilding
+04:01:04.171 [MissionAirdrop] An airdrop is heading towards "Oceanville" (pos=<10179.000000, 0.000000, 4722.000000> type=Random_Oceanville) with a ExpansionAirdropContainer_Basebuilding
+05:29:34.843 [MissionAirdrop] An airdrop is heading towards "Warren-Cove" (pos=<6924.000000, 0.000000, 5473.000000> type=Random_Warren-Cove) with a ExpansionAirdropContainer_Basebuilding
+06:58:25.500 [MissionAirdrop] An airdrop is heading towards "Oldfield" (pos=<6117.000000, 0.000000, 7004.000000> type=Random_Oldfield) with a ExpansionAirdropContainer
+08:26:55.421 [MissionAirdrop] An airdrop is heading towards "Georgstown" (pos=<4522.000000, 0.000000, 4370.000000> type=Random_Georgstown) with a ExpansionAirdropContainer_Military
+09:41:27.593 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE=
+09:41:27.593 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE=
+09:41:27.593 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE=
+09:41:27.593 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE=
+09:54:49.984 [AI Patrol] Spawning 3 SouthOfSmallville bots at <9074.320313, 11.354863, 3357.143799>
+09:56:59.625 [MissionAirdrop] An airdrop is heading towards "Stonington" (pos=<6973.000000, 0.000000, 1701.000000> type=Random_Stonington) with a ExpansionAirdropContainer_Military
+10:27:23.718 [Safezone] Player "PsiTom" (id=985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE= pos=<7702.552246, 43.409187, 4531.159180>) Entered the safezone
+10:27:48.328 [AI Patrol] Spawning 2 Milo-Ashville bots at <6907.401855, 58.905712, 3819.965820>
+10:33:58.890 [Safezone] Player "PsiTom" (id=985Y4OnrPF97smqLkzdXIQc0BKnxHTTL8e-fkhwd1tE= pos=<7507.205078, 47.523991, 4347.467285>) Left the safezone
+10:34:17.796 [AI Patrol] Despawning 3 SouthOfSmallville bots (spawn position <9074.320313, 11.354863, 3357.143799>, 0/3 deceased)
+11:26:13.671 [AI Patrol] Despawning 2 Milo-Ashville bots (spawn position <6907.401855, 58.905712, 3819.965820>, 0/2 deceased)
+11:28:34.750 [MissionAirdrop] An airdrop is heading towards "Oldfield" (pos=<6117.000000, 0.000000, 7004.000000> type=Random_Oldfield) with a ExpansionAirdropContainer
+12:57:27.921 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer_Medical

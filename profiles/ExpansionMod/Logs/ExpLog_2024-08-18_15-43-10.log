@@ -1,0 +1,102 @@
+15:45:24.113 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<10289.830078, 1.473625, 5626.458496>) Entered the safezone
+15:45:24.117 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+15:45:24.136 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+15:45:24.136 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+15:45:24.136 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+15:45:24.136 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+15:45:24.136 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+15:45:24.949 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+15:45:28.734 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<10299.999023, 1.457652, 5619.769043>) Entered the safezone
+15:45:28.734 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+15:45:28.753 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+15:45:28.753 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+15:45:28.753 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+15:45:28.753 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+15:45:28.753 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+15:45:29.554 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+15:46:27.347 [ATM] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has withdrawn 50000 from his ATM account.
+15:46:45.003 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has send a requested to purchase expansionutilityboat x1 from the trader "Boats (Frida [#STR_EXPANSION_MARKET_TRADER_BOATS])" in market zone "Boat trader" (pos=<10297.299805, 1.465750, 5629.609863>).
+15:46:45.003 [VehicleDeleted] ExpansionUtilityBoat (id=D9321ECB894F352B390907987EC5F3B6 pos=<0.008826, -0.030495, 0.385924>)
+15:46:45.011 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has bought expansionutilityboat x1 from the trader "Boats (Frida [#STR_EXPANSION_MARKET_TRADER_BOATS])" in market zone "Boat trader" (pos=<10297.299805, 1.465750, 5629.609863>) for a price of 22240.
+15:47:41.015 [VehicleCarKey] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<10286.583008, -1.169204, 5642.812012>) used the  ExpansionCarKey to unlock ExpansionUtilityBoat (id=2B5718BAC94FAF1999BAFCA08230D552 pos=<10284.008789, -0.195065, 5646.145508>)
+15:48:28.355 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has send a requested to sell expansionutilityboat x1 at the trader "Boats (Frida [#STR_EXPANSION_MARKET_TRADER_BOATS])" in market zone "Boat trader" (pos=<10297.299805, 1.465750, 5629.609863>).
+15:48:28.355 [VehicleDeleted] ExpansionUtilityBoat (id=2B5718BAC94FAF1999BAFCA08230D552 pos=<10284.008789, -0.195065, 5646.145508>)
+15:48:28.359 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has sold expansionutilityboat x1 at the trader "Boats (Frida [#STR_EXPANSION_MARKET_TRADER_BOATS])" in market zone "Boat trader" (pos=<10297.299805, 1.465750, 5629.609863>) and got 16680.
+15:49:59.039 [MissionAirdrop] An airdrop is heading towards "Hazelands" (pos=<4539.000000, 0.000000, 2317.000000> type=Random_Hazelands) with a ExpansionAirdropContainer
+15:50:03.746 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<10310.060547, 12.642713, 5504.032227>) Left the safezone
+15:50:14.558 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<10380.634766, 2.182500, 5557.521973>) Left the safezone
+15:50:14.808 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<10380.783203, 2.182500, 5559.073242>) Entered the safezone
+15:50:35.609 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<10413.893555, 2.603994, 5571.540527>) Left the safezone
+15:51:03.437 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<10305.193359, 10.666794, 5525.984863>) Entered the safezone
+15:51:11.535 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<10397.373047, 2.536835, 5593.182617>) Entered the safezone
+15:56:03.898 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<10389.629883, 2.840137, 5570.546875>) Left the safezone
+15:56:48.222 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<10386.806641, 2.840146, 5569.143555>) Entered the safezone
+15:57:03.867 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<10394.818359, 2.896210, 5560.793457>) Left the safezone
+15:57:07.144 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<10383.350586, 2.182500, 5562.583984>) Entered the safezone
+15:57:21.843 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<10372.893555, 2.059981, 5586.405273>) as driver
+15:57:24.109 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<10372.893555, 2.059991, 5586.405273>)
+15:58:02.164 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<10282.708984, 21.039457, 5491.592285>) Left the safezone
+15:58:03.351 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<10277.728516, 21.683195, 5496.335449>) Left the safezone
+16:00:12.187 [AI Patrol] Spawning 2 CampEagle-NE bots at <9248.743164, 57.479317, 3695.743164>
+16:00:43.007 [AI Patrol] Spawning 3 SouthOfSmallville bots at <9016.865234, 43.829815, 3466.509766>
+16:02:46.546 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<7717.977539, 43.681770, 4548.894043>) Entered the safezone
+16:02:46.699 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<7716.191406, 44.029030, 4552.172363>) Entered the safezone
+16:02:52.882 [AI Object Patrol] Spawning 1 East bots at <7105.304199, 9.097386, 5452.201172>
+16:03:50.734 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<7561.590820, 87.674957, 4596.645996>)
+16:03:54.144 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<7561.590820, 87.674957, 4596.645996>)
+16:05:19.976 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<7561.590820, 87.674957, 4596.645996>) as driver
+16:05:21.808 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<7561.590820, 87.674957, 4596.645996>)
+16:06:44.878 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<7867.397461, 27.395107, 4449.813477>) Left the safezone
+16:06:45.085 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<7866.356934, 27.543613, 4445.976563>) Left the safezone
+16:09:00.695 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=20AE6CF7F442051621CF949EA4158F8B pos=<7475.060547, 29.731834, 4254.495605>) as pilot
+16:09:04.464 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] started vehicle Mh-6 Little Bird (id=20AE6CF7F442051621CF949EA4158F8B pos=<7475.060547, 29.731834, 4254.495605>)
+16:09:10.750 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=20AE6CF7F442051621CF949EA4158F8B pos=<7475.060547, 29.731834, 4254.495605>)
+16:11:32.066 [AI Patrol] Spawning 3 Airfield bots at <5976.230957, 72.991875, 3526.335449>
+16:11:45.066 [AI Patrol] Despawning 2 CampEagle-NE bots (spawn position <9248.743164, 57.479317, 3695.743164>, 0/2 deceased)
+16:11:45.742 [AI Patrol] Despawning 3 SouthOfSmallville bots (spawn position <9016.865234, 43.829815, 3466.509766>, 0/3 deceased)
+16:14:25.417 [AI Object Patrol] Spawning 2 East bots at <4501.846680, 30.848375, 1895.797607>
+16:17:32.179 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<3191.550049, 2.666701, 1674.534912>)
+16:17:36.648 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle UAZ 469 Cargo Roofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<3191.550049, 2.666698, 1674.534912>)
+16:17:41.582 [AI Object Patrol] Despawning 1 East bots (spawn position <7105.304199, 9.097386, 5452.201172>, 0/1 deceased)
+16:18:32.390 [VehicleDeleted] ExpansionUAZCargoRoofless (id=F9D40F34F941F041BA335BA365C19B0B pos=<-0.016775, 0.677601, 0.025196>)
+16:18:32.406 [VehicleDeleted] ExpansionUAZCargoRoofless (id=8A799305AB4C6EEA63466693DB7C0B3C pos=<3191.549805, 2.666698, 1674.534912>)
+16:18:32.410 [VirtualGarage] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<3206.662842, 1.781596, 1651.089478>) stored a vehicle "ExpansionUAZCargoRoofless" (GlobalID=8000000080000000800000008000BFE1 pos=<3191.549805, 2.666698, 1674.534912>)
+16:19:14.273 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=FC0331031A459CDA397EBAB816CA8442 pos=<3217.211182, 1.552707, 1612.532959>) as pilot
+16:20:17.441 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] started vehicle Mh-6 Little Bird (id=FC0331031A459CDA397EBAB816CA8442 pos=<3217.211182, 1.552546, 1612.533081>)
+16:20:18.183 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=FC0331031A459CDA397EBAB816CA8442 pos=<3217.211182, 1.552600, 1612.533081>) as passenger
+16:21:15.625 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] stopped vehicle Mh-6 Little Bird (id=FC0331031A459CDA397EBAB816CA8442 pos=<3215.536621, 2.625841, 1617.634521>)
+16:21:21.746 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=FC0331031A459CDA397EBAB816CA8442 pos=<3214.015381, 1.574025, 1616.976074>)
+16:22:17.464 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=FC0331031A459CDA397EBAB816CA8442 pos=<3214.014160, 1.574970, 1616.975220>) as pilot
+16:22:20.175 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] started vehicle Mh-6 Little Bird (id=FC0331031A459CDA397EBAB816CA8442 pos=<3214.014160, 1.574974, 1616.975220>)
+16:23:15.984 [AI Patrol] Spawning 3 ParisIsland bots at <2740.074951, 33.047600, 3538.609375>
+16:23:28.082 [AI Patrol] Spawning 3 ParisIsland2 bots at <2889.502197, 22.412445, 4081.380615>
+16:23:43.214 [AI Patrol] Despawning 3 Airfield bots (spawn position <5976.230957, 72.991875, 3526.335449>, 0/3 deceased)
+16:25:20.796 [AI Patrol] Spawning 3 OldTown bots at <1838.256348, 9.190000, 8859.212891>
+16:25:24.871 [AI Object Patrol] Spawning 2 East bots at <1968.403931, 9.941629, 9001.665039>
+16:26:48.046 [AI Object Patrol] Despawning 2 East bots (spawn position <4501.846680, 30.848375, 1895.797607>, 0/2 deceased)
+16:26:51.855 [AI Object Patrol] Spawning 3 West bots at <1672.000000, 20.000000, 12716.000000>
+16:27:23.242 [AI Object Patrol] Spawning 1 West bots at <2647.693115, 15.383807, 13675.155273>
+16:27:23.480 [AI Patrol] Spawning 2 IslandCastle bots at <2488.474854, 19.921078, 13878.062500>
+16:27:38.699 [AI Object Patrol] Spawning 1 East bots at <1674.982300, 4.008991, 14804.881836>
+16:27:44.992 [AI Object Patrol] Spawning 1 West bots at <1152.830444, 3.895682, 14718.178711>
+16:27:56.402 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<2072.432129, 82.038406, 14446.232422>) Entered the safezone
+16:27:56.550 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<2074.850586, 81.641937, 14447.901367>) Entered the safezone
+16:28:47.046 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] stopped vehicle Mh-6 Little Bird (id=FC0331031A459CDA397EBAB816CA8442 pos=<2177.234863, 33.425964, 14609.658203>)
+16:28:54.472 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=FC0331031A459CDA397EBAB816CA8442 pos=<2176.975098, 32.604607, 14610.505859>)
+16:28:57.382 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Mh-6 Little Bird (id=FC0331031A459CDA397EBAB816CA8442 pos=<2176.849365, 32.587704, 14610.484375>)
+16:32:18.710 [Killfeed] AI Eva (East) got killed by AI Boris (OldTown) with M16-A2 from a distance of 3 m.
+16:32:20.921 [Killfeed] AI Manua (East) got killed by AI Boris (OldTown) with M16-A2 from a distance of 21 m.
+16:32:23.160 [AI Object Patrol] East bots were wiped out (spawn position <1968.403931, 9.941629, 9001.665039>, 2/2 deceased)
+16:33:57.664 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell bz_beaniehat_bee x1 at the trader "Ballerz (Helga [#BallerZ])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>).
+16:33:57.671 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold bz_beaniehat_bee x1 at the trader "Ballerz (Helga [#BallerZ])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>) and got 3000.
+16:34:03.375 [AI Patrol] Despawning 3 ParisIsland bots (spawn position <2740.074951, 33.047600, 3538.609375>, 0/3 deceased)
+16:34:04.382 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell bz_bee_pants x1 at the trader "Ballerz (Helga [#BallerZ])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>).
+16:34:04.390 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold bz_bee_pants x1 at the trader "Ballerz (Helga [#BallerZ])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>) and got 7000.
+16:34:09.136 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell bz_shirt_deathnote x1 at the trader "Ballerz (Helga [#BallerZ])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>).
+16:34:09.144 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold bz_shirt_deathnote x1 at the trader "Ballerz (Helga [#BallerZ])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>) and got 2125.
+16:34:12.929 [AI Patrol] Despawning 3 ParisIsland2 bots (spawn position <2889.502197, 22.412445, 4081.380615>, 0/3 deceased)
+16:34:19.234 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell bz_scooby_top x1 at the trader "Ballerz (Helga [#BallerZ])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>).
+16:34:19.242 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold bz_scooby_top x1 at the trader "Ballerz (Helga [#BallerZ])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>) and got 7000.
+16:35:53.003 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+16:35:55.507 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+16:36:08.464 [AI Patrol] Despawning 3 OldTown bots (spawn position <1838.256348, 9.190000, 8859.212891>, 0/3 deceased)

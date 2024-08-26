@@ -1,0 +1,11 @@
+16:02:57.753 [MissionAirdrop] An airdrop is heading towards "Westbrook" (pos=<3614.000000, 0.000000, 6360.000000> type=Random_Westbrook) with a ExpansionAirdropContainer_Basebuilding
+16:06:06.855 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+16:06:06.863 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+16:06:06.867 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+16:06:06.867 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+16:06:06.867 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+16:06:06.867 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+16:06:07.632 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+16:07:50.210 [VehicleDeleted] ExpansionMh6_Sheriff (id=85005C9CAF43A2E73E89A287AC0295E5 pos=<0.000861, 1.692845, 0.535123>)
+16:07:50.285 [VirtualGarage] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<3206.491211, 1.793463, 1651.207886>) retrieved a vehicle "ExpansionMh6_Sheriff" (GlobalID=8000000080000000800000008000C219 pos=<3209.695313, 1.565877, 1613.803467>)
+16:09:37.820 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)

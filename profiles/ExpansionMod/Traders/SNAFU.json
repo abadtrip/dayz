@@ -1,0 +1,36 @@
+{
+  "m_Version": 12,
+  "DisplayName": "SNAFU",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Skull 1",
+  "DisplayCurrencyName": "",
+  "DisplayCurrencyValue": 1,
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "Categories": [
+"Ammo",
+        "Ammo_Boxes",
+ "Snafu_Ammo",
+		 "Snafu_Assault",
+		 "Snafu_HMGs",
+		 "Snafu_Pistols",
+		 "Snafu_Rifle",
+		"Snafu_Shotties",
+		"Snafu_Snipers",
+		"Snafu_Submachines",
+"Snafu_Bipods",
+		"Snafu_Extras",
+		"Snafu_Grips",
+		"Snafu_Handguards",
+		"Snafu_Mags",
+		"Snafu_Scopes",
+		"Snafu_Stocks",
+		"Snafu_Suppressors"
+   
+  ],
+  "Items": {}
+}

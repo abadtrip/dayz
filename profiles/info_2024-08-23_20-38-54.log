@@ -1,0 +1,290 @@
+---------------------------------------------
+Log info_2024-08-23_20-38-54.log started at 2024-08-23 21:44:51
+
+
+
+------------------------------------
+WIN-UU5EFMOPA3M, 2024-08-23 21:44:51
+
+[wpnfsm] ValidateAndRepair Attempting to repair: Scout:17180 (owner eAI_SurvivorM_Cyril<5c325030>) - MagazineRepair - BAREM_CLO_BUF_MA0<ad809cd0> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1041
+scripts/4_World/entities\manbase\playerbase.c:2175
+DayZExpansion/VanillaFixes/Scripts/4_World/dayzexpansion_vanillafixes\entities\manbase\playerbase.c:31
+AdmiralsDivingMod\scripts\4_world/playerbase\adm_playerbase.c:571
+AdmiralsParachuteMod\scripts\4_World/playerbase\adm_playerbase.c:456
+scripts/3_Game/dayzgame.c:2850
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:211
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:248
+AdmiralsParachuteMod\scripts\3_Game/dayzgame\adm_dayzgame.c:70
+
+
+------------------------------------
+WIN-UU5EFMOPA3M, 2024-08-23 21:46:40
+
+[wpnfsm] ValidateAndRepair Attempting to repair: Scout:13968 (owner eAI_SurvivorM_Jose<5b5e1030>) - MagazineRepair - BAREM_CLO_BUF_MA0<46a74060> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1041
+scripts/4_World/entities\manbase\playerbase.c:2175
+DayZExpansion/VanillaFixes/Scripts/4_World/dayzexpansion_vanillafixes\entities\manbase\playerbase.c:31
+AdmiralsDivingMod\scripts\4_world/playerbase\adm_playerbase.c:571
+AdmiralsParachuteMod\scripts\4_World/playerbase\adm_playerbase.c:456
+scripts/3_Game/dayzgame.c:2850
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:211
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:248
+AdmiralsParachuteMod\scripts\3_Game/dayzgame\adm_dayzgame.c:70
+
+
+------------------------------------
+WIN-UU5EFMOPA3M, 2024-08-23 21:48:49
+
+[wpnfsm] ValidateAndRepair Attempting to repair: Scout:20794 (owner eAI_SurvivorF_Frida<13ad6550>) - MagazineRepair - BAREM_CLO_BUF_MA0<56917f10> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1041
+scripts/4_World/entities\manbase\playerbase.c:2175
+DayZExpansion/VanillaFixes/Scripts/4_World/dayzexpansion_vanillafixes\entities\manbase\playerbase.c:31
+AdmiralsDivingMod\scripts\4_world/playerbase\adm_playerbase.c:571
+AdmiralsParachuteMod\scripts\4_World/playerbase\adm_playerbase.c:456
+scripts/3_Game/dayzgame.c:2850
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:211
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:248
+AdmiralsParachuteMod\scripts\3_Game/dayzgame\adm_dayzgame.c:70
+
+
+------------------------------------
+WIN-UU5EFMOPA3M, 2024-08-23 22:01:47
+
+[wpnfsm] ValidateAndRepair Attempting to repair: Scout:20915 (owner eAI_SurvivorF_Irena<f8020010>) - MagazineRepair - BAREM_CLO_BUF_MA0<54bd0e40> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1041
+scripts/4_World/entities\manbase\playerbase.c:2175
+DayZExpansion/VanillaFixes/Scripts/4_World/dayzexpansion_vanillafixes\entities\manbase\playerbase.c:31
+AdmiralsDivingMod\scripts\4_world/playerbase\adm_playerbase.c:571
+AdmiralsParachuteMod\scripts\4_World/playerbase\adm_playerbase.c:456
+scripts/3_Game/dayzgame.c:2850
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:211
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:248
+AdmiralsParachuteMod\scripts\3_Game/dayzgame\adm_dayzgame.c:70
+
+
+------------------------------------
+WIN-UU5EFMOPA3M, 2024-08-24 15:48:03
+
+[wpnfsm] ValidateAndRepair Attempting to repair: Glock19:12266 (owner eAI_SurvivorM_Lewis<3af5b050>) - ChamberRepair - Pistol_OPE_DIS_BU0_MA1<61b7aa0> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:503
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weaponfsm.c:58
+scripts/3_Game/systems\hfsmbase.c:580
+scripts/4_World/entities\firearms\weaponfsm.c:289
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\weapons\firearms\weapon_base.c:167
+scripts/4_World/systems\inventory\dayzplayerinventory.c:399
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:6001
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:4406
+
+
+------------------------------------
+WIN-UU5EFMOPA3M, 2024-08-24 22:07:31
+
+[wpnfsm] ValidateAndRepair Attempting to repair: Scout:14477 (owner eAI_SurvivorM_Elias<e17e95b0>) - MagazineRepair - BAREM_CLO_BUF_MA0<6e4f5310> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1041
+scripts/4_World/entities\manbase\playerbase.c:2175
+DayZExpansion/VanillaFixes/Scripts/4_World/dayzexpansion_vanillafixes\entities\manbase\playerbase.c:31
+AdmiralsDivingMod\scripts\4_world/playerbase\adm_playerbase.c:571
+AdmiralsParachuteMod\scripts\4_World/playerbase\adm_playerbase.c:456
+scripts/3_Game/dayzgame.c:2850
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:211
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:248
+AdmiralsParachuteMod\scripts\3_Game/dayzgame\adm_dayzgame.c:70
+
+
+------------------------------------
+WIN-UU5EFMOPA3M, 2024-08-24 22:57:11
+
+[wpnfsm] ValidateAndRepair Attempting to repair: Scout:14183 (owner eAI_SurvivorM_Quinn<c2835490>) - MagazineRepair - BAREM_CLO_BUF_MA0<a35fc150> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1041
+scripts/4_World/entities\manbase\playerbase.c:2175
+DayZExpansion/VanillaFixes/Scripts/4_World/dayzexpansion_vanillafixes\entities\manbase\playerbase.c:31
+AdmiralsDivingMod\scripts\4_world/playerbase\adm_playerbase.c:571
+AdmiralsParachuteMod\scripts\4_World/playerbase\adm_playerbase.c:456
+scripts/3_Game/dayzgame.c:2850
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:211
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:248
+AdmiralsParachuteMod\scripts\3_Game/dayzgame\adm_dayzgame.c:70
+
+
+------------------------------------
+WIN-UU5EFMOPA3M, 2024-08-24 23:00:47
+
+[wpnfsm] ValidateAndRepair Attempting to repair: Scout:26852 (owner eAI_SurvivorF_Linda<2e6df770>) - MagazineRepair - BAREM_CLO_BUF_MA0<b7608ca0> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1041
+scripts/4_World/entities\manbase\playerbase.c:2175
+DayZExpansion/VanillaFixes/Scripts/4_World/dayzexpansion_vanillafixes\entities\manbase\playerbase.c:31
+AdmiralsDivingMod\scripts\4_world/playerbase\adm_playerbase.c:571
+AdmiralsParachuteMod\scripts\4_World/playerbase\adm_playerbase.c:456
+scripts/3_Game/dayzgame.c:2850
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:211
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:248
+AdmiralsParachuteMod\scripts\3_Game/dayzgame\adm_dayzgame.c:70
+
+
+------------------------------------
+WIN-UU5EFMOPA3M, 2024-08-24 23:32:18
+
+[wpnfsm] ValidateAndRepair Attempting to repair: Glock19:4719 (owner eAI_SurvivorF_Maria<2e6df770>) - ChamberRepair - Pistol_OPE_DIS_BU0_MA1<918b0a30> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:503
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weaponfsm.c:58
+scripts/3_Game/systems\hfsmbase.c:580
+scripts/4_World/entities\firearms\weaponfsm.c:289
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\weapons\firearms\weapon_base.c:167
+scripts/4_World/systems\inventory\dayzplayerinventory.c:399
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:6001
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:4406
+
+
+------------------------------------
+WIN-UU5EFMOPA3M, 2024-08-25 15:57:37
+
+[wpnfsm] ValidateAndRepair Attempting to repair: Glock19:12507 (owner eAI_SurvivorM_Hassan<4589d010>) - ChamberRepair - Pistol_OPE_DIS_BU0_MA1<80f58210> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:503
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weaponfsm.c:58
+scripts/3_Game/systems\hfsmbase.c:580
+scripts/4_World/entities\firearms\weaponfsm.c:289
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\weapons\firearms\weapon_base.c:167
+scripts/4_World/systems\inventory\dayzplayerinventory.c:399
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:6001
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:4406
+
+
+------------------------------------
+WIN-UU5EFMOPA3M, 2024-08-25 17:05:38
+
+[wpnfsm] ValidateAndRepair Attempting to repair: MakarovIJ70:9965 (owner eAI_SurvivorM_Manua<7a8af020>) - ChamberRepair - Pistol_OPE_DIS_BU0_MA1<3fd36500> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:503
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weaponfsm.c:58
+scripts/3_Game/systems\hfsmbase.c:580
+scripts/4_World/entities\firearms\weaponfsm.c:289
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\weapons\firearms\weapon_base.c:167
+scripts/4_World/systems\inventory\dayzplayerinventory.c:399
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:6001
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:4406
+
+
+------------------------------------
+WIN-UU5EFMOPA3M, 2024-08-25 17:08:37
+
+[wpnfsm] ValidateAndRepair Attempting to repair: Scout:19003 (owner eAI_SurvivorF_Gabi<f0f1a740>) - MagazineRepair - BAREM_CLO_BUF_MA0<adba25a0> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1041
+scripts/4_World/entities\manbase\playerbase.c:2175
+DayZExpansion/VanillaFixes/Scripts/4_World/dayzexpansion_vanillafixes\entities\manbase\playerbase.c:31
+AdmiralsDivingMod\scripts\4_world/playerbase\adm_playerbase.c:571
+AdmiralsParachuteMod\scripts\4_World/playerbase\adm_playerbase.c:456
+scripts/3_Game/dayzgame.c:2850
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:211
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:248
+AdmiralsParachuteMod\scripts\3_Game/dayzgame\adm_dayzgame.c:70
+
+
+------------------------------------
+WIN-UU5EFMOPA3M, 2024-08-25 18:31:46
+
+[wpnfsm] ValidateAndRepair Attempting to repair: Scout:18294 (owner eAI_SurvivorM_Indar<fc2b6020>) - MagazineRepair - BAREM_CLO_BUF_MA0<a7f04040> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1041
+scripts/4_World/entities\manbase\playerbase.c:2175
+DayZExpansion/VanillaFixes/Scripts/4_World/dayzexpansion_vanillafixes\entities\manbase\playerbase.c:31
+AdmiralsDivingMod\scripts\4_world/playerbase\adm_playerbase.c:571
+AdmiralsParachuteMod\scripts\4_World/playerbase\adm_playerbase.c:456
+scripts/3_Game/dayzgame.c:2850
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:211
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:248
+AdmiralsParachuteMod\scripts\3_Game/dayzgame\adm_dayzgame.c:70

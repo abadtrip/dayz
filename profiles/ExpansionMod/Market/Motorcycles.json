@@ -1,0 +1,245 @@
+{
+  "m_Version": 12,
+  "DisplayName": "MOTORCYCLES",
+  "Icon": "Skull 1",
+  "Color": "1F14EAFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "Harley_Davidson_RUS",
+      "MaxPriceThreshold": 500000,
+      "MinPriceThreshold": 500000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "Harley_Davidson_RUS_wheel",
+        "Harley_Davidson_RUS_wheel",
+        "Harley_Davidson_RUS_doors_trunk",
+        "CarBattery",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7"
+      ],
+      "Variants": [
+        "Harley_Davidson_RUS_green",
+        "Harley_Davidson_RUS_red"
+      ]
+    },
+   
+ 
+    {
+      "ClassName": "Izh_56_RUS",
+      "MaxPriceThreshold": 500000,
+      "MinPriceThreshold": 500000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "Izh_56_RUS_wheel",
+        "Izh_56_RUS_wheel",
+        "Izh_56_RUS_doors_hood",
+        "CarBattery",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "Buran",
+      "MaxPriceThreshold": 500000,
+      "MinPriceThreshold": 500000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "Buran_wheel",
+        "Buran_wheel",
+        "Buran_wheel",
+        "Buran_doors_trunk",
+        "Buran_wheel",
+        "CarBattery",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7"
+      ],
+      "Variants": [
+        "Buran_camo",
+        "Buran_blue",
+        "Buran_red",
+        "Buran_snow"
+      ]
+    },
+    {
+      "ClassName": "motorbike",
+      "MaxPriceThreshold": 500000,
+      "MinPriceThreshold": 500000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "motorbike_wheel",
+        "motorbike_wheel",
+        "motorbike_wheel",
+        "motorbike_ammo_box",
+        "CarBattery",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7",
+        "motorbike_wheel"
+      ],
+      "Variants": [
+        "motorbike_green",
+        "motorbike_sand"
+      ]
+    },
+    {
+      "ClassName": "vino_RF",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "vino_RF_wheel",
+        "vino_RF_wheel",
+        "vino_RF_doors_trunk",
+        "CarBattery",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "URAL_M62",
+      "MaxPriceThreshold": 500000,
+      "MinPriceThreshold": 500000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "URAL_M62_wheel",
+        "URAL_M62_wheel",
+        "URAL_M62_wheel",
+        "URAL_M62_doors_trunk",
+        "CarBattery",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7",
+        "URAL_M62_wheel"
+      ],
+      "Variants": [
+        "URAL_M62_milicia"
+      ]
+    },
+    {
+      "ClassName": "moped_80",
+      "MaxPriceThreshold": 100000,
+      "MinPriceThreshold": 100000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "moped_80_wheel",
+        "moped_80_wheel",
+        "moped_80_doors_trunk",
+        "CarBattery",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "jawa_350_638",
+      "MaxPriceThreshold": 500000,
+      "MinPriceThreshold": 500000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "jawa_350_638_wheel",
+        "jawa_350_638_wheel",
+        "jawa_350_638_doors_trunk",
+        "CarBattery",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "DadyBikeRF",
+      "MaxPriceThreshold": 500000,
+      "MinPriceThreshold": 500000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "DadyBikeRF_wheel",
+        "DadyBikeRF_doors_trunk",
+        "DadyBikeRF_wheel",
+        "CarBattery",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7",
+        "DadyBikeRF_wheel"
+      ],
+      "Variants": [
+        "DadyBikeRF_camo",
+        "DadyBikeRF_black"
+      ]
+    },
+    {
+      "ClassName": "URAL_M62_milicia",
+      "MaxPriceThreshold": 500000,
+      "MinPriceThreshold": 500000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "URAL_M62_wheel_milicia",
+        "URAL_M62_wheel_milicia",
+        "URAL_M62_wheel_milicia",
+        "URAL_M62_doors_trunk",
+        "CarBattery",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7",
+        "URAL_M62_wheel_milicia"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "Izh_56K_RUS",
+      "MaxPriceThreshold": 500000,
+      "MinPriceThreshold": 500000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "Izh_56_RUS_wheel",
+        "Izh_56_RUS_wheel",
+        "Izh_56_RUS_wheel",
+        "Izh_56_RUS_doors_trunk",
+        "CarBattery",
+        "SparkPlug"
+      ],
+      "Variants": []
+    }
+  ]
+}

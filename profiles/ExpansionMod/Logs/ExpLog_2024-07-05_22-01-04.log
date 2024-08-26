@@ -1,0 +1,118 @@
+22:07:46.406 [MissionAirdrop] An airdrop is heading towards "Hazelands" (pos=<4539.000000, 0.000000, 2317.000000> type=Random_Hazelands) with a ExpansionAirdropContainer_Basebuilding
+23:38:07.906 [MissionAirdrop] An airdrop is heading towards "Oceanville" (pos=<10179.000000, 0.000000, 4722.000000> type=Random_Oceanville) with a ExpansionAirdropContainer_Basebuilding
+01:07:13.234 [MissionAirdrop] An airdrop is heading towards "Georgstown" (pos=<4522.000000, 0.000000, 4370.000000> type=Random_Georgstown) with a ExpansionAirdropContainer_Military
+02:38:02.140 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer
+04:07:13.289 [MissionAirdrop] An airdrop is heading towards "Westbrook" (pos=<3614.000000, 0.000000, 6360.000000> type=Random_Westbrook) with a ExpansionAirdropContainer_Military
+05:37:59.398 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer
+07:07:34.625 [MissionAirdrop] An airdrop is heading towards "Warren-Cove" (pos=<6924.000000, 0.000000, 5473.000000> type=Random_Warren-Cove) with a ExpansionAirdropContainer_Basebuilding
+08:36:11.773 [MissionAirdrop] An airdrop is heading towards "Oceanville" (pos=<10179.000000, 0.000000, 4722.000000> type=Random_Oceanville) with a ExpansionAirdropContainer_Basebuilding
+10:00:42.750 [Party] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+10:00:42.789 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+10:00:42.796 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+10:00:42.796 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+10:00:42.796 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+10:00:42.796 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+10:00:43.500 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+10:06:10.523 [MissionAirdrop] An airdrop is heading towards "Oldfield" (pos=<6117.000000, 0.000000, 7004.000000> type=Random_Oldfield) with a ExpansionAirdropContainer_Medical
+10:11:07.500 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: BkqlyDLl3IhO5fLGK7eIAGTBmi0fKsMCKRll1LVZB0E=
+10:11:07.515 [Expansion Quests] - CompleteQuest - Player with UID BkqlyDLl3IhO5fLGK7eIAGTBmi0fKsMCKRll1LVZB0E= has completed quest 14
+10:12:08.546 [SpawnSelection] Player "StubbyChimp" (id=BkqlyDLl3IhO5fLGK7eIAGTBmi0fKsMCKRll1LVZB0E=) spawned at <10264.243164, 29.939362, 4646.568359>
+10:27:31.765 [Party] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+10:50:06.171 [AI Patrol] Spawning 2 CampEagle-NE bots at <9079.797852, 45.759663, 3740.647949>
+10:50:12.648 [AI Patrol] Spawning 1 East bots at <8747.127930, 10.245970, 4183.869629>
+11:17:37.765 [AI Patrol] Spawning 3 SouthOfSmallville bots at <9157.881836, 10.467993, 3332.809326>
+11:34:41.195 [MissionAirdrop] An airdrop is heading towards "Stonington" (pos=<6973.000000, 0.000000, 1701.000000> type=Random_Stonington) with a ExpansionAirdropContainer_Military
+11:34:50.796 [Safezone] Player "StubbyChimp" (id=BkqlyDLl3IhO5fLGK7eIAGTBmi0fKsMCKRll1LVZB0E= pos=<7664.936523, 45.513489, 4463.902832>) Entered the safezone
+11:35:31.585 [AI Patrol] Spawning 1 East bots at <7100.863281, 8.723301, 5459.622070>
+11:43:23.796 [Safezone] Player "StubbyChimp" (id=BkqlyDLl3IhO5fLGK7eIAGTBmi0fKsMCKRll1LVZB0E= pos=<7311.353027, 31.642382, 4516.483887>) Left the safezone
+12:01:16.023 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: BkqlyDLl3IhO5fLGK7eIAGTBmi0fKsMCKRll1LVZB0E=
+12:01:16.023 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: BkqlyDLl3IhO5fLGK7eIAGTBmi0fKsMCKRll1LVZB0E=
+12:01:16.023 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: BkqlyDLl3IhO5fLGK7eIAGTBmi0fKsMCKRll1LVZB0E=
+12:01:16.023 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: BkqlyDLl3IhO5fLGK7eIAGTBmi0fKsMCKRll1LVZB0E=
+12:13:16.125 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+12:13:16.156 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+12:13:16.156 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+12:13:16.156 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+12:13:16.156 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+12:13:16.156 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+12:13:16.859 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+12:14:42.218 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+12:16:02.093 [ExplosionDamageSystem] About to explode LandFuelFeed_Ammo from Land_FuelStation_Feed<22415b00> at <7556.63, 24.46, 3927.07> EXPLOSION range 20 dropoff 5
+12:19:14.804 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+12:19:14.820 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+12:19:14.820 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+12:19:14.820 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+12:19:14.820 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+12:19:14.820 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+12:19:15.523 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+12:22:31.054 [Safezone] Player "StubbyChimp" (id=BkqlyDLl3IhO5fLGK7eIAGTBmi0fKsMCKRll1LVZB0E= pos=<7504.539551, 70.105812, 4414.189453>) Entered the safezone
+12:27:45.125 [VehicleDeleted] ExpansionUh1h (id=1B5FE586A042B4F150C59A81326A8800 pos=<-0.010394, 1.483437, 1.416728>)
+12:27:45.187 [VirtualGarage] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<3206.753418, 1.767824, 1650.973389>) retrieved a vehicle "ExpansionUh1h" (GlobalID=80000000800000008000000080009F3D pos=<3187.612061, 2.001870, 1662.572510>)
+12:28:00.968 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Transit Bus (id=082C46450E498C113EFD259CE3DFE97B pos=<3196.138184, 2.674877, 1670.720703>) as driver
+12:28:08.828 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Transit Bus (id=082C46450E498C113EFD259CE3DFE97B pos=<3196.138184, 2.674876, 1670.720703>)
+12:28:18.093 [VehicleDeleted] ExpansionBus_Red (id=D6366559BC401AF700AF05B36A74C16B pos=<-0.201375, 0.728853, 0.085136>)
+12:28:18.109 [VehicleDeleted] ExpansionBus_Red (id=082C46450E498C113EFD259CE3DFE97B pos=<3196.138184, 2.674878, 1670.720703>)
+12:28:18.109 [VirtualGarage] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<3206.850586, 1.767092, 1650.949097>) stored a vehicle "ExpansionBus_Red" (GlobalID=80000000800000008000000080003783 pos=<3196.138184, 2.674878, 1670.720703>)
+12:28:28.781 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Ada 4x4 (id=2AE73E47B74E166139FDF8953289380D pos=<3218.584717, 2.629895, 1657.024414>) as driver
+12:28:34.531 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Ada 4x4 (id=2AE73E47B74E166139FDF8953289380D pos=<3218.584717, 2.629894, 1657.024414>)
+12:28:56.671 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle The Zodiac Orange (id=E385BE4ADE4A7C8A49B0B8A3B3F0039E pos=<3206.570313, 0.125078, 1604.120483>) as driver
+12:29:03.437 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle The Zodiac Orange (id=E385BE4ADE4A7C8A49B0B8A3B3F0039E pos=<3206.570313, 0.203775, 1604.120483>)
+12:30:48.593 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Ada 4x4 (id=2AE73E47B74E166139FDF8953289380D pos=<3218.584961, 2.629887, 1657.024292>) as driver
+12:30:51.031 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle Ada 4x4 (id=2AE73E47B74E166139FDF8953289380D pos=<3218.584717, 2.629893, 1657.024414>)
+12:32:15.296 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle Ada 4x4 (id=2AE73E47B74E166139FDF8953289380D pos=<3201.590332, 1.285449, 1648.703003>)
+12:32:18.187 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Ada 4x4 (id=2AE73E47B74E166139FDF8953289380D pos=<3201.590332, 1.285371, 1648.702637>)
+12:32:28.578 [VehicleDeleted] OffroadHatchback_White (id=0EDFAACE834EA42092E5EEBE69951801 pos=<0.000717, 0.754533, 0.042504>)
+12:32:28.593 [VehicleDeleted] OffroadHatchback_White (id=2AE73E47B74E166139FDF8953289380D pos=<3201.590576, 1.285469, 1648.703125>)
+12:32:28.593 [VirtualGarage] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<3207.020264, 1.774117, 1650.965942>) stored a vehicle "OffroadHatchback_White" (GlobalID=8000000080000000800000008000379F pos=<3201.590576, 1.285469, 1648.703125>)
+12:32:35.062 [VehicleDeleted] RFWC_Zodiac_Orange (id=2F10BFE0F0444171E97CC1AAF6BF6E8E pos=<-0.010437, 0.242536, -0.015604>)
+12:32:35.078 [VehicleDeleted] RFWC_Zodiac_Orange (id=E385BE4ADE4A7C8A49B0B8A3B3F0039E pos=<3206.570313, 0.096945, 1604.120483>)
+12:32:35.078 [VirtualGarage] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<3207.020264, 1.774117, 1650.965942>) stored a vehicle "RFWC_Zodiac_Orange" (GlobalID=80000000800000008000000080004135 pos=<3206.570313, -0.220646, 1604.120483>)
+12:33:23.281 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle UH-1H (id=30F234196A4117B2BA0DB9A461A7AFB7 pos=<3187.612793, 2.001875, 1662.569824>) as pilot
+12:33:29.125 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle UH-1H (id=30F234196A4117B2BA0DB9A461A7AFB7 pos=<3187.614746, 2.000884, 1662.560791>)
+12:34:02.968 [VehicleDestroyed] ExpansionUh1h (id=30F234196A4117B2BA0DB9A461A7AFB7 pos=<3177.270752, -0.932768, 1643.152466>)
+12:34:06.125 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle UH-1H (id=30F234196A4117B2BA0DB9A461A7AFB7 pos=<3172.873779, -1.588070, 1639.995728>)
+12:39:56.734 [VehicleDeleted] ExpansionUh1h (id=30F234196A4117B2BA0DB9A461A7AFB7 pos=<3150.779785, -1.712334, 1548.259277>)
+12:46:12.062 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell snafuaug x1 at the trader "Personal (Linda [])" in market zone "personal" (pos=<3204.250000, 1.534020, 1620.050049>).
+12:46:12.203 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold snafuaug x1 at the trader "Personal (Linda [])" in market zone "personal" (pos=<3204.250000, 1.534020, 1620.050049>) and got 5167.
+12:46:15.000 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell acr_gun x1 at the trader "Personal (Linda [])" in market zone "personal" (pos=<3204.250000, 1.534020, 1620.050049>).
+12:46:15.125 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold acr_gun x1 at the trader "Personal (Linda [])" in market zone "personal" (pos=<3204.250000, 1.534020, 1620.050049>) and got 5062.
+12:46:37.390 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell gcgn_m200_mag x1 at the trader "Personal (Linda [])" in market zone "personal" (pos=<3204.250000, 1.534020, 1620.050049>).
+12:46:37.500 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold gcgn_m200_mag x1 at the trader "Personal (Linda [])" in market zone "personal" (pos=<3204.250000, 1.534020, 1620.050049>) and got 171.
+12:46:42.125 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell snafuvssk_5rdmag x1 at the trader "Personal (Linda [])" in market zone "personal" (pos=<3204.250000, 1.534020, 1620.050049>).
+12:46:42.250 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold snafuvssk_5rdmag x1 at the trader "Personal (Linda [])" in market zone "personal" (pos=<3204.250000, 1.534020, 1620.050049>) and got 165.
+12:46:43.187 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell snafuvssk_5rdmag x1 at the trader "Personal (Linda [])" in market zone "personal" (pos=<3204.250000, 1.534020, 1620.050049>).
+12:46:43.328 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold snafuvssk_5rdmag x1 at the trader "Personal (Linda [])" in market zone "personal" (pos=<3204.250000, 1.534020, 1620.050049>) and got 315.
+12:47:12.734 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell snafut5000_wood_gun x1 at the trader "Personal (Linda [])" in market zone "personal" (pos=<3204.250000, 1.534020, 1620.050049>).
+12:47:12.875 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold snafut5000_wood_gun x1 at the trader "Personal (Linda [])" in market zone "personal" (pos=<3204.250000, 1.534020, 1620.050049>) and got 5625.
+12:47:18.156 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell snafugm6lynx x1 at the trader "Personal (Linda [])" in market zone "personal" (pos=<3204.250000, 1.534020, 1620.050049>).
+12:47:18.296 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold snafugm6lynx x1 at the trader "Personal (Linda [])" in market zone "personal" (pos=<3204.250000, 1.534020, 1620.050049>) and got 8437.
+12:47:25.078 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell snafum98b_atac_gun x1 at the trader "Personal (Linda [])" in market zone "personal" (pos=<3204.250000, 1.534020, 1620.050049>).
+12:47:25.218 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold snafum98b_atac_gun x1 at the trader "Personal (Linda [])" in market zone "personal" (pos=<3204.250000, 1.534020, 1620.050049>) and got 11250.
+12:48:19.265 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase snafuppsh_71rdmag x1 from the trader "Personal (Linda [])" in market zone "personal" (pos=<3204.250000, 1.534020, 1620.050049>).
+12:48:19.375 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought snafuppsh_71rdmag x1 from the trader "Personal (Linda [])" in market zone "personal" (pos=<3204.250000, 1.534020, 1620.050049>) for a price of 684.
+13:02:53.031 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+13:05:50.718 [MissionAirdrop] An airdrop is heading towards "Georgstown" (pos=<4522.000000, 0.000000, 4370.000000> type=Random_Georgstown) with a ExpansionAirdropContainer_Military
+13:17:12.500 [Safezone] Player "StubbyChimp" (id=BkqlyDLl3IhO5fLGK7eIAGTBmi0fKsMCKRll1LVZB0E= pos=<7524.104492, 49.004616, 4353.569824>) Left the safezone
+13:48:52.343 [Safezone] Player "StubbyChimp" (id=BkqlyDLl3IhO5fLGK7eIAGTBmi0fKsMCKRll1LVZB0E= pos=<7331.723633, 55.048050, 4628.686523>) Entered the safezone
+14:36:47.078 [MissionAirdrop] An airdrop is heading towards "Hazelands" (pos=<4539.000000, 0.000000, 2317.000000> type=Random_Hazelands) with a ExpansionAirdropContainer_Basebuilding
+16:08:46.218 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer
+17:37:20.500 [MissionAirdrop] An airdrop is heading towards "Georgstown" (pos=<4522.000000, 0.000000, 4370.000000> type=Random_Georgstown) with a ExpansionAirdropContainer_Military
+18:02:15.937 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+18:02:15.953 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:02:15.953 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:02:15.953 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:02:15.953 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:02:15.968 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:02:16.656 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:03:14.156 [VehicleDeleted] ExpansionMh6_Sunset (id=6D555406BB441C2D160FBF969DC62E4A pos=<0.000861, 1.692845, 0.535123>)
+18:03:14.234 [VirtualGarage] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<3206.708252, 1.714597, 1650.601807>) retrieved a vehicle "ExpansionMh6_Sunset" (GlobalID=800000008000000080000000800031B8 pos=<3209.445068, 1.567681, 1613.689697>)
+18:03:28.937 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=6324639AAA4A84243B7643ADD3DC60F7 pos=<3209.446533, 1.567750, 1613.686890>) as pilot
+18:03:47.625 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle Mh-6 Little Bird (id=6324639AAA4A84243B7643ADD3DC60F7 pos=<3209.446533, 1.567671, 1613.687012>)
+18:04:30.406 [AI Patrol] Spawning 1 East bots at <4515.570313, 29.729984, 1905.467041>
+18:05:06.281 [AI Patrol] Spawning 2 Greenville bots at <4997.070313, 14.423454, 1188.920410>
+18:06:20.000 [AI Patrol] Spawning 3 Airfield bots at <5284.149414, 81.295113, 3085.268311>
+18:13:42.109 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle Mh-6 Little Bird (id=6324639AAA4A84243B7643ADD3DC60F7 pos=<3212.881592, 1.551343, 1614.920532>)
+18:13:58.093 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Mh-6 Little Bird (id=6324639AAA4A84243B7643ADD3DC60F7 pos=<3212.518799, 1.551965, 1614.780029>)
+18:15:24.515 [VehicleDeleted] ExpansionMh6_Sunset (id=6324639AAA4A84243B7643ADD3DC60F7 pos=<3210.267578, 1.580264, 1613.228271>)
+18:15:24.515 [VirtualGarage] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<3206.955078, 1.784706, 1651.054321>) stored a vehicle "ExpansionMh6_Sunset" (GlobalID=800000008000000080000000800031B8 pos=<3210.267578, 1.580264, 1613.228271>)
+18:16:00.109 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)

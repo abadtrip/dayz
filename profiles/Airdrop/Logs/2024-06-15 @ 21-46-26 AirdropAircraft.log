@@ -1,0 +1,16 @@
+2024-06-15 @ 21-46-26:  [AirdropPlane] Aircraft created on 2024-06-15 @ 21-46-26
+2024-06-15 @ 21-46-26:  [InitializeAircraft] Aircraft Initialized: Player Called @ 10226/5174.61 (false)
+2024-06-15 @ 21-46-42:  [EOnSpawnZombies] Zombie Spawned [1] ZmbM_SoldierNormal @ <10200.613281, 43.147903, 5164.831055> ... Lifespan:  Set to 60 minutes.
+2024-06-15 @ 21-46-58:  [EOnSpawnZombies] Zombie Spawned [2] ZmbM_PatrolNormal_Autumn @ <10216.166016, 41.482681, 5206.629395> ... Lifespan:  Set to 60 minutes.
+2024-06-15 @ 21-47-15:  [EOnSpawnZombies] Zombie Spawned [3] Animal_CanisLupus_White @ <10214.083008, 42.670139, 5167.354492> ... Lifespan:  Set to 60 minutes.
+2024-06-15 @ 21-47-31:  [EOnSpawnZombies] Zombie Spawned [4] Animal_CanisLupus_White @ <10231.439453, 42.631252, 5177.410645> ... Lifespan:  Set to 60 minutes.
+2024-06-15 @ 21-47-47:  [EOnSpawnZombies] Zombie Spawned [5] ZmbM_PatrolNormal_PautRev @ <10215.835938, 42.265697, 5184.445313> ... Lifespan:  Set to 60 minutes.
+2024-06-15 @ 21-48-04:  [EOnSpawnZombies] Zombie Spawned [6] ZmbM_OffshoreWorker_Orange @ <10234.785156, 40.938789, 5217.075195> ... Lifespan:  Set to 60 minutes.
+2024-06-15 @ 21-48-20:  [EOnSpawnZombies] Zombie Spawned [7] Animal_CanisLupus_Grey @ <10228.598633, 42.021465, 5196.768555> ... Lifespan:  Set to 60 minutes.
+2024-06-15 @ 21-48-36:  [EOnSpawnZombies] Zombie Spawned [8] ZmbM_PatrolNormal_Summer @ <10233.031250, 42.649231, 5177.381348> ... Lifespan:  Set to 60 minutes.
+2024-06-15 @ 21-48-50:  [EOnBeforeDrop] The Aircraft is 1 Km from called location, from the North/West (332°). @ <9529.740234, 152.477600, 6501.378906>
+2024-06-15 @ 21-48-53:  [EOnSpawnZombies] Zombie Spawned [9] ZmbM_ParamedicNormal_Black @ <10189.001953, 43.349392, 5187.074219> ... Lifespan:  Set to 60 minutes.
+2024-06-15 @ 21-49-08:  [EOnDrop] Drop spawned with 10 infected at <10187.759766, 184.809479, 5247.701172>.
+2024-06-15 @ 21-49-08:  [EOnDrop] Supplies have been dropped near the player's location.
+2024-06-15 @ 21-50-40:  [EOnBeforeDelete] Aircraft despawned @ <13467.099609, 152.000610, -1000.769836>
+2024-06-15 @ 21-50-40:  [~AirdropPlane] Aircraft destroyed.

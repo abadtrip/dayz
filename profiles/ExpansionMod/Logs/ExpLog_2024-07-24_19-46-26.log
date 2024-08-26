@@ -1,0 +1,20 @@
+19:48:33.328 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<5258.338867, 4.862199, 12443.215820>) Entered the safezone
+19:48:33.328 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+19:48:33.343 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:48:33.343 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+19:48:33.343 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:48:33.343 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:48:33.343 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+19:48:34.140 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:49:01.968 [VehicleCarKey] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<5265.750000, 4.782500, 12448.252930>) used the  ExpansionCarKey to unlock moped_80 (id=2CD7CAF29A4765E1FBDC2491D9CD55DE pos=<5266.277344, 4.624675, 12448.687500>)
+19:50:23.562 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has send a requested to purchase buran_blue x1 from the trader "Motorcycle (Linda [MOTORCYCLES])" in market zone "motorcycle trader" (pos=<5256.129883, 4.862200, 12442.500000>).
+19:50:23.671 [VehicleDeleted] Buran_blue (id=912841CF9547048A3CF4DBAC202A396E pos=<0.001468, 0.472130, -0.069240>)
+19:50:59.382 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has send a requested to purchase moped_80_wheel x1 from the trader "Motorcycle (Linda [MOTORCYCLES])" in market zone "motorcycle trader" (pos=<5256.129883, 4.862200, 12442.500000>).
+19:50:59.460 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has bought moped_80_wheel x1 from the trader "Motorcycle (Linda [MOTORCYCLES])" in market zone "motorcycle trader" (pos=<5256.129883, 4.862200, 12442.500000>) for a price of 5000.
+19:51:00.164 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has send a requested to purchase moped_80_wheel x1 from the trader "Motorcycle (Linda [MOTORCYCLES])" in market zone "motorcycle trader" (pos=<5256.129883, 4.862200, 12442.500000>).
+19:51:00.250 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has bought moped_80_wheel x1 from the trader "Motorcycle (Linda [MOTORCYCLES])" in market zone "motorcycle trader" (pos=<5256.129883, 4.862200, 12442.500000>) for a price of 5000.
+19:51:32.992 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle moped_80 (id=2CD7CAF29A4765E1FBDC2491D9CD55DE pos=<5266.276367, 4.770575, 12448.698242>) as driver
+19:51:35.609 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] started vehicle moped_80 (id=2CD7CAF29A4765E1FBDC2491D9CD55DE pos=<5266.275879, 4.770575, 12448.698242>)
+19:51:39.484 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle moped_80 (id=2CD7CAF29A4765E1FBDC2491D9CD55DE pos=<5266.276367, 4.770575, 12448.698242>)
+19:52:53.906 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer_Basebuilding
+19:55:19.109 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)

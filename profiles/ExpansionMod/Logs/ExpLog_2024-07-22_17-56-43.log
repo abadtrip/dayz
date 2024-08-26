@@ -1,0 +1,57 @@
+17:58:32.718 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+17:58:32.730 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+17:58:32.730 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+17:58:32.730 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+17:58:32.730 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+17:58:32.734 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+17:58:32.738 [AI Patrol] Spawning 2 West bots at <12355.653320, 23.533554, 2026.706177>
+17:58:33.500 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+17:59:10.933 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+17:59:10.945 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+17:59:10.945 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+17:59:10.945 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+17:59:10.945 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+17:59:10.949 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+17:59:11.726 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:02:33.921 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<12567.655273, 37.671532, 1320.323730>) as pilot
+18:02:42.171 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<12567.576172, 37.651592, 1320.341309>)
+18:03:10.328 [Party] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+18:03:10.367 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+18:03:10.367 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:03:10.367 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+18:03:10.367 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+18:03:10.371 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+18:03:11.191 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:03:11.703 [MissionAirdrop] An airdrop is heading towards "Westbrook" (pos=<3614.000000, 0.000000, 6360.000000> type=Random_Westbrook) with a ExpansionAirdropContainer_Military
+18:04:08.917 [VehicleEnter] Player 1DEADMANWALKIN [uid=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=] entered vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<12567.524414, 37.674221, 1320.205200>) as passenger
+18:04:11.386 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<12567.525391, 37.670246, 1320.234131>) as passenger
+18:04:13.363 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<12567.525391, 37.666382, 1320.256470>) as pilot
+18:04:15.863 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] started vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<12567.506836, 37.676796, 1320.205078>)
+18:05:14.855 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] stopped vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<12514.300781, 44.724758, 2081.005615>)
+18:05:18.660 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<12514.263672, 44.413990, 2081.072754>)
+18:05:21.222 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<12514.259766, 44.406673, 2081.040283>)
+18:05:21.867 [VehicleLeave] Player 1DEADMANWALKIN [uid=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=] left vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<12514.259766, 44.403702, 2081.030273>)
+18:10:11.703 [VehicleEnter] Player 1DEADMANWALKIN [uid=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=] entered vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<12514.361328, 44.095932, 2079.576172>) as passenger
+18:10:13.914 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<12514.361328, 44.096035, 2079.576660>) as passenger
+18:10:27.609 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<12514.360352, 44.095226, 2079.572998>) as pilot
+18:10:28.910 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] started vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<12514.360352, 44.094997, 2079.572998>)
+18:11:27.886 [AI Patrol] Spawning 3 West bots at <13966.656250, 10.455621, 997.928711>
+18:11:38.378 [AI Patrol] Spawning 2 West bots at <14412.197266, 5.340000, 1162.929932>
+18:12:13.281 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] stopped vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<13721.425781, 5.414632, 1041.193359>)
+18:12:17.046 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<13721.432617, 5.406490, 1041.194214>)
+18:12:19.656 [VehicleLeave] Player 1DEADMANWALKIN [uid=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=] left vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<13721.432617, 5.406494, 1041.194214>)
+18:12:22.398 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<13721.432617, 5.406486, 1041.194336>)
+18:13:31.593 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<13721.432617, 5.406495, 1041.194702>) as pilot
+18:13:34.054 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] started vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<13721.432617, 5.406501, 1041.194702>)
+18:14:21.632 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] stopped vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<13980.750977, 12.017160, 1008.492188>)
+18:14:25.101 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<13980.753906, 12.007358, 1008.490295>)
+18:15:22.281 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<13980.750000, 12.010189, 1008.445374>) as pilot
+18:15:26.429 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] started vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<13980.750000, 12.010115, 1008.442078>)
+18:15:27.046 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<13980.750000, 12.010115, 1008.441650>) as passenger
+18:15:31.187 [VehicleEnter] Player 1DEADMANWALKIN [uid=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=] entered vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<13980.750000, 12.010056, 1008.438293>) as passenger
+18:17:22.992 [AI Patrol] Spawning 2 West bots at <14047.145508, 2.404874, 2137.648926>
+18:17:28.960 [AI Patrol] Spawning 2 West bots at <13915.295898, 4.784944, 2241.807129>
+18:17:50.382 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] stopped vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<14482.948242, 143.759827, 2319.124756>)
+18:17:57.968 [VehicleLeave] Player 1DEADMANWALKIN [uid=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=] left vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<14485.456055, 138.975586, 2324.705078>)
+18:17:58.179 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<14485.460938, 138.972870, 2324.707275>)
+18:17:59.781 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Mh-6 Little Bird (id=CADFBD311C44221F61DA838217DDB75B pos=<14485.542969, 138.940094, 2324.727051>)

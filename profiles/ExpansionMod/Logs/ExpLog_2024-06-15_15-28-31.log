@@ -1,0 +1,41 @@
+15:29:38.757 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+15:29:38.757 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+15:29:38.757 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+15:29:38.757 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+15:30:11.390 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+15:30:11.390 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+15:30:11.390 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+15:30:11.390 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+15:34:16.648 [MissionAirdrop] An airdrop is heading towards "Greenville" (pos=<4658.000000, 0.000000, 1414.000000> type=Random_Greenville) with a ExpansionAirdropContainer_Basebuilding
+15:41:24.218 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=69721305A140E0B8F10352BD0BFA28CC pos=<10267.612305, 32.825085, 4703.860352>) as pilot
+15:41:35.800 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=69721305A140E0B8F10352BD0BFA28CC pos=<10267.613281, 32.825085, 4703.860352>) as passenger
+15:41:39.914 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] started vehicle Mh-6 Little Bird (id=69721305A140E0B8F10352BD0BFA28CC pos=<10267.613281, 32.825054, 4703.860352>)
+15:43:02.675 [AI Patrol] Spawning 2 West bots at <11894.228516, 10.888988, 2284.107422>
+15:43:33.574 [AI Patrol] Spawning 1 West bots at <14043.208008, 7.608330, 2037.352295>
+15:44:03.320 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] stopped vehicle Mh-6 Little Bird (id=69721305A140E0B8F10352BD0BFA28CC pos=<13281.088867, 104.389816, 2261.319092>)
+15:44:38.632 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=69721305A140E0B8F10352BD0BFA28CC pos=<13274.737305, 102.570366, 2256.818848>)
+15:45:13.605 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Mh-6 Little Bird (id=69721305A140E0B8F10352BD0BFA28CC pos=<13274.737305, 102.570396, 2256.818604>)
+15:46:57.890 [VehicleDeleted] ExpansionMh6_Speedy (id=69721305A140E0B8F10352BD0BFA28CC pos=<13274.737305, 102.570396, 2256.818604>)
+16:05:38.640 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle The DragBoat - Punisher (id=CD48A6001C47F877089B3CB588763787 pos=<11640.002930, 0.079853, 2331.755615>) as driver
+16:06:06.753 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle The DragBoat - Punisher (id=CD48A6001C47F877089B3CB588763787 pos=<11640.002930, -0.125187, 2331.755615>) as passenger
+16:10:24.789 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle The DragBoat - Punisher (id=CD48A6001C47F877089B3CB588763787 pos=<15597.894531, 0.221515, 5128.679199>)
+16:10:26.746 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle The DragBoat - Punisher (id=CD48A6001C47F877089B3CB588763787 pos=<15597.895508, -0.022291, 5128.679199>)
+16:12:07.011 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle The DragBoat - Punisher (id=CD48A6001C47F877089B3CB588763787 pos=<15597.515625, -0.048713, 5128.662109>) as driver
+16:12:10.718 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle The DragBoat - Punisher (id=CD48A6001C47F877089B3CB588763787 pos=<15596.880859, -0.053137, 5128.665039>) as passenger
+16:14:02.488 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle The DragBoat - Punisher (id=CD48A6001C47F877089B3CB588763787 pos=<15594.421875, 0.057561, 4878.783691>)
+16:14:04.281 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle The DragBoat - Punisher (id=CD48A6001C47F877089B3CB588763787 pos=<15594.417969, 0.087662, 4878.785156>)
+16:16:42.886 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle The DragBoat - Punisher (id=CD48A6001C47F877089B3CB588763787 pos=<15593.395508, 0.605549, 4872.638184>) as passenger
+16:16:46.859 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle The DragBoat - Punisher (id=CD48A6001C47F877089B3CB588763787 pos=<15593.370117, 0.601760, 4872.506348>)
+16:16:51.433 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle The DragBoat - Punisher (id=CD48A6001C47F877089B3CB588763787 pos=<15593.338867, 0.597607, 4872.346191>) as driver
+16:17:16.125 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle The DragBoat - Punisher (id=CD48A6001C47F877089B3CB588763787 pos=<15591.658203, 0.306919, 4862.712891>) as passenger
+16:18:27.277 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle The DragBoat - Punisher (id=CD48A6001C47F877089B3CB588763787 pos=<15780.957031, 0.109007, 4290.208984>)
+16:18:29.121 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle The DragBoat - Punisher (id=CD48A6001C47F877089B3CB588763787 pos=<15780.957031, 0.294357, 4290.208984>)
+16:46:37.917 [VehicleDeleted] RFWC_DragBoat_Punisher (id=CD48A6001C47F877089B3CB588763787 pos=<15780.957031, 0.261969, 4290.208984>)
+17:06:55.410 [MissionAirdrop] An airdrop is heading towards "Warren-Cove" (pos=<6924.000000, 0.000000, 5473.000000> type=Random_Warren-Cove) with a ExpansionAirdropContainer
+17:08:27.972 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=DC8473695C4A2B35E70F9E89E7E68A49 pos=<15623.460938, 12.714799, 4999.467773>) as pilot
+17:08:30.933 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=DC8473695C4A2B35E70F9E89E7E68A49 pos=<15623.460938, 12.714803, 4999.467773>) as passenger
+17:08:34.687 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] started vehicle Mh-6 Little Bird (id=DC8473695C4A2B35E70F9E89E7E68A49 pos=<15623.460938, 12.714805, 4999.467773>)
+17:14:23.898 [AI Patrol] Spawning 1 West bots at <6633.754883, 17.651047, 6760.025391>
+17:15:24.976 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] stopped vehicle Mh-6 Little Bird (id=DC8473695C4A2B35E70F9E89E7E68A49 pos=<6516.560059, 24.543461, 6718.599609>)
+17:15:33.710 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=DC8473695C4A2B35E70F9E89E7E68A49 pos=<6516.209961, 24.544693, 6718.191406>)
+17:18:25.425 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Mh-6 Little Bird (id=DC8473695C4A2B35E70F9E89E7E68A49 pos=<6516.210938, 24.544693, 6718.190918>)

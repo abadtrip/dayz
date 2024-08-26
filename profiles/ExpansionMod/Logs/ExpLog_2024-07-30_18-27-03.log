@@ -1,0 +1,74 @@
+18:28:57.890 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+18:28:57.929 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:28:57.929 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+18:28:57.929 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:28:57.929 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:28:57.929 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:28:58.703 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:33:35.070 [MissionAirdrop] An airdrop is heading towards "Greenville" (pos=<4658.000000, 0.000000, 1414.000000> type=Random_Greenville) with a ExpansionAirdropContainer_Military
+18:34:37.968 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+18:34:37.984 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:34:37.984 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:34:37.984 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:34:37.984 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:34:37.984 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:34:38.945 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:35:10.796 [SpawnSelection] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) spawned at <3233.246338, 2.739967, 1677.017334>
+18:35:57.226 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=0BEA62B47A4D5F0F892805965660FD31 pos=<3206.927002, 1.576011, 1613.988647>) as passenger
+18:35:59.148 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=0BEA62B47A4D5F0F892805965660FD31 pos=<3206.928955, 1.575989, 1613.987061>) as pilot
+18:36:18.054 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=0BEA62B47A4D5F0F892805965660FD31 pos=<3206.928711, 1.575903, 1613.988892>)
+18:36:32.695 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=0BEA62B47A4D5F0F892805965660FD31 pos=<3206.928955, 1.576004, 1613.988892>) as pilot
+18:36:34.179 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] started vehicle Mh-6 Little Bird (id=0BEA62B47A4D5F0F892805965660FD31 pos=<3206.928955, 1.575957, 1613.988892>)
+18:37:36.171 [AI Patrol] Spawning 3 ParisIsland bots at <2842.101318, 22.450001, 3667.113037>
+18:37:40.687 [AI Patrol] Spawning 3 ParisIsland2 bots at <2856.426270, 23.501705, 3872.962891>
+18:38:48.867 [AI Object Patrol] Spawning 1 East bots at <3255.979980, 21.181631, 6512.158203>
+18:39:34.484 [AI Patrol] Spawning 2 SwampAltar bots at <3446.202637, 9.387854, 8696.125977>
+18:40:14.562 [AI Object Patrol] Spawning 3 East bots at <3016.902344, 7.153142, 10620.852539>
+18:41:37.296 [AI Patrol] Spawning 2 IslandCastle bots at <2767.398682, 23.988815, 13823.540039>
+18:42:03.195 [AI Object Patrol] Spawning 2 West bots at <4114.000000, 20.000000, 15481.000000>
+18:46:14.820 [AI Object Patrol] Despawning 3 East bots (spawn position <3016.902344, 7.153142, 10620.852539>, 0/3 deceased)
+18:47:16.367 [AI Object Patrol] Spawning 2 West bots at <1781.981201, 3.976922, 15551.107422>
+18:48:20.765 [AI Patrol] Despawning 3 ParisIsland bots (spawn position <2842.101318, 22.450001, 3667.113037>, 0/3 deceased)
+18:48:25.445 [AI Patrol] Despawning 3 ParisIsland2 bots (spawn position <2856.426270, 23.501705, 3872.962891>, 0/3 deceased)
+18:49:26.507 [AI Object Patrol] Despawning 1 East bots (spawn position <3255.979980, 21.181631, 6512.158203>, 0/1 deceased)
+18:50:06.484 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] stopped vehicle Mh-6 Little Bird (id=0BEA62B47A4D5F0F892805965660FD31 pos=<2160.109619, 28.465940, 14620.741211>)
+18:50:15.976 [AI Patrol] Despawning 2 SwampAltar bots (spawn position <3446.202637, 9.387854, 8696.125977>, 0/2 deceased)
+18:50:16.500 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=0BEA62B47A4D5F0F892805965660FD31 pos=<2160.108154, 28.463917, 14620.742188>)
+18:50:31.273 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Mh-6 Little Bird (id=0BEA62B47A4D5F0F892805965660FD31 pos=<2160.108154, 28.463911, 14620.742188>)
+18:53:15.593 [AI Object Patrol] Despawning 2 West bots (spawn position <4114.000000, 20.000000, 15481.000000>, 0/2 deceased)
+18:54:50.164 [AI Object Patrol] Despawning 2 West bots (spawn position <1781.981201, 3.976922, 15551.107422>, 0/2 deceased)
+19:00:42.054 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=0BEA62B47A4D5F0F892805965660FD31 pos=<2160.106934, 28.463911, 14620.740234>) as passenger
+19:18:11.281 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Mh-6 Little Bird (id=0BEA62B47A4D5F0F892805965660FD31 pos=<2160.104736, 28.463917, 14620.734375>)
+19:37:15.984 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle The Seadoo Orange (id=A62F94E50C4EACC358B4B48EE4290C3C pos=<2120.290771, -0.034001, 14629.355469>) as driver
+19:39:06.078 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle The Seadoo Orange (id=A62F94E50C4EACC358B4B48EE4290C3C pos=<2157.747314, 0.261820, 14604.475586>)
+19:41:05.953 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=0BEA62B47A4D5F0F892805965660FD31 pos=<2160.102051, 28.463913, 14620.728516>) as pilot
+19:41:23.109 [VehicleEngine] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] started vehicle Mh-6 Little Bird (id=0BEA62B47A4D5F0F892805965660FD31 pos=<2160.101807, 28.463913, 14620.728516>)
+19:42:33.218 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=0BEA62B47A4D5F0F892805965660FD31 pos=<2154.400146, 1.009350, 14607.577148>) as passenger
+19:43:29.265 [Killfeed] NOVAKILLSFORYOU and passengers MGM_762 didn't survive flying in their Mh-6 Little Bird.
+19:43:39.390 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+19:43:44.281 [VehicleDestroyed] ExpansionMh6_Wasp (id=0BEA62B47A4D5F0F892805965660FD31 pos=<2318.659424, 0.347325, 13947.547852>)
+19:44:13.265 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+19:44:14.242 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:44:23.859 [SpawnSelection] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) spawned at <3233.246338, 2.739967, 1677.017334>
+19:45:30.445 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+19:45:30.460 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+19:45:30.460 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:45:30.460 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+19:45:30.460 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+19:45:30.460 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+19:45:31.429 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:45:50.703 [SpawnSelection] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) spawned at <3233.246338, 2.739967, 1677.017334>
+19:51:18.734 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+19:57:37.390 [AI Patrol] Despawning 2 IslandCastle bots (spawn position <2767.398682, 23.988815, 13823.540039>, 0/2 deceased)
+20:05:50.070 [MissionAirdrop] An airdrop is heading towards "Hazelands" (pos=<4539.000000, 0.000000, 2317.000000> type=Random_Hazelands) with a ExpansionAirdropContainer_Basebuilding
+20:08:58.773 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+20:20:32.609 [VehicleDeleted] ExpansionMh6_Wasp (id=0BEA62B47A4D5F0F892805965660FD31 pos=<2319.524658, 0.361207, 13948.399414>)
+21:37:13.218 [MissionAirdrop] An airdrop is heading towards "Oceanville" (pos=<10179.000000, 0.000000, 4722.000000> type=Random_Oceanville) with a ExpansionAirdropContainer_Basebuilding
+23:06:23.414 [MissionAirdrop] An airdrop is heading towards "Oceanville" (pos=<10179.000000, 0.000000, 4722.000000> type=Random_Oceanville) with a ExpansionAirdropContainer_Basebuilding
+00:35:23.867 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer_Medical
+02:04:58.023 [MissionAirdrop] An airdrop is heading towards "Oldfield" (pos=<6117.000000, 0.000000, 7004.000000> type=Random_Oldfield) with a ExpansionAirdropContainer_Medical
+03:32:44.125 [MissionAirdrop] An airdrop is heading towards "Georgstown" (pos=<4522.000000, 0.000000, 4370.000000> type=Random_Georgstown) with a ExpansionAirdropContainer_Medical
+05:03:30.390 [MissionAirdrop] An airdrop is heading towards "Hazelands" (pos=<4539.000000, 0.000000, 2317.000000> type=Random_Hazelands) with a ExpansionAirdropContainer_Basebuilding
+06:35:28.890 [MissionAirdrop] An airdrop is heading towards "Stonington" (pos=<6973.000000, 0.000000, 1701.000000> type=Random_Stonington) with a ExpansionAirdropContainer
+08:06:33.960 [MissionAirdrop] An airdrop is heading towards "Stonington" (pos=<6973.000000, 0.000000, 1701.000000> type=Random_Stonington) with a ExpansionAirdropContainer
+09:37:39.187 [MissionAirdrop] An airdrop is heading towards "Oldfield" (pos=<6117.000000, 0.000000, 7004.000000> type=Random_Oldfield) with a ExpansionAirdropContainer_Medical

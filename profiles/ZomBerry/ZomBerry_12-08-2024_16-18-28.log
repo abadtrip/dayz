@@ -1,0 +1,45 @@
+---------------------------------------------
+ZomBerry v0.6.4 log started at 12.08.2024 16:18:28
+
+12.08.2024 16:18:28 [ZomBerryCmdAPI]: INFO: Added category OnTarget
+12.08.2024 16:18:28 [ZomBerryCmdAPI]: INFO: Added function TPCur to category OnTarget
+12.08.2024 16:18:28 [ZomBerryCmdAPI]: INFO: Added function TPForward to category OnTarget
+12.08.2024 16:18:28 [ZomBerryCmdAPI]: INFO: Added function TPToTarget to category OnTarget
+12.08.2024 16:18:28 [ZomBerryCmdAPI]: INFO: Added function TPToAdmin to category OnTarget
+12.08.2024 16:18:28 [ZomBerryCmdAPI]: INFO: Added function HealTarget to category OnTarget
+12.08.2024 16:18:28 [ZomBerryCmdAPI]: INFO: Added function HealTargetPart to category OnTarget
+12.08.2024 16:18:28 [ZomBerryCmdAPI]: INFO: Added function GodTarget to category OnTarget
+12.08.2024 16:18:28 [ZomBerryCmdAPI]: INFO: Added function RepairTargetHands to category OnTarget
+12.08.2024 16:18:28 [ZomBerryCmdAPI]: INFO: Added function RefuelAndRepair to category OnTarget
+12.08.2024 16:18:28 [ZomBerryCmdAPI]: INFO: Added category ==
+12.08.2024 16:18:28 [ZomBerryCmdAPI]: INFO: Added function KillTarget to category ==
+12.08.2024 16:18:28 [ZomBerryCmdAPI]: INFO: Added function BiteTarget to category ==
+12.08.2024 16:18:28 [ZomBerryCmdAPI]: INFO: Added function StripTarget to category ==
+12.08.2024 16:18:28 [ZomBerryCmdAPI]: INFO: Added function RejectBellyTarget to category ==
+12.08.2024 16:18:28 [ZomBerryCmdAPI]: INFO: Added function PsycoTarget to category ==
+12.08.2024 16:18:28 [ZomBerryCmdAPI]: INFO: Added function SneezeTarget to category ==
+12.08.2024 16:18:28 [ZomBerryCmdAPI]: INFO: Added function SetHealthTarget to category ==
+12.08.2024 16:18:28 [ZomBerryCmdAPI]: INFO: Added function SetBloodTarget to category ==
+12.08.2024 16:18:28 [ZomBerryCmdAPI]: INFO: Added category OnServer
+12.08.2024 16:18:28 [ZomBerryCmdAPI]: INFO: Added function FreeCamAdm to category OnServer
+12.08.2024 16:18:28 [ZomBerryCmdAPI]: INFO: Added function TimeDay to category OnServer
+12.08.2024 16:18:28 [ZomBerryCmdAPI]: INFO: Added function TimeNight to category OnServer
+12.08.2024 16:18:28 [ZomBerryCmdAPI]: INFO: Added function SetTime to category OnServer
+12.08.2024 16:18:28 [ZomBerryCmdAPI]: INFO: Added function SetDate to category OnServer
+12.08.2024 16:18:28 [ZomBerryCmdAPI]: INFO: Added function SetWeather to category OnServer
+12.08.2024 16:18:28 [ZomBerryCmdAPI]: INFO: Added function DeleteObj to category OnServer
+12.08.2024 16:18:28 [ZomBerryConfig]: INFO: Using admins.cfg from Profile directory
+12.08.2024 16:18:28 [ZomBerryDbg]: Server ready, loading admin list from: $profile:ZomBerry\admins.cfg
+12.08.2024 16:18:28 [ZomBerryConfig]: admins.cfg loaded
+12.08.2024 16:18:28 [ZomBerryConfig]: Added admin: 76561198089301277
+12.08.2024 20:39:48 [ZomBerryDbg]: Auth respond to admin NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=)
+13.08.2024 15:12:09 [ZomBerryDbg]: Auth respond to admin NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=)
+13.08.2024 15:12:33 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+13.08.2024 15:12:33 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+13.08.2024 15:12:43 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) spawned ADM_JetPack_Green at <7557.421387, 87.669998, 4636.403320>
+13.08.2024 15:14:45 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+13.08.2024 15:14:45 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+13.08.2024 15:14:57 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) teleported to position <3298.915527, 4.370186, 1799.547852>
+13.08.2024 15:15:38 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+13.08.2024 15:15:38 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+13.08.2024 15:15:46 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) spawned CanisterGasoline at <3193.153320, 2.607471, 1669.545044>

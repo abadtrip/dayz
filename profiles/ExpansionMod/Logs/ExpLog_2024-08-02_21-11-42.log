@@ -1,0 +1,83 @@
+21:13:01.703 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<2160.172852, 20.369957, 14626.737305>) Entered the safezone
+21:13:01.703 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+21:13:01.718 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+21:13:01.718 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+21:13:01.718 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+21:13:01.718 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+21:13:01.718 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+21:13:01.726 [AI Object Patrol] Spawning 1 West bots at <1781.981201, 3.976922, 15551.107422>
+21:13:01.757 [AI Object Patrol] Spawning 1 East bots at <2717.664795, 8.101718, 14723.303711>
+21:13:01.781 [AI Patrol] Spawning 2 IslandCastle bots at <2678.453125, 39.967052, 13898.527344>
+21:13:02.523 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+21:13:41.671 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<2161.013916, 20.369953, 14620.331055>) Entered the safezone
+21:13:41.671 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+21:13:41.679 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+21:13:41.679 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+21:13:41.679 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+21:13:41.687 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+21:13:41.687 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+21:13:42.625 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+21:14:05.343 [AI Object Patrol] Despawning 1 East bots (spawn position <2717.664795, 8.101718, 14723.303711>, 0/1 deceased)
+21:15:47.648 [AI Object Patrol] Spawning 2 East bots at <1150.051880, 3.974263, 14720.352539>
+21:17:39.625 [MissionAirdrop] An airdrop is heading towards "Stonington" (pos=<6973.000000, 0.000000, 1701.000000> type=Random_Stonington) with a ExpansionAirdropContainer_Medical
+21:21:20.671 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=E0316282CE46F82DAE89CA801A5FB83F pos=<2177.098633, 32.467209, 14609.648438>) as passenger
+21:21:29.820 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=E0316282CE46F82DAE89CA801A5FB83F pos=<2177.098633, 32.467255, 14609.648438>) as pilot
+21:21:38.804 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle Mh-6 Little Bird (id=E0316282CE46F82DAE89CA801A5FB83F pos=<2177.098633, 32.467201, 14609.648438>)
+21:22:51.867 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<2606.811523, 187.460205, 14175.593750>) Left the safezone
+21:22:52.039 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<2612.699463, 187.381149, 14170.068359>) Left the safezone
+21:25:25.312 [AI Patrol] Spawning 2 Powerplant bots at <4987.513184, 13.412088, 7484.061523>
+21:25:32.648 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<5209.399414, 221.844803, 8162.987793>) Entered the safezone
+21:25:32.742 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<5209.140137, 221.943344, 8160.726074>) Entered the safezone
+21:26:18.179 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle Mh-6 Little Bird (id=E0316282CE46F82DAE89CA801A5FB83F pos=<5048.819336, 58.602757, 7962.035156>)
+21:26:21.937 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=E0316282CE46F82DAE89CA801A5FB83F pos=<5048.758301, 57.788979, 7962.018066>)
+21:26:28.265 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Mh-6 Little Bird (id=E0316282CE46F82DAE89CA801A5FB83F pos=<5048.507813, 57.775303, 7961.969727>)
+21:26:56.054 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+21:27:28.062 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell expansionmh6 x1 at the trader "Aircraft (Gabi [#STR_EXPANSION_MARKET_TRADER_AIRCRAFT])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+21:27:28.062 [VehicleDeleted] ExpansionMh6_Elliptical (id=E0316282CE46F82DAE89CA801A5FB83F pos=<5047.499023, 57.712296, 7962.007324>)
+21:27:28.078 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold expansionmh6 x1 at the trader "Aircraft (Gabi [#STR_EXPANSION_MARKET_TRADER_AIRCRAFT])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) and got 1127906.
+21:32:34.640 [AI Object Patrol] Despawning 2 East bots (spawn position <1150.051880, 3.974263, 14720.352539>, 0/2 deceased)
+21:32:35.265 [AI Object Patrol] Despawning 1 West bots (spawn position <1781.981201, 3.976922, 15551.107422>, 0/1 deceased)
+21:33:17.312 [ATM] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has withdrawn 250000 from his ATM account.
+21:33:20.445 [AI Patrol] Despawning 2 IslandCastle bots (spawn position <2678.453125, 39.967052, 13898.527344>, 0/2 deceased)
+21:35:09.890 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase expansionmh6 x1 from the trader "Aircraft (Gabi [#STR_EXPANSION_MARKET_TRADER_AIRCRAFT])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+21:35:09.898 [VehicleDeleted] ExpansionMh6 (id=8EB109B8C148BCC3B153E0BF7AAE0DAA pos=<0.000861, 1.692845, 0.535123>)
+21:35:09.906 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought expansionmh6 x1 from the trader "Aircraft (Gabi [#STR_EXPANSION_MARKET_TRADER_AIRCRAFT])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) for a price of 1502590.
+21:36:35.804 [VehicleCarKey] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<5040.666504, 58.238022, 7973.192383>) used the  ExpansionCarKey to unlock ExpansionMh6 (id=499FE3913144D91C947263A0B96B9FF0 pos=<5042.907715, 58.125244, 7972.117676>)
+21:37:54.234 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase expansioncarkey x1 from the trader "Vehicle_Parts (Denis [#STR_EXPANSION_MARKET_TRADER_VEHICLE_PARTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+21:37:54.234 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought expansioncarkey x1 from the trader "Vehicle_Parts (Denis [#STR_EXPANSION_MARKET_TRADER_VEHICLE_PARTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) for a price of 250.
+21:38:32.289 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase expansionkeychain_grey x2 from the trader "Vehicle_Parts (Denis [#STR_EXPANSION_MARKET_TRADER_VEHICLE_PARTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>).
+21:38:32.289 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought expansionkeychain_grey x2 from the trader "Vehicle_Parts (Denis [#STR_EXPANSION_MARKET_TRADER_VEHICLE_PARTS])" in market zone "The Spire" (pos=<5117.533691, 59.589272, 7987.239746>) for a price of 200.
+21:40:23.796 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<5042.900879, 58.125645, 7972.118164>) as pilot
+21:40:59.773 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<5042.894531, 58.126610, 7972.115723>)
+21:41:14.273 [VehicleCarKey] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<5040.840820, 58.142052, 7972.595703>) used the  ExpansionCarKey to lock ExpansionMh6 (id=499FE3913144D91C947263A0B96B9FF0 pos=<5042.902344, 58.126358, 7972.115723>)
+21:42:23.093 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<5380.226074, 17.749485, 7918.837402>) Left the safezone
+21:59:55.734 [AI Patrol] Despawning 2 Powerplant bots (spawn position <4987.513184, 13.412088, 7484.061523>, 0/2 deceased)
+22:14:18.328 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<5108.735352, 60.070011, 7981.859863>) Entered the safezone
+22:14:18.328 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+22:14:18.335 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+22:14:18.335 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+22:14:18.343 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+22:14:18.343 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+22:14:18.343 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+22:14:19.281 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+22:33:51.601 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<5190.230469, 25.707081, 7803.603516>) Entered the safezone
+22:39:13.351 [VehicleCarKey] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<5041.299805, 58.112480, 7972.381836>) used the  ExpansionCarKey to unlock ExpansionMh6 (id=499FE3913144D91C947263A0B96B9FF0 pos=<5042.910156, 58.125595, 7972.116699>)
+22:39:24.492 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<5042.909668, 58.125969, 7972.115723>) as pilot
+22:39:36.023 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<5042.910156, 58.125797, 7972.115723>)
+22:39:45.359 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<5042.911133, 58.125881, 7972.115723>) as pilot
+22:39:49.593 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<5042.911621, 58.125801, 7972.116211>) as passenger
+22:39:54.062 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<5042.911133, 58.125866, 7972.115723>)
+22:40:49.187 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<4733.672363, 209.112610, 8548.266602>) Left the safezone
+22:40:49.375 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<4727.971680, 209.069916, 8554.412109>) Left the safezone
+22:42:17.234 [AI Object Patrol] Spawning 1 West bots at <3843.390381, 6.644753, 12973.943359>
+22:42:38.039 [AI Object Patrol] Spawning 2 West bots at <1823.915283, 5.503362, 13317.166992>
+22:43:10.789 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<2253.773193, 233.656616, 14479.171875>) Entered the safezone
+22:43:10.976 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<2249.916504, 236.634109, 14483.534180>) Entered the safezone
+22:44:33.921 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<2177.428955, 32.465752, 14611.244141>)
+22:44:34.164 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<2177.428955, 32.466183, 14611.244141>)
+22:44:41.984 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Mh-6 Little Bird (id=499FE3913144D91C947263A0B96B9FF0 pos=<2177.428711, 32.467220, 14611.243164>)
+22:48:13.648 [MissionAirdrop] An airdrop is heading towards "Hazelands" (pos=<4539.000000, 0.000000, 2317.000000> type=Random_Hazelands) with a ExpansionAirdropContainer_Military
+22:52:37.109 [AI Object Patrol] Despawning 1 West bots (spawn position <3843.390381, 6.644753, 12973.943359>, 0/1 deceased)
+22:53:02.875 [AI Object Patrol] Despawning 2 West bots (spawn position <1823.915283, 5.503362, 13317.166992>, 0/2 deceased)
+22:55:42.976 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+22:55:47.164 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)

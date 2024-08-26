@@ -1,0 +1,379 @@
+13:50:00.078 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer_Medical
+13:58:16.632 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+13:58:16.652 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+13:58:16.652 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+13:58:16.652 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+13:58:16.652 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+13:58:16.652 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+13:58:17.359 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+14:04:32.597 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle The DragBoat - Black (id=CF8DE53FB240926985A689B4DB5E8C7B pos=<3199.081055, 0.214490, 1604.937256>) as driver
+14:05:31.355 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle The DragBoat - Black (id=CF8DE53FB240926985A689B4DB5E8C7B pos=<3147.002441, 0.393797, 1491.591431>)
+14:08:09.945 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle The DragBoat - Black (id=CF8DE53FB240926985A689B4DB5E8C7B pos=<3147.002441, 0.650140, 1491.591431>) as driver
+14:11:51.089 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle The DragBoat - Black (id=CF8DE53FB240926985A689B4DB5E8C7B pos=<3200.562988, 0.230970, 1601.718506>)
+14:13:38.281 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle The DragBoat - Black (id=CF8DE53FB240926985A689B4DB5E8C7B pos=<3200.562988, 0.481551, 1601.718506>) as driver
+14:13:50.289 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle The DragBoat - Black (id=CF8DE53FB240926985A689B4DB5E8C7B pos=<3200.562988, 0.535402, 1601.718506>)
+14:13:56.750 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle The DragBoat - Black (id=CF8DE53FB240926985A689B4DB5E8C7B pos=<3200.562988, 0.274566, 1601.718506>) as driver
+14:14:51.757 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle The DragBoat - Black (id=CF8DE53FB240926985A689B4DB5E8C7B pos=<3196.863037, 0.609001, 1603.231689>)
+14:21:18.445 [AI Patrol] Spawning 3 West bots at <3061.177002, 2.151855, 1494.255005>
+14:21:50.527 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:21:50.527 [BaseBuildingRaiding] Player "" (ID ) at <3086.57, 1.65, 1486.42> damaged ExpansionWall6x3 at <3205.83, 1.24, 1629.18>
+14:21:50.527 [BaseBuildingRaiding] They dealt 72.529 * 1 = 72.529 damage with Bullet_556x45 from AugShort
+14:21:50.527 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29927.5
+14:21:50.527 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:21:51.910 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:21:51.910 [BaseBuildingRaiding] Player "" (ID ) at <3086.42, 1.68, 1485.46> damaged ExpansionRamp6x1_5x6 at <3198.83, -0.26, 1612.33>
+14:21:51.910 [BaseBuildingRaiding] They dealt 86.847 * 1 = 86.847 damage with Bullet_556x45 from M16A2
+14:21:51.910 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29913.2
+14:21:51.910 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:21:52.160 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:21:52.160 [BaseBuildingRaiding] Player "" (ID ) at <3083.93, 1.92, 1487.47> damaged ExpansionFloor6x6 at <3200.19, 1.24, 1618.17>
+14:21:52.164 [BaseBuildingRaiding] They dealt 73.7774 * 1 = 73.7774 damage with Bullet_556x45 from AugShort
+14:21:52.164 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29926.2
+14:21:52.164 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:21:52.628 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:21:52.628 [BaseBuildingRaiding] Player "" (ID ) at <3083.15, 1.97, 1487.73> damaged ExpansionHesco at <3222.04, 0.57, 1642.3>
+14:21:52.628 [BaseBuildingRaiding] They dealt 70.613 * 1 = 70.613 damage with Bullet_556x45 from AugShort
+14:21:52.628 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 5000 to 4929.39
+14:21:52.628 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:21:53.128 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:21:53.128 [BaseBuildingRaiding] Player "" (ID ) at <3082.31, 2.02, 1487.99> damaged ExpansionWall6x3 at <3204.47, 1.24, 1623.34>
+14:21:53.128 [BaseBuildingRaiding] They dealt 72.62 * 1 = 72.62 damage with Bullet_556x45 from AugShort
+14:21:53.128 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29927.4
+14:21:53.128 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:21:53.128 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:21:53.128 [BaseBuildingRaiding] Player "" (ID ) at <3082.31, 2.02, 1487.99> damaged ExpansionHesco at <3217.2, 0.63, 1642.74>
+14:21:53.128 [BaseBuildingRaiding] They dealt 44.9227 * 1 = 44.9227 damage with Bullet_556x45 from AugShort
+14:21:53.132 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 5000 to 4955.08
+14:21:53.132 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:21:53.796 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:21:53.796 [BaseBuildingRaiding] Player "" (ID ) at <3081.3, 2.08, 1487.59> damaged ExpansionFloor6x6 at <3201.55, 1.24, 1624.02>
+14:21:53.796 [BaseBuildingRaiding] They dealt 47.4353 * 1 = 47.4353 damage with Bullet_556x45 from AugShort
+14:21:53.796 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 30000 to 29952.6
+14:21:53.796 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:21:58.843 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:21:58.843 [BaseBuildingRaiding] Player "" (ID ) at <3089.19, 1.43, 1484.85> damaged ExpansionHesco at <3217.2, 0.63, 1642.74>
+14:21:58.843 [BaseBuildingRaiding] They dealt 83.2089 * 1 = 83.2089 damage with Bullet_556x45 from M16A2
+14:21:58.843 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 4955.08 to 4871.87
+14:21:58.843 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:00.644 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:00.644 [BaseBuildingRaiding] Player "" (ID ) at <3089.8, 1.38, 1484.91> damaged ExpansionHesco at <3199.33, 0.76, 1646.31>
+14:22:00.644 [BaseBuildingRaiding] They dealt 84.2128 * 1 = 84.2128 damage with Bullet_556x45 from M16A2
+14:22:00.644 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 5000 to 4915.79
+14:22:00.644 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:01.621 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:01.621 [BaseBuildingRaiding] Player "" (ID ) at <3089.71, 1.39, 1485.07> damaged ExpansionHesco at <3199.33, 0.76, 1646.31>
+14:22:01.621 [BaseBuildingRaiding] They dealt 84.2961 * 1 = 84.2961 damage with Bullet_556x45 from M16A2
+14:22:01.621 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 4915.79 to 4831.49
+14:22:01.621 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:02.218 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:02.218 [BaseBuildingRaiding] Player "" (ID ) at <3089.71, 1.39, 1485.07> damaged ExpansionHesco at <3195.33, 0.8, 1648.31>
+14:22:02.218 [BaseBuildingRaiding] They dealt 84.3704 * 1 = 84.3704 damage with Bullet_556x45 from M16A2
+14:22:02.218 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 5000 to 4915.63
+14:22:02.222 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:02.820 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:02.820 [BaseBuildingRaiding] Player "" (ID ) at <3089.71, 1.39, 1485.07> damaged ExpansionHesco at <3195.33, 0.8, 1648.31>
+14:22:02.820 [BaseBuildingRaiding] They dealt 84.3686 * 1 = 84.3686 damage with Bullet_556x45 from M16A2
+14:22:02.820 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 4915.63 to 4831.26
+14:22:02.820 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:03.117 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:03.117 [BaseBuildingRaiding] Player "" (ID ) at <3086.65, 1.66, 1484.93> damaged ExpansionHesco at <3199.33, 0.76, 1646.31>
+14:22:03.117 [BaseBuildingRaiding] They dealt 84.0853 * 1 = 84.0853 damage with Bullet_556x45 from M16A2
+14:22:03.117 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 4831.49 to 4747.41
+14:22:03.117 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:03.343 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:03.343 [BaseBuildingRaiding] Player "" (ID ) at <3089.71, 1.39, 1485.07> damaged ExpansionHesco at <3199.33, 0.76, 1646.31>
+14:22:03.343 [BaseBuildingRaiding] They dealt 84.3137 * 1 = 84.3137 damage with Bullet_556x45 from M16A2
+14:22:03.343 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 4747.41 to 4663.09
+14:22:03.343 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:04.339 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:04.339 [BaseBuildingRaiding] Player "" (ID ) at <3087.75, 1.51, 1486.06> damaged ExpansionHesco at <3199.33, 0.76, 1646.31>
+14:22:04.339 [BaseBuildingRaiding] They dealt 84.2518 * 1 = 84.2518 damage with Bullet_556x45 from M16A2
+14:22:04.339 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 4663.09 to 4578.84
+14:22:04.339 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:04.441 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:04.441 [BaseBuildingRaiding] Player "" (ID ) at <3089.39, 1.39, 1485.69> damaged ExpansionHesco at <3199.33, 0.76, 1646.31>
+14:22:04.445 [BaseBuildingRaiding] They dealt 84.3148 * 1 = 84.3148 damage with Bullet_556x45 from M16A2
+14:22:04.445 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 4578.84 to 4494.53
+14:22:04.445 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:07.031 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:07.031 [BaseBuildingRaiding] Player "" (ID ) at <3085.85, 1.74, 1482.17> damaged ExpansionHesco at <3199.33, 0.76, 1646.31>
+14:22:07.031 [BaseBuildingRaiding] They dealt 83.9061 * 1 = 83.9061 damage with Bullet_556x45 from M16A2
+14:22:07.031 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 4494.53 to 4410.62
+14:22:07.031 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:07.195 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:07.195 [BaseBuildingRaiding] Player "" (ID ) at <3077.03, 1.84, 1480.09> damaged ExpansionHesco at <3199.33, 0.76, 1646.31>
+14:22:07.195 [BaseBuildingRaiding] They dealt 70.6194 * 1 = 70.6194 damage with Bullet_556x45 from AugShort
+14:22:07.195 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 4410.62 to 4340
+14:22:07.195 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:07.328 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:07.328 [BaseBuildingRaiding] Player "" (ID ) at <3085.48, 1.75, 1481.63> damaged ExpansionHesco at <3199.33, 0.76, 1646.31>
+14:22:07.332 [BaseBuildingRaiding] They dealt 83.8574 * 1 = 83.8574 damage with Bullet_556x45 from M16A2
+14:22:07.332 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 4340 to 4256.14
+14:22:07.332 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:07.726 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:07.726 [BaseBuildingRaiding] Player "" (ID ) at <3077.68, 1.84, 1479.54> damaged ExpansionHesco at <3199.33, 0.76, 1646.31>
+14:22:07.726 [BaseBuildingRaiding] They dealt 70.5853 * 1 = 70.5853 damage with Bullet_556x45 from AugShort
+14:22:07.730 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 4256.14 to 4185.56
+14:22:07.730 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:07.890 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:07.890 [BaseBuildingRaiding] Player "" (ID ) at <3085.15, 1.76, 1480.86> damaged ExpansionCamoBox at <3206.41, 2.73, 1671.28>
+14:22:07.890 [BaseBuildingRaiding] They dealt 4.05541 * 1 = 4.05541 damage with Bullet_556x45 from M16A2
+14:22:07.890 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 1000 to 995.945
+14:22:07.890 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:08.261 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:08.261 [BaseBuildingRaiding] Player "" (ID ) at <3077.68, 1.84, 1479.54> damaged ExpansionHesco at <3199.33, 0.76, 1646.31>
+14:22:08.261 [BaseBuildingRaiding] They dealt 70.6844 * 1 = 70.6844 damage with Bullet_556x45 from AugShort
+14:22:08.261 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 4185.56 to 4114.87
+14:22:08.261 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:08.859 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:08.859 [BaseBuildingRaiding] Player "" (ID ) at <3077.68, 1.84, 1479.54> damaged ExpansionHesco at <3199.33, 0.76, 1646.31>
+14:22:08.859 [BaseBuildingRaiding] They dealt 70.7078 * 1 = 70.7078 damage with Bullet_556x45 from AugShort
+14:22:08.863 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 4114.87 to 4044.16
+14:22:08.863 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:09.195 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:09.195 [BaseBuildingRaiding] Player "" (ID ) at <3085.41, 1.77, 1482.1> damaged ExpansionHesco at <3195.33, 0.8, 1648.31>
+14:22:09.199 [BaseBuildingRaiding] They dealt 83.8169 * 1 = 83.8169 damage with Bullet_556x45 from M16A2
+14:22:09.199 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 4831.26 to 4747.44
+14:22:09.199 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:09.429 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:09.429 [BaseBuildingRaiding] Player "" (ID ) at <3077.68, 1.84, 1479.54> damaged ExpansionHesco at <3199.33, 0.76, 1646.31>
+14:22:09.429 [BaseBuildingRaiding] They dealt 70.6848 * 1 = 70.6848 damage with Bullet_556x45 from AugShort
+14:22:09.429 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 4044.16 to 3973.48
+14:22:09.429 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:10.378 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:10.378 [BaseBuildingRaiding] Player "" (ID ) at <3083.73, 1.9, 1483.25> damaged ExpansionHesco at <3199.33, 0.76, 1646.31>
+14:22:10.378 [BaseBuildingRaiding] They dealt 83.7542 * 1 = 83.7542 damage with Bullet_556x45 from M16A2
+14:22:10.378 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 3973.48 to 3889.73
+14:22:10.378 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:10.796 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:10.796 [BaseBuildingRaiding] Player "" (ID ) at <3077.28, 1.85, 1480.16> damaged ExpansionHesco at <3199.33, 0.76, 1646.31>
+14:22:10.796 [BaseBuildingRaiding] They dealt 70.6416 * 1 = 70.6416 damage with Bullet_556x45 from AugShort
+14:22:10.796 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 3889.73 to 3819.08
+14:22:10.796 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:11.328 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:11.328 [BaseBuildingRaiding] Player "" (ID ) at <3077.19, 1.85, 1480.29> damaged ExpansionHesco at <3199.33, 0.76, 1646.31>
+14:22:11.328 [BaseBuildingRaiding] They dealt 70.7276 * 1 = 70.7276 damage with Bullet_556x45 from AugShort
+14:22:11.328 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 3819.08 to 3748.36
+14:22:11.328 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:11.429 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:11.429 [BaseBuildingRaiding] Player "" (ID ) at <3082.22, 1.97, 1484.31> damaged ExpansionHesco at <3199.33, 0.76, 1646.31>
+14:22:11.429 [BaseBuildingRaiding] They dealt 83.8037 * 1 = 83.8037 damage with Bullet_556x45 from M16A2
+14:22:11.429 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 3748.36 to 3664.55
+14:22:11.429 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:11.929 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:11.929 [BaseBuildingRaiding] Player "" (ID ) at <3081.51, 2.01, 1484.82> damaged ExpansionHesco at <3199.33, 0.76, 1646.31>
+14:22:11.929 [BaseBuildingRaiding] They dealt 83.6848 * 1 = 83.6848 damage with Bullet_556x45 from M16A2
+14:22:11.929 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 3664.55 to 3580.87
+14:22:11.929 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:12.226 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:12.226 [BaseBuildingRaiding] Player "" (ID ) at <3078.04, 1.85, 1480.01> damaged ExpansionHesco at <3199.33, 0.76, 1646.31>
+14:22:12.230 [BaseBuildingRaiding] They dealt 70.7402 * 1 = 70.7402 damage with Bullet_556x45 from AugShort
+14:22:12.230 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 3580.87 to 3510.13
+14:22:12.230 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:12.796 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:12.796 [BaseBuildingRaiding] Player "" (ID ) at <3078.8, 1.86, 1479.41> damaged ExpansionHesco at <3199.33, 0.76, 1646.31>
+14:22:12.796 [BaseBuildingRaiding] They dealt 70.7526 * 1 = 70.7526 damage with Bullet_556x45 from AugShort
+14:22:12.796 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 3510.13 to 3439.38
+14:22:12.796 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:13.429 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:13.429 [BaseBuildingRaiding] Player "" (ID ) at <3079.62, 1.87, 1478.66> damaged ExpansionHesco at <3199.33, 0.76, 1646.31>
+14:22:13.429 [BaseBuildingRaiding] They dealt 70.6753 * 1 = 70.6753 damage with Bullet_556x45 from AugShort
+14:22:13.429 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 3439.38 to 3368.7
+14:22:13.429 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:13.929 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:13.929 [BaseBuildingRaiding] Player "" (ID ) at <3080.29, 1.87, 1478.11> damaged ExpansionHesco at <3199.33, 0.76, 1646.31>
+14:22:13.929 [BaseBuildingRaiding] They dealt 70.7384 * 1 = 70.7384 damage with Bullet_556x45 from AugShort
+14:22:13.929 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 3368.7 to 3297.96
+14:22:13.929 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:14.230 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:14.230 [BaseBuildingRaiding] Player "" (ID ) at <3080.98, 2.1, 1487.28> damaged ExpansionHesco at <3195.33, 0.8, 1648.31>
+14:22:14.230 [BaseBuildingRaiding] They dealt 83.8858 * 1 = 83.8858 damage with Bullet_556x45 from M16A2
+14:22:14.230 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 4747.44 to 4663.56
+14:22:14.230 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:15.062 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:15.062 [BaseBuildingRaiding] Player "" (ID ) at <3080.83, 1.86, 1479.53> damaged ExpansionHesco at <3199.33, 0.76, 1646.31>
+14:22:15.062 [BaseBuildingRaiding] They dealt 70.7919 * 1 = 70.7919 damage with Bullet_556x45 from AugShort
+14:22:15.062 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 3297.96 to 3227.17
+14:22:15.062 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:15.562 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:15.562 [BaseBuildingRaiding] Player "" (ID ) at <3080.34, 1.89, 1480.45> damaged ExpansionHesco at <3199.33, 0.76, 1646.31>
+14:22:15.562 [BaseBuildingRaiding] They dealt 70.8649 * 1 = 70.8649 damage with Bullet_556x45 from AugShort
+14:22:15.562 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 3227.17 to 3156.3
+14:22:15.562 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:15.796 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:15.796 [BaseBuildingRaiding] Player "" (ID ) at <3083.13, 1.96, 1486.85> damaged ExpansionHesco at <3199.33, 0.76, 1646.31>
+14:22:15.796 [BaseBuildingRaiding] They dealt 84.0356 * 1 = 84.0356 damage with Bullet_556x45 from M16A2
+14:22:15.796 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 3156.3 to 3072.27
+14:22:15.796 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:16.398 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:16.398 [BaseBuildingRaiding] Player "" (ID ) at <3083.13, 1.96, 1486.85> damaged ExpansionHesco at <3199.33, 0.76, 1646.31>
+14:22:16.398 [BaseBuildingRaiding] They dealt 84.0915 * 1 = 84.0915 damage with Bullet_556x45 from M16A2
+14:22:16.398 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 3072.27 to 2988.18
+14:22:16.398 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:17.328 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:17.328 [BaseBuildingRaiding] Player "" (ID ) at <3079.24, 2, 1483.14> damaged ExpansionHesco at <3199.33, 0.76, 1646.31>
+14:22:17.328 [BaseBuildingRaiding] They dealt 70.9468 * 1 = 70.9468 damage with Bullet_556x45 from AugShort
+14:22:17.328 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 2988.18 to 2917.23
+14:22:17.328 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:17.429 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:17.429 [BaseBuildingRaiding] Player "" (ID ) at <3083.13, 1.96, 1486.85> damaged ExpansionHesco at <3199.33, 0.76, 1646.31>
+14:22:17.429 [BaseBuildingRaiding] They dealt 84.0531 * 1 = 84.0531 damage with Bullet_556x45 from M16A2
+14:22:17.429 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 2917.23 to 2833.18
+14:22:17.429 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:22:19.128 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:22:19.128 [BaseBuildingRaiding] Player "" (ID ) at <3076.66, 2.04, 1485.79> damaged ExpansionHesco at <3199.33, 0.76, 1646.31>
+14:22:19.128 [BaseBuildingRaiding] They dealt 71.0567 * 1 = 71.0567 damage with Bullet_556x45 from AugShort
+14:22:19.128 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 2833.18 to 2762.12
+14:22:19.128 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:25:29.929 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell bz_vietnam_bag2 x1 at the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+14:25:30.046 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold bz_vietnam_bag2 x1 at the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) and got 5250.
+14:25:35.312 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell bz_leggings_deathnote x1 at the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+14:25:35.429 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold bz_leggings_deathnote x1 at the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) and got 2125.
+14:25:39.402 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell bz_dbz_mask x1 at the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+14:25:39.542 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold bz_dbz_mask x1 at the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) and got 1750.
+14:25:48.695 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell bz_tacthelmet_gucci x1 at the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+14:25:48.820 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold bz_tacthelmet_gucci x1 at the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) and got 2250.
+14:26:14.730 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell snafu_m200snow x1 at the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+14:26:14.843 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold snafu_m200snow x1 at the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) and got 11796.
+14:26:55.050 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase gcgn_ammo_50cal x300 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+14:26:55.199 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought gcgn_ammo_50cal x300 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 1200.
+14:38:17.789 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Merlin (id=DDD9ABFB6A483121428B188D76A51D4B pos=<3208.543701, 0.787512, 1619.880493>) as passenger
+14:38:25.953 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Merlin (id=DDD9ABFB6A483121428B188D76A51D4B pos=<3208.543701, 0.787512, 1619.880493>)
+14:38:30.281 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Merlin (id=DDD9ABFB6A483121428B188D76A51D4B pos=<3208.550049, 0.784957, 1619.900879>) as pilot
+14:38:44.984 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle Merlin (id=DDD9ABFB6A483121428B188D76A51D4B pos=<3208.561279, 0.763603, 1620.062622>)
+14:39:38.820 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle Merlin (id=DDD9ABFB6A483121428B188D76A51D4B pos=<3207.950928, 1.584838, 1614.786865>)
+14:39:51.621 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Merlin (id=DDD9ABFB6A483121428B188D76A51D4B pos=<3207.833496, 1.443836, 1614.625244>)
+14:47:15.980 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle The Whaler (id=1B32CBD2704AC86639E503BE15748A28 pos=<3193.339600, -0.175679, 1609.043213>) as driver
+14:47:22.980 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle The Whaler (id=1B32CBD2704AC86639E503BE15748A28 pos=<3193.339600, 0.135076, 1609.043213>)
+14:47:38.085 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle The Whaler (id=1B32CBD2704AC86639E503BE15748A28 pos=<3193.339600, -0.152319, 1609.043213>) as driver
+14:47:47.015 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle The Whaler (id=1B32CBD2704AC86639E503BE15748A28 pos=<3193.339600, 0.218979, 1609.043213>)
+14:48:14.378 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle The DragBoat - Black (id=CF8DE53FB240926985A689B4DB5E8C7B pos=<3196.863037, 0.188982, 1603.231689>) as driver
+14:48:19.351 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle The DragBoat - Black (id=CF8DE53FB240926985A689B4DB5E8C7B pos=<3196.863037, 0.127166, 1603.231689>)
+14:49:28.746 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle The DragBoat - Black (id=12DFC75BCA45596AD66DE6818C61E7BC pos=<3190.429688, 0.266268, 1613.011719>) as driver
+14:49:34.851 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle The DragBoat - Black (id=12DFC75BCA45596AD66DE6818C61E7BC pos=<3190.429688, 0.176143, 1613.011719>)
+15:01:40.351 [BaseRaiding] ExpansionSafeMedium (<3211.281494, 2.590963, 1656.688721>) Code set by player "MGM_762" (ID = "6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=" at <3212.234619, 2.486252, 1655.964355>) and the code is 1911
+15:02:19.839 [Party] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+15:02:19.859 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+15:02:19.859 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+15:02:19.859 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+15:02:19.859 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+15:02:19.859 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+15:02:20.644 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+15:02:37.101 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell ammobox_308wintracer_20rnd x1 at the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+15:02:37.226 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold ammobox_308wintracer_20rnd x1 at the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) and got 24.
+15:02:38.660 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell ammobox_762x54tracer_20rnd x1 at the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+15:02:38.781 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold ammobox_762x54tracer_20rnd x1 at the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) and got 24.
+15:06:46.316 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+15:07:42.242 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase bz_pa_top x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+15:07:42.367 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought bz_pa_top x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 7000.
+15:08:13.320 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase bz_black_bag3 x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+15:08:13.468 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought bz_black_bag3 x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 7000.
+15:08:25.328 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase bz_black_pants x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+15:08:25.468 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought bz_black_pants x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 7000.
+15:08:47.007 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase bz_pa_sneakers x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+15:08:47.085 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought bz_pa_sneakers x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 7000.
+15:09:36.132 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase bz_tacthelmet_pa x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+15:09:36.289 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought bz_tacthelmet_pa x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 3000.
+15:09:55.007 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase bz_tacthelmet_black x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+15:09:55.148 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought bz_tacthelmet_black x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 3000.
+15:10:11.109 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase bz_shirt_ferrari x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+15:10:11.203 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought bz_shirt_ferrari x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 8500.
+15:10:13.906 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase bz_shirt_black x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+15:10:14.027 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought bz_shirt_black x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 8500.
+15:10:33.421 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase bz_ferrari_top x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+15:10:33.539 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought bz_ferrari_top x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 7000.
+15:10:41.808 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase bz_black_nvgs x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+15:10:41.902 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought bz_black_nvgs x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 7000.
+15:19:20.445 [MissionAirdrop] An airdrop is heading towards "Oldfield" (pos=<6117.000000, 0.000000, 7004.000000> type=Random_Oldfield) with a ExpansionAirdropContainer_Basebuilding
+15:24:59.617 [Party] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+16:39:41.503 [Party] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+16:39:41.515 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+16:39:41.515 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+16:39:41.519 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+16:39:41.519 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+16:39:41.519 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=
+16:39:42.308 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+16:44:08.546 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase snafu_mk4716gun x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+16:44:08.667 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought snafu_mk4716gun x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 9000.
+16:44:52.449 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase snafu_scarh_snow_gun x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+16:44:52.562 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought snafu_scarh_snow_gun x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 9000.
+16:45:40.691 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase snafu_tacgripcolta2_grey x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+16:45:40.812 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought snafu_tacgripcolta2_grey x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 400.
+16:46:10.394 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase mag_akm_drum75rnd x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+16:46:10.488 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought mag_akm_drum75rnd x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 630.
+16:46:12.781 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase mag_akm_palm30rnd x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+16:46:12.882 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought mag_akm_palm30rnd x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 280.
+16:46:23.703 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase snafu_afg_02_black x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+16:46:23.832 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought snafu_afg_02_black x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 400.
+16:46:37.046 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase snafu_mk47hg x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+16:46:37.183 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought snafu_mk47hg x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 400.
+16:46:50.382 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase snafu_ubr_stock x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+16:46:50.488 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought snafu_ubr_stock x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 400.
+16:47:05.054 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase snafu_standardized_suppressor_black x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+16:47:05.160 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought snafu_standardized_suppressor_black x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 400.
+16:48:24.750 [MissionAirdrop] An airdrop is heading towards "Portland" (pos=<6055.000000, 0.000000, 13429.000000> type=Random_Portland) with a ExpansionAirdropContainer_Medical
+16:48:40.191 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to sell snafu_mk4716gun x1 at the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+16:48:40.281 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has sold snafu_mk4716gun x1 at the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) and got 8010.
+16:49:57.238 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase snafu_tango6t_snow x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+16:49:57.343 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought snafu_tango6t_snow x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 400.
+16:50:45.515 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase sa58_fgrip x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+16:50:45.609 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought sa58_fgrip x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 400.
+16:50:55.816 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase snafu_mpx_suppressor_black x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+16:50:55.937 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought snafu_mpx_suppressor_black x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 400.
+16:52:00.699 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase snafu_scarh_100rnd_mag_black x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+16:52:00.816 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought snafu_scarh_100rnd_mag_black x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 600.
+16:52:03.027 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase snafu_scarh_100rnd_mag_black x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+16:52:03.121 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought snafu_scarh_100rnd_mag_black x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 600.
+16:53:12.593 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase sn_glock19 x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+16:53:12.742 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought sn_glock19 x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 400.
+16:53:14.019 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase tec9_gun x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+16:53:14.121 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought tec9_gun x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 400.
+16:53:23.500 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase tec9_mag x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+16:53:23.648 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought tec9_mag x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 464.
+16:53:24.765 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase tec9_mag x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+16:53:24.863 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought tec9_mag x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 464.
+16:53:25.796 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase tec9_mag x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+16:53:25.921 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought tec9_mag x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 464.
+16:53:47.636 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase snafu_mpx_suppressor_black x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+16:53:47.761 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought snafu_mpx_suppressor_black x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 400.
+16:54:13.113 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase mag_glock_15rnd x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+16:54:13.199 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought mag_glock_15rnd x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 70.
+16:54:15.070 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase mag_glock_15rnd x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+16:54:15.164 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought mag_glock_15rnd x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 70.
+16:54:16.734 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase mag_glock_15rnd x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+16:54:16.820 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought mag_glock_15rnd x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 70.
+16:54:59.359 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to sell sn_glock19 x1 at the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+16:54:59.484 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has sold sn_glock19 x1 at the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) and got 330.
+16:55:07.722 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to sell mag_akm_palm30rnd x1 at the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+16:55:07.812 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has sold mag_akm_palm30rnd x1 at the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) and got 195.
+16:55:08.796 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to sell mag_glock_15rnd x1 at the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+16:55:08.894 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has sold mag_glock_15rnd x1 at the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) and got 45.
+16:55:09.406 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to sell mag_glock_15rnd x1 at the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+16:55:09.542 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has sold mag_glock_15rnd x1 at the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) and got 45.
+16:56:03.765 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+16:56:03.769 [BaseBuildingRaiding] Player "1DEADMANWALKIN" (ID zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) at <3199.47, 1.49, 1619.54> damaged ExpansionHesco at <3226.9, 0.53, 1642.27>
+16:56:03.769 [BaseBuildingRaiding] They dealt 29.4342 * 1 = 29.4342 damage with Bullet_9x19 from Tec9_Gun
+16:56:03.769 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 5000 to 4970.57
+16:56:03.769 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+16:56:03.812 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+16:56:03.812 [BaseBuildingRaiding] Player "1DEADMANWALKIN" (ID zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) at <3199.47, 1.49, 1619.54> damaged ExpansionHesco at <3226.9, 0.53, 1642.27>
+16:56:03.812 [BaseBuildingRaiding] They dealt 29.3969 * 1 = 29.3969 damage with Bullet_9x19 from Tec9_Gun
+16:56:03.812 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 4970.57 to 4941.17
+16:56:03.812 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+16:56:04.441 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+16:56:04.441 [BaseBuildingRaiding] Player "1DEADMANWALKIN" (ID zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) at <3200.71, 1.49, 1619.9> damaged ExpansionHesco at <3226.9, 0.53, 1642.27>
+16:56:04.441 [BaseBuildingRaiding] They dealt 29.3607 * 1 = 29.3607 damage with Bullet_9x19 from Tec9_Gun
+16:56:04.441 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 4941.17 to 4911.81
+16:56:04.445 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+16:56:46.218 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase ammo_9x19 x200 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+16:56:46.343 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought ammo_9x19 x200 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 400.
+16:56:55.343 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase expansionammolaw x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+16:56:55.441 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought expansionammolaw x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 400.
+16:56:55.867 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase expansionammolaw x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+16:56:55.992 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought expansionammolaw x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 400.
+16:56:56.472 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase expansionammolaw x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+16:56:56.574 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought expansionammolaw x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 400.
+16:56:57.101 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has send a requested to purchase expansionammolaw x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+16:56:57.203 [Market] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) has bought expansionammolaw x1 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 400.
+16:57:58.093 [Party] Player "1DEADMANWALKIN" (id=zvk4zPulP_yUuFMB-icYMa26l-1hJKZFlbgWP-FPOcg=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+18:18:59.125 [MissionAirdrop] An airdrop is heading towards "Stonington" (pos=<6973.000000, 0.000000, 1701.000000> type=Random_Stonington) with a ExpansionAirdropContainer_Military

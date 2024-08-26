@@ -1,0 +1,41 @@
+---------------------------------------------
+ZomBerry v0.6.4 log started at 22.07.2024 09:48:23
+
+22.07.2024 09:48:23 [ZomBerryCmdAPI]: INFO: Added category OnTarget
+22.07.2024 09:48:23 [ZomBerryCmdAPI]: INFO: Added function TPCur to category OnTarget
+22.07.2024 09:48:23 [ZomBerryCmdAPI]: INFO: Added function TPForward to category OnTarget
+22.07.2024 09:48:23 [ZomBerryCmdAPI]: INFO: Added function TPToTarget to category OnTarget
+22.07.2024 09:48:23 [ZomBerryCmdAPI]: INFO: Added function TPToAdmin to category OnTarget
+22.07.2024 09:48:23 [ZomBerryCmdAPI]: INFO: Added function HealTarget to category OnTarget
+22.07.2024 09:48:23 [ZomBerryCmdAPI]: INFO: Added function HealTargetPart to category OnTarget
+22.07.2024 09:48:23 [ZomBerryCmdAPI]: INFO: Added function GodTarget to category OnTarget
+22.07.2024 09:48:23 [ZomBerryCmdAPI]: INFO: Added function RepairTargetHands to category OnTarget
+22.07.2024 09:48:23 [ZomBerryCmdAPI]: INFO: Added function RefuelAndRepair to category OnTarget
+22.07.2024 09:48:23 [ZomBerryCmdAPI]: INFO: Added category ==
+22.07.2024 09:48:23 [ZomBerryCmdAPI]: INFO: Added function KillTarget to category ==
+22.07.2024 09:48:23 [ZomBerryCmdAPI]: INFO: Added function BiteTarget to category ==
+22.07.2024 09:48:23 [ZomBerryCmdAPI]: INFO: Added function StripTarget to category ==
+22.07.2024 09:48:23 [ZomBerryCmdAPI]: INFO: Added function RejectBellyTarget to category ==
+22.07.2024 09:48:23 [ZomBerryCmdAPI]: INFO: Added function PsycoTarget to category ==
+22.07.2024 09:48:23 [ZomBerryCmdAPI]: INFO: Added function SneezeTarget to category ==
+22.07.2024 09:48:23 [ZomBerryCmdAPI]: INFO: Added function SetHealthTarget to category ==
+22.07.2024 09:48:23 [ZomBerryCmdAPI]: INFO: Added function SetBloodTarget to category ==
+22.07.2024 09:48:23 [ZomBerryCmdAPI]: INFO: Added category OnServer
+22.07.2024 09:48:23 [ZomBerryCmdAPI]: INFO: Added function FreeCamAdm to category OnServer
+22.07.2024 09:48:23 [ZomBerryCmdAPI]: INFO: Added function TimeDay to category OnServer
+22.07.2024 09:48:23 [ZomBerryCmdAPI]: INFO: Added function TimeNight to category OnServer
+22.07.2024 09:48:23 [ZomBerryCmdAPI]: INFO: Added function SetTime to category OnServer
+22.07.2024 09:48:23 [ZomBerryCmdAPI]: INFO: Added function SetDate to category OnServer
+22.07.2024 09:48:23 [ZomBerryCmdAPI]: INFO: Added function SetWeather to category OnServer
+22.07.2024 09:48:23 [ZomBerryCmdAPI]: INFO: Added function DeleteObj to category OnServer
+22.07.2024 09:48:23 [ZomBerryConfig]: INFO: Using admins.cfg from Profile directory
+22.07.2024 09:48:23 [ZomBerryDbg]: Server ready, loading admin list from: $profile:ZomBerry\admins.cfg
+22.07.2024 09:48:23 [ZomBerryConfig]: admins.cfg loaded
+22.07.2024 09:48:23 [ZomBerryConfig]: Added admin: 76561198089301277
+22.07.2024 15:53:06 [ZomBerryDbg]: Auth respond to admin NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=)
+22.07.2024 15:54:31 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+22.07.2024 15:54:31 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+22.07.2024 15:55:05 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) teleported to position <10452.100586, 2.843584, 5641.127930>
+22.07.2024 15:59:14 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - player list sync
+22.07.2024 15:59:14 [ZomBerryDbg]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) - function list sync
+22.07.2024 15:59:45 [ZomBerryAdmin]: NOVAKILLSFORYOU (_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) teleported to position <3178.221680, 2.139507, 1683.781250>

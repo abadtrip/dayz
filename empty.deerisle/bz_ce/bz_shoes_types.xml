@@ -1,0 +1,1363 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<type name="BZ_Hemp_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_LS_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Tiger_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_WTiger_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_USA_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_LV_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Gucci_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Black_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Ferrari_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Snake_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Marvel_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_DC_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Money_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_HelloKDP_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_TZ_Sneakers">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_HK_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Cosmic_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Purple_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_World_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_SMan_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_SW_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Monster_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_PA_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Joker_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Future_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Crypto_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_DBZ_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Heineken_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_DP_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Gold_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_UCP_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Alpine_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Tropic_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Desert_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Urban_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Woodland_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Vietnam_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_CB_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Scooby_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Anime_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Phemp_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Abstract1_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Abstract2_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Alien_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_AlienWare_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_AquaCamo_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_AquaHemp_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Bananas_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Bee_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Beetlejuice_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_BlueHemp_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Bubbles_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Budweiser_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Circuit_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_CocaCola_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_CrocHide_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_DeathNote_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_DemonSlayer_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Glitter_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Haribo_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Hex1_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Hex2_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Hex3_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Lava_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Math_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Matrix_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_MountainDew_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_OrangeHemp_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Pepsi_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_PinkHemp_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_PokeMon_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Razor_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_RedCamo_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_RedHemp_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_RickandMorty_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Simpsons_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Spongebob_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_StrangerThings_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_Thai_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="BZ_YellowHemp_Sneakers">
+		<nominal>4</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<usage name="Military"/>
+		<usage name="Hunting"/>
+		<usage name="Farm"/>
+		<usage name="Industrial"/>
+	</type>
+</types>

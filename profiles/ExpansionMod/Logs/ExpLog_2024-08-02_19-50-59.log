@@ -1,0 +1,70 @@
+19:57:03.351 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer
+20:23:56.867 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+20:23:56.890 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+20:23:56.890 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+20:23:56.890 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+20:23:56.890 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+20:23:56.890 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+20:23:57.781 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+20:25:40.515 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+20:25:40.531 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+20:25:40.531 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+20:25:40.531 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+20:25:40.531 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+20:25:40.531 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+20:25:41.273 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+20:34:59.921 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell cp_workbench_kit x1 at the trader "Drugs (Naomi [#DRUGS])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+20:34:59.921 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold cp_workbench_kit x1 at the trader "Drugs (Naomi [#DRUGS])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) and got 84375.
+20:35:18.882 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell bz_gucci_mask x1 at the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+20:35:18.882 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold bz_gucci_mask x1 at the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) and got 7000.
+20:35:19.984 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell bz_phemp_mask x1 at the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+20:35:19.992 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold bz_phemp_mask x1 at the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) and got 7000.
+20:35:25.734 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell bz_abstract2_pants x1 at the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+20:35:25.742 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold bz_abstract2_pants x1 at the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) and got 7000.
+20:35:32.773 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell bz_tacthelmet_vietnam x1 at the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+20:35:32.781 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold bz_tacthelmet_vietnam x1 at the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) and got 3000.
+20:36:24.117 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase snafu_ammo_300acc x600 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+20:36:24.125 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought snafu_ammo_300acc x600 from the trader "Personal (Linda [])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 2400.
+20:39:11.921 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase bz_hex1_bag3 x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+20:39:11.929 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought bz_hex1_bag3 x1 from the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 7000.
+20:45:00.968 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has send a requested to sell bz_beaniehat_mountaindew x1 at the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+20:45:00.968 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has sold bz_beaniehat_mountaindew x1 at the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) and got 3000.
+20:45:14.609 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has send a requested to sell bz_matrix_top x1 at the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+20:45:14.609 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has sold bz_matrix_top x1 at the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) and got 7000.
+20:45:17.257 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has send a requested to sell bz_vest_tiger x1 at the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>).
+20:45:17.265 [Market] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) has sold bz_vest_tiger x1 at the trader "Ballerz (Maria [#BallerZ])" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) and got 6375.
+20:49:29.921 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=FC0331031A459CDA397EBAB816CA8442 pos=<3222.324219, 1.584065, 1609.773682>) as passenger
+20:49:32.312 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=E0316282CE46F82DAE89CA801A5FB83F pos=<3206.984863, 1.583643, 1613.313110>) as pilot
+20:49:36.804 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Mh-6 Little Bird (id=E0316282CE46F82DAE89CA801A5FB83F pos=<3206.985352, 1.583453, 1613.312622>)
+20:49:43.328 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=FC0331031A459CDA397EBAB816CA8442 pos=<3222.324219, 1.584065, 1609.773682>)
+20:49:44.539 [VehicleEnter] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] entered vehicle Mh-6 Little Bird (id=E0316282CE46F82DAE89CA801A5FB83F pos=<3206.987061, 1.583503, 1613.311646>) as pilot
+20:49:48.562 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] started vehicle Mh-6 Little Bird (id=E0316282CE46F82DAE89CA801A5FB83F pos=<3206.987305, 1.583718, 1613.311279>)
+20:49:55.218 [VehicleEnter] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] entered vehicle Mh-6 Little Bird (id=E0316282CE46F82DAE89CA801A5FB83F pos=<3206.987793, 1.583735, 1613.310913>) as passenger
+20:51:05.546 [AI Patrol] Spawning 3 ParisIsland bots at <3129.517578, 22.707983, 4119.480957>
+20:51:17.929 [AI Patrol] Spawning 3 ParisIsland2 bots at <2640.437744, 22.450001, 4257.572266>
+20:51:51.492 [AI Object Patrol] Spawning 2 East bots at <3282.715576, 23.096518, 6278.719727>
+20:53:01.562 [AI Patrol] Spawning 3 OldTown bots at <2035.417603, 9.190000, 8938.083984>
+20:53:03.585 [AI Patrol] Spawning 2 SwampAltar bots at <3620.789307, 9.172673, 9230.889648>
+20:53:04.742 [AI Object Patrol] Spawning 1 East bots at <1968.403931, 9.941629, 9001.665039>
+20:53:43.500 [AI Object Patrol] Spawning 2 East bots at <1898.456055, 6.388867, 11029.897461>
+20:54:21.218 [AI Object Patrol] Spawning 3 West bots at <1672.000000, 20.000000, 12716.000000>
+20:54:41.843 [AI Object Patrol] Spawning 2 East bots at <2857.653320, 16.745523, 13787.875977>
+20:54:42.632 [AI Patrol] Spawning 2 IslandCastle bots at <2654.706055, 40.360001, 13943.823242>
+20:55:00.828 [AI Object Patrol] Spawning 2 East bots at <2717.664795, 8.101718, 14723.303711>
+20:55:14.546 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<2166.817871, 203.616821, 14445.411133>) Entered the safezone
+20:55:14.570 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<2167.486084, 203.933609, 14446.252930>) Entered the safezone
+20:56:27.296 [VehicleEngine] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] stopped vehicle Mh-6 Little Bird (id=E0316282CE46F82DAE89CA801A5FB83F pos=<2177.101074, 32.492344, 14609.641602>)
+20:56:38.390 [VehicleLeave] Player MGM_762 [uid=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=] left vehicle Mh-6 Little Bird (id=E0316282CE46F82DAE89CA801A5FB83F pos=<2177.099609, 32.467213, 14609.648438>)
+20:57:41.757 [Killfeed] AI Helga (East) got beaten to a pulp by AI Francis (IslandCastle) with bare hands.
+20:57:49.679 [VehicleLeave] Player NOVAKILLSFORYOU [uid=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=] left vehicle Mh-6 Little Bird (id=E0316282CE46F82DAE89CA801A5FB83F pos=<2177.099365, 32.467197, 14609.648438>)
+20:58:16.343 [AI Object Patrol] Spawning 3 West bots at <1781.981201, 3.976922, 15551.107422>
+20:58:33.359 [Killfeed] AI Francis (IslandCastle) bled out.
+21:01:48.953 [AI Patrol] Despawning 3 ParisIsland bots (spawn position <3129.517578, 22.707983, 4119.480957>, 0/3 deceased)
+21:01:49.031 [AI Patrol] Despawning 3 ParisIsland2 bots (spawn position <2640.437744, 22.450001, 4257.572266>, 0/3 deceased)
+21:02:36.476 [AI Object Patrol] Despawning 2 East bots (spawn position <3282.715576, 23.096518, 6278.719727>, 0/2 deceased)
+21:03:27.734 [AI Object Patrol] Despawning 1 East bots (spawn position <1968.403931, 9.941629, 9001.665039>, 0/1 deceased)
+21:03:28.851 [AI Patrol] Despawning 3 OldTown bots (spawn position <2035.417603, 9.190000, 8938.083984>, 0/3 deceased)
+21:03:29.359 [AI Patrol] Despawning 2 SwampAltar bots (spawn position <3620.789307, 9.172673, 9230.889648>, 0/2 deceased)
+21:03:50.257 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+21:03:50.953 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+21:04:09.695 [AI Object Patrol] Despawning 2 East bots (spawn position <1898.456055, 6.388867, 11029.897461>, 0/2 deceased)

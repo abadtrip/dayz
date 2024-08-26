@@ -1,0 +1,172 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2024-7-2_11-15-21
+====================================================================================
+11:15:21 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+11:15:21 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+11:15:21 | [PermissionManager] Perm (FreeCamera) has been registered!
+11:15:21 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+11:15:21 | [PermissionManager] Perm (MenuItemManager) has been registered!
+11:15:21 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+11:15:21 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+11:15:21 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+11:15:21 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+11:15:21 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+11:15:21 | [PermissionManager] Perm (MenuServerManager) has been registered!
+11:15:21 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+11:15:21 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+11:15:21 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+11:15:21 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+11:15:21 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+11:15:21 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+11:15:21 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+11:15:21 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+11:15:21 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+11:15:21 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+11:15:21 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+11:15:21 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+11:15:21 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+11:15:21 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+11:15:21 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+11:15:21 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+11:15:21 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+11:15:21 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+11:15:21 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+11:15:21 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+11:15:21 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+11:15:21 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+11:15:21 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+11:15:21 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+11:15:21 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+11:15:21 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+11:15:21 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+11:15:21 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+11:15:21 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+11:15:21 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+11:15:21 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+11:15:21 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+11:15:21 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+11:15:21 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+11:15:21 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+11:15:21 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+11:15:21 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+11:15:21 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+11:15:21 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+11:15:21 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+11:15:21 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+11:15:21 | [PermissionManager] Perm (MenuBansManager) has been registered!
+11:15:21 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+11:15:21 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+11:15:21 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+11:15:21 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+11:15:21 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+11:15:21 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+11:15:21 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+11:15:21 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+11:15:21 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+11:15:21 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+11:15:21 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+11:15:21 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+11:15:21 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+11:15:21 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+11:15:21 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+11:15:21 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+11:15:21 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+11:15:21 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+11:15:21 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+11:15:21 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+11:15:21 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+11:15:21 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+11:15:21 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+11:15:21 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+11:15:21 | [PermissionManager] Adding Super Admin (76561198089301277)
+11:15:21 | [PermissionManager] Loaded UserGroups.json
+11:15:21 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+11:15:21 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+11:15:21 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+11:15:21 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+11:15:21 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+11:15:21 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+11:15:21 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+11:15:21 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+11:15:21 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+11:15:21 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+11:15:21 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+11:15:21 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+11:15:21 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+11:15:21 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+11:15:21 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+11:15:21 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+11:15:21 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+11:15:21 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+11:15:21 | Building Sets Loaded: 0
+11:15:21 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+11:15:21 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+20:20:28 | Player "Survivor" (steamId=76561197997030229) connected to server!
+20:33:46 | Player "1DEADMANWALKIN" (steamId=76561198056112020) connected to server!
+20:45:11 | Player "1DEADMANWALKIN" (steamId=76561198056112020) initiated disconnect process...
+20:46:8 | Player "1DEADMANWALKIN" (steamId=76561198056112020) connected to server!
+21:9:58 | Player "NOVAKILLSFORYOU" (steamId=76561198089301277) connected to server!
+21:13:6 | "NOVAKILLSFORYOU" (steamid=76561198089301277) toggled freecam
+21:15:15 | "NOVAKILLSFORYOU" (steamid=76561198089301277) toggled freecam
+21:22:13 | Player "Survivor" (steamId=76561197997030229) initiated disconnect process...
+21:22:15 | Player "Survivor" (steamId=76561197997030229) disconnected early from server (EXIT NOW).
+21:22:16 | Player "Survivor" (steamId=76561197997030229) disconnected from server.
+21:32:11 | Player "1DEADMANWALKIN" (steamId=76561198056112020) initiated disconnect process...
+21:32:14 | Player "1DEADMANWALKIN" (steamId=76561198056112020) disconnected from server.
+21:38:6 | Player "NOVAKILLSFORYOU" (steamId=76561198089301277) initiated disconnect process...
+21:38:7 | Player "NOVAKILLSFORYOU" (steamId=76561198089301277) disconnected early from server (EXIT NOW).
+21:38:9 | Player "NOVAKILLSFORYOU" (steamId=76561198089301277) disconnected from server.
+21:41:45 | Player "NOVAKILLSFORYOU" (steamId=76561198089301277) connected to server!
+23:7:24 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3205.418945, -1.756447, 1620.807251>
+23:7:27 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_support at position: <3205.418945, -1.756447, 1620.807251>
+23:7:32 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_tread at position: <3205.418945, -1.756447, 1620.807251>
+23:8:14 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3196.652832, -1.756447, 1622.845215>
+23:8:21 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_support at position: <3196.652832, -1.756447, 1622.845215>
+23:8:23 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_tread at position: <3196.652832, -1.756447, 1622.845215>
+23:10:4 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3204.671875, 1.244497, 1610.971069>
+23:10:6 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorframe at position: <3204.671875, 1.244497, 1610.971069>
+23:10:7 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorfinished at position: <3204.671875, 1.244497, 1610.971069>
+23:10:20 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3211.875244, 1.244025, 1615.455811>
+23:10:21 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorframe at position: <3211.875244, 1.244025, 1615.455811>
+23:10:22 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorfinished at position: <3211.875244, 1.244025, 1615.455811>
+23:10:36 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3210.515869, 1.244968, 1609.611694>
+23:10:37 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorframe at position: <3210.515869, 1.244968, 1609.611694>
+23:10:38 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_floorfinished at position: <3210.515869, 1.244968, 1609.611694>
+23:11:9 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base at position: <3201.460938, -1.755502, 1607.097900>
+23:11:11 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_support at position: <3201.460938, -1.755502, 1607.097900>
+23:11:12 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_tread at position: <3201.460938, -1.755502, 1607.097900>
+23:11:13 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_handrailing at position: <3201.460938, -1.755502, 1607.097900>
+23:11:23 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_handrailing at position: <3205.418945, -1.756447, 1620.807251>
+23:11:26 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_handrailing at position: <3196.652832, -1.756447, 1622.845215>
+23:14:8 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base_third at position: <3208.543701, 1.244025, 1640.870850>
+23:14:11 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_wallframe_third at position: <3208.543701, 1.244025, 1640.870850>
+23:14:21 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base_third at position: <3207.185059, 1.244025, 1635.026733>
+23:14:22 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_wallframe_third at position: <3207.185059, 1.244025, 1635.026733>
+23:14:40 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base_third at position: <3205.826416, 1.244025, 1629.182617>
+23:14:42 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_wallframe_third at position: <3205.826416, 1.244025, 1629.182617>
+23:14:59 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base_third at position: <3204.467773, 1.244025, 1623.338501>
+23:15:2 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_wallframe_third at position: <3204.467773, 1.244025, 1623.338501>
+23:15:16 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base_third at position: <3202.699219, 1.244025, 1642.229492>
+23:15:17 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_wallframe_third at position: <3202.699219, 1.244025, 1642.229492>
+23:15:29 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base_third at position: <3201.339844, 1.244497, 1636.385254>
+23:15:31 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_wallframe_third at position: <3201.339844, 1.244497, 1636.385254>
+23:16:1 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base_third at position: <3199.980469, 1.244968, 1630.541016>
+23:16:9 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_wallframe_third at position: <3199.980469, 1.244968, 1630.541016>
+23:16:25 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_base_third at position: <3198.623291, 1.244025, 1624.697144>
+23:16:26 | Admin "NOVAKILLSFORYOU" (steamId=76561198089301277) built part wood_wallframe_third at position: <3198.623291, 1.244025, 1624.697144>
+23:17:49 | Player "MGM_762" (steamId=76561198330451260) connected to server!
+0:16:23 | Player "1DEADMANWALKIN" (steamId=76561198056112020) connected to server!
+1:36:15 | Player "1DEADMANWALKIN" (steamId=76561198056112020) initiated disconnect process...
+1:36:18 | Player "1DEADMANWALKIN" (steamId=76561198056112020) disconnected from server.
+1:53:2 | Player "NOVAKILLSFORYOU" (steamId=76561198089301277) initiated disconnect process...
+1:53:5 | Player "NOVAKILLSFORYOU" (steamId=76561198089301277) disconnected from server.
+1:56:29 | Player "MGM_762" (steamId=76561198330451260) initiated disconnect process...
+1:56:32 | Player "MGM_762" (steamId=76561198330451260) disconnected from server.
+2:25:50 | Player "Reapskie" (steamId=76561198030330294) connected to server!
+3:55:14 | Player "Reapskie" (steamId=76561198030330294) initiated disconnect process...
+3:55:17 | Player "Reapskie" (steamId=76561198030330294) disconnected from server.
+5:24:32 | Player "Reapskie" (steamId=76561198030330294) connected to server!
+6:20:39 | Player "Reapskie" (steamId=76561198030330294) initiated disconnect process...
+6:20:42 | Player "Reapskie" (steamId=76561198030330294) disconnected from server.
+11:54:28 | Player "NOVAKILLSFORYOU" (steamId=76561198089301277) connected to server!
+12:2:1 | Player "NOVAKILLSFORYOU" (steamId=76561198089301277) initiated disconnect process...

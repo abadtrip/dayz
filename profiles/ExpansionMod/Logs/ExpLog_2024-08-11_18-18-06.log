@@ -1,0 +1,25 @@
+18:20:36.312 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<2164.352539, 20.369936, 14615.567383>) Entered the safezone
+18:20:36.312 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+18:20:36.328 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:20:36.328 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+18:20:36.328 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:20:36.328 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:20:36.328 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+18:20:36.335 [AI Object Patrol] Spawning 1 West bots at <2720.424561, 7.754950, 14721.131836>
+18:20:36.367 [AI Patrol] Spawning 2 IslandCastle bots at <2592.716064, 25.477100, 13873.967773>
+18:20:37.210 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:22:03.968 [Safezone] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4= pos=<2158.801514, 20.369963, 14622.074219>) Entered the safezone
+18:22:03.968 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+18:22:03.976 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:22:03.976 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:22:03.976 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:22:03.984 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:22:03.984 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=
+18:22:04.835 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:22:26.734 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+18:24:05.156 [MissionAirdrop] An airdrop is heading towards "Greenville" (pos=<4658.000000, 0.000000, 1414.000000> type=Random_Greenville) with a ExpansionAirdropContainer
+18:24:52.140 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to purchase bz_crochide_nvgs x1 from the trader "Ballerz (Helga [#BallerZ])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>).
+18:24:52.140 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has bought bz_crochide_nvgs x1 from the trader "Ballerz (Helga [#BallerZ])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>) for a price of 7000.
+18:25:00.320 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has send a requested to sell bz_heineken_nvgs x1 at the trader "Ballerz (Helga [#BallerZ])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>).
+18:25:00.320 [Market] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) has sold bz_heineken_nvgs x1 at the trader "Ballerz (Helga [#BallerZ])" in market zone "The Rig" (pos=<2154.000000, 30.000000, 14620.000000>) and got 7000.
+18:34:16.304 [Party] Player "MGM_762" (id=6CBOabJUM7Qqd7NEG4Do-ueQ7Uqvietj4ODcWmz64j4=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)

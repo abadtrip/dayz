@@ -1,0 +1,8 @@
+12:36:49.722 [MissionAirdrop] An airdrop is heading towards "Oceanville" (pos=<10179.000000, 0.000000, 4722.000000> type=Random_Oceanville) with a ExpansionAirdropContainer_Military
+14:06:49.800 [MissionAirdrop] An airdrop is heading towards "Hazelands" (pos=<4539.000000, 0.000000, 2317.000000> type=Random_Hazelands) with a ExpansionAirdropContainer
+15:30:13.183 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: Z2Mdx6m4zUooUanwCcVFEKd86HOwdUncsEXOBspi8jQ=
+15:30:13.203 [Expansion Quests] - CompleteQuest - Player with UID Z2Mdx6m4zUooUanwCcVFEKd86HOwdUncsEXOBspi8jQ= has completed quest 14
+15:30:35.261 [SpawnSelection] Player "ksheo" (id=Z2Mdx6m4zUooUanwCcVFEKd86HOwdUncsEXOBspi8jQ=) spawned at <9228.518555, 29.032925, 5206.634766>
+15:36:36.859 [AI Object Patrol] Spawning 1 East bots at <7525.571777, 24.610600, 3927.077637>
+15:39:02.882 [MissionAirdrop] An airdrop is heading towards "Westbrook" (pos=<3614.000000, 0.000000, 6360.000000> type=Random_Westbrook) with a ExpansionAirdropContainer_Medical
+15:47:39.421 [AI Object Patrol] Despawning 1 East bots (spawn position <7525.571777, 24.610600, 3927.077637>, 0/1 deceased)

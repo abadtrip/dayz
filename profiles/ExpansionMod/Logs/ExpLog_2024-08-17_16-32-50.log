@@ -1,0 +1,24 @@
+16:38:50.328 [MissionAirdrop] An airdrop is heading towards "Stonington" (pos=<6973.000000, 0.000000, 1701.000000> type=Random_Stonington) with a ExpansionAirdropContainer
+18:09:48.304 [MissionAirdrop] An airdrop is heading towards "Greenville" (pos=<4658.000000, 0.000000, 1414.000000> type=Random_Greenville) with a ExpansionAirdropContainer_Military
+19:40:31.335 [MissionAirdrop] An airdrop is heading towards "Stonington" (pos=<6973.000000, 0.000000, 1701.000000> type=Random_Stonington) with a ExpansionAirdropContainer
+19:46:37.382 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=
+19:46:37.382 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=
+19:46:37.382 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=
+19:46:37.382 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: EdUtHoz7RvdC6FQiZqYS7wLTRJsMr8Ls7MVvb9HcjjQ=
+20:13:18.765 [AI Object Patrol] Spawning 1 East bots at <7103.325684, 7.401631, 8735.486328>
+20:15:05.296 [AI Patrol] Spawning 3 Mountainville bots at <7139.423828, 10.489917, 8473.500000>
+20:17:39.226 [Killfeed] AI Denis (East) got killed by AI Guo (Mountainville) with Pioneer from a distance of 112 m.
+20:17:39.656 [AI Object Patrol] East bots were wiped out (spawn position <7103.325684, 7.401631, 8735.486328>, 1/1 deceased)
+20:27:46.632 [AI Patrol] Despawning 3 Mountainville bots (spawn position <7139.423828, 10.489917, 8473.500000>, 0/3 deceased)
+21:11:41.492 [MissionAirdrop] An airdrop is heading towards "Stonington" (pos=<6973.000000, 0.000000, 1701.000000> type=Random_Stonington) with a ExpansionAirdropContainer
+21:38:52.000 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) joinded the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)
+21:38:52.031 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+21:38:52.031 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+21:38:52.031 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+21:38:52.039 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+21:38:52.039 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: _i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=
+21:38:52.851 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+21:41:06.914 [AI Patrol] Spawning 2 IslandCastle bots at <2819.885498, 19.413668, 13923.649414>
+21:41:07.437 [Safezone] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= pos=<2148.881836, 33.374393, 14623.583984>) Entered the safezone
+21:41:27.867 [AI Object Patrol] Spawning 1 East bots at <1150.051880, 3.974263, 14720.352539>
+21:47:06.984 [Party] Player "NOVAKILLSFORYOU" (id=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04=) left the party "OSS" (id=0 ownerUID=_i471QtP-cQO7LGlvQxSkkb6U2OdaENSi4dYAnCjv04= ownerName=NOVAKILLSFORYOU)

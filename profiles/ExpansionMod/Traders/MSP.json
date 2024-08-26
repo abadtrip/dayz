@@ -1,0 +1,28 @@
+{
+  "m_Version": 12,
+  "DisplayName": "MSP",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Skull 1",
+  "DisplayCurrencyName": "",
+  "DisplayCurrencyValue": 1,
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "Categories": [
+   "MSP_Barrels",
+"MSP_Clothes",
+"MSP_Decorations",
+"MSP_Fridges",
+"MSP_Garden",
+"MSP_Kit_Storage",
+"MSP_Melee",
+"MSP_Seasonal",
+"MSP_Standalone_Storage",
+"MSP_Tents",
+"MSP_Utilities"
+  ],
+  "Items": {}
+}
